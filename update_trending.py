@@ -37,7 +37,7 @@ def update_readme(content):
         readme = f.read()
         
     # 🌟 我们的新路标：直接认你主页上这个肉眼可见的标题！
-    delimiter = "### My Latest Trending Repos 👇"
+    delimiter = "## My Latest Trending Repos 👇"
     
     if delimiter in readme:
         # 以这个标题为界限，把文章劈成两半。保留上半部分（你的API圆环等），扔掉下半部分。
