@@ -41,7 +41,7 @@ def update_readme(content):
         
     # 使用正则替换占位符之间的内容
     updated_readme = re.sub(
-        r'.*',
+        r'.*?',
         f'\n{content}\n',
         readme,
         flags=re.DOTALL
