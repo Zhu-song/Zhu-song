@@ -2,30 +2,25 @@ name: Update GitHub Trending
 
 on:
   schedule:
-    # 每天国际标准时间 0点（北京时间早上 8点）自动运行
     - cron: '0 0 * * *'
-  # 允许你在 Actions 页面手动点击运行
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      # 1. 获取你的仓库代码
       - uses: actions/checkout@v3
-      
-      # 2. 准备 Python 环境
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-          
-      # 3. 安装我们脚本需要的 requests 库
       - run: pip install requests
       
-      # 4. 运行我们的抓取和切割脚本
-      - run: python update_trending.py
-      
-      # 5. 把更新后的 README 保存并推送到你的主页
+      # 🌟 下面这里就是把系统的 VIP 钥匙递给机器人
+      - name: 运行抓取脚本
+        run: python update_trending.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
