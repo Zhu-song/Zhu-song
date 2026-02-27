@@ -1,24 +1,33 @@
-name: "📚 Blog Updater"
+name: Update GitHub Trending
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    # 每天国际标准时间 0点（北京时间早上 8点）自动运行
+    - cron: '0 0 * * *'
+  # 允许你在 Actions 页面手动点击运行
+  workflow_dispatch:
 
 jobs:
-  update_blogs:
-    name: "Update Blogs"
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      # 1. 获取你的仓库代码
+      - uses: actions/checkout@v3
+      
+      # 2. 准备 Python 环境
+      - uses: actions/setup-python@v4
         with:
-          USERNAME: 'zhangjintao9020'
-          BLOG_URL: 'https://blog.moelove.info'
-          COUNT: 2 # MAX Visisble
-          STYLE: "blog-left"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python-version: '3.x'
+          
+      # 3. 安装我们脚本需要的 requests 库
+      - run: pip install requests
+      
+      # 4. 运行我们的抓取和切割脚本
+      - run: python update_trending.py
+      
+      # 5. 把更新后的 README 保存并推送到你的主页
+      - run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新每日热门仓库" && git push)
