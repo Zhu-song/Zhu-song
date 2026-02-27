@@ -1,6 +1,5 @@
 import requests
 import datetime
-import re
 
 def fetch_trending_repos():
     yesterday = (datetime.datetime.utcnow() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
@@ -13,7 +12,6 @@ def fetch_trending_repos():
         
     data = response.json()
     
-    
     content = "\n"
     for item in data.get('items', [])[:5]:
         name = item['full_name']
@@ -22,7 +20,6 @@ def fetch_trending_repos():
         lang = item['language'] or "未知"
         stars = item['stargazers_count']
         
-        # 模仿博客列表的标题、数据和简介
         content += f"### [{name}]({repo_url})\n\n"
         content += f"🗓 **{yesterday}** ｜ ⭐️ **{stars} stars** ｜ 🗂 **{lang}**\n\n"
         content += f"{desc}\n\n---\n\n"
@@ -33,16 +30,22 @@ def update_readme(content):
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
         
-    # 精准替换路标中间的内容
-    updated_readme = re.sub(
-        r'.*?',
-        f'\n{content}',
-        readme,
-        flags=re.DOTALL
-    )
+    start_marker = ""
+    end_marker = ""
     
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated_readme)
+    # 找到这两个路标的精确位置
+    start_idx = readme.find(start_marker)
+    end_idx = readme.find(end_marker)
+    
+    # 只要找到了路标，直接暴力切掉中间的所有东西！
+    if start_idx != -1 and end_idx != -1 and start_idx < end_idx:
+        updated_readme = readme[:start_idx + len(start_marker)] + "\n" + content + readme[end_idx:]
+        
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(updated_readme)
+        print("更新成功！")
+    else:
+        print("错误：在 README.md 中找不到路标！")
 
 if __name__ == "__main__":
     trending_content = fetch_trending_repos()
