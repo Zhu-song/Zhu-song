@@ -1,0 +1,34 @@
+name: Update GitHub Trending
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 执行（北京时间早上 8:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你在 Actions 页面手动点击按钮测试运行
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Python script
+        run: python update_trending.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          # 如果内容有变化才提交
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新每日热门仓库" && git push)
