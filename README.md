@@ -49,4 +49,7 @@ chat through postgres!
 暂无描述
 
 ---
-
+### 📫 联系我 & 找到我 (Contact Me)
+- ✍️ **博客 / Blog**: [点击访问我的博客](https://你的博客地址.com)
+- 💬 **微信公众号 / WeChat**: Z.
+- 📧 **邮箱 / Email**: zhusong262@gmail.com
