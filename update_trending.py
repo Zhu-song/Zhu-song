@@ -7,22 +7,18 @@ def fetch_trending_repos():
     url = f"https://api.github.com/search/repositories?q=created:>{yesterday}&sort=stars&order=desc"
     
     headers = {"Accept": "application/vnd.github.v3+json"}
-    
-    # 🌟 这里就是给机器人加的 VIP 通行证！
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
         
     response = requests.get(url, headers=headers)
-    
     if response.status_code != 200:
-        print(f"❌ 抓取失败！被 GitHub 拦截了。状态码: {response.status_code}")
-        print(response.text)
+        print("❌ 抓取失败！")
         return None
         
     data = response.json()
     
-    content = "\n"
+    content = "\n\n"
     for item in data.get('items', [])[:5]:
         name = item['full_name']
         repo_url = item['html_url']
@@ -40,24 +36,23 @@ def update_readme(content):
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
         
-    start_marker = ""
-    end_marker = ""
+    # 🌟 我们的新路标：直接认你主页上这个肉眼可见的标题！
+    delimiter = "### My Latest Trending Repos 👇"
     
-    start_idx = readme.find(start_marker)
-    end_idx = readme.find(end_marker)
-    
-    if start_idx != -1 and end_idx != -1 and start_idx < end_idx:
-        updated_readme = readme[:start_idx + len(start_marker)] + "\n" + content + readme[end_idx:]
+    if delimiter in readme:
+        # 以这个标题为界限，把文章劈成两半。保留上半部分（你的API圆环等），扔掉下半部分。
+        top_part = readme.split(delimiter)[0]
+        
+        # 重新拼接：上半部分 + 标题 + 最新的热门数据
+        updated_readme = top_part + delimiter + content
         
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(updated_readme)
-        print("🎉 更新成功！路标找到了，数据也写进去了！")
+        print("🎉 更新成功！使用了全新的标题定位法！")
     else:
-        print("❌ 错误：在 README.md 中找不到那两行隐形路标，或者排版乱了！")
+        print(f"❌ 错误：找不到标题 '{delimiter}'，请确保 README 中有这行字！")
 
 if __name__ == "__main__":
     trending_content = fetch_trending_repos()
     if trending_content:
         update_readme(trending_content)
-    else:
-        print("❌ 没有获取到热门数据，放弃修改 README。")
