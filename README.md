@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Moncef37i/Moncef37i](https://github.com/Moncef37i/Moncef37i)
+### [ahmetb/etcdedit](https://github.com/ahmetb/etcdedit)
 
-🗓 **2026-02-27** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+🗓 **2026-02-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+
+Directly edit Kubernetes resources stored in etcd
+
+---
+
+### [zanwenfu/vynnai-agent](https://github.com/zanwenfu/vynnai-agent)
+
+🗓 **2026-02-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+VYNN AI Agent Backend is a standalone agent execution system for financial analysis. It orchestrates LLM-based agents to scrape historical financial data, build valuation models, analyze real-time financial news, and generate structured financial reports, with a focus on modularity and reproducible execution.
+
+---
+
+### [Spandana-N-S/Own-AI-Website-Builder-AISiteSculptor-](https://github.com/Spandana-N-S/Own-AI-Website-Builder-AISiteSculptor-)
+
+🗓 **2026-02-28** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [JamzOJamz/tML-BoulderBackport](https://github.com/JamzOJamz/tML-BoulderBackport)
+### [Spandana-N-S/Full-Stack-AI-SaaS-App-NexusAI-Hub-](https://github.com/Spandana-N-S/Full-Stack-AI-SaaS-App-NexusAI-Hub-)
 
-🗓 **2026-02-27** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
-
-暂无描述
-
----
-
-### [melonmelonz/nextchapter](https://github.com/melonmelonz/nextchapter)
-
-🗓 **2026-02-27** ｜ ⭐️ **1 stars** ｜ 🗂 **CSS**
-
-Next Chapter application site with a Windows 95 quiz theme. Vanilla JS, HTML & CSS.
-
----
-
-### [ir481/my-first-project](https://github.com/ir481/my-first-project)
-
-🗓 **2026-02-27** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-02-28** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [Willyataaaaaaaaaaa/ludex-website](https://github.com/Willyataaaaaaaaaaa/ludex-website)
+### [Gurehmat/Eportfolio-retro](https://github.com/Gurehmat/Eportfolio-retro)
 
-🗓 **2026-02-27** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-02-28** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
-اهلا بكم في Ludex Store Website
+暂无描述
 
 ---
 
