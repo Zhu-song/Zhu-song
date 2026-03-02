@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [ahmetb/etcdedit](https://github.com/ahmetb/etcdedit)
+### [Keely-Ai/JAX-F2D2](https://github.com/Keely-Ai/JAX-F2D2)
 
-🗓 **2026-02-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+🗓 **2026-03-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
 
-Directly edit Kubernetes resources stored in etcd
-
----
-
-### [zanwenfu/vynnai-agent](https://github.com/zanwenfu/vynnai-agent)
-
-🗓 **2026-02-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-VYNN AI Agent Backend is a standalone agent execution system for financial analysis. It orchestrates LLM-based agents to scrape historical financial data, build valuation models, analyze real-time financial news, and generate structured financial reports, with a focus on modularity and reproducible execution.
+JAX implementation of F2D2: Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models (https://arxiv.org/abs/2512.02636)
 
 ---
 
-### [Spandana-N-S/Own-AI-Website-Builder-AISiteSculptor-](https://github.com/Spandana-N-S/Own-AI-Website-Builder-AISiteSculptor-)
+### [babeinlovexd/Insane-Sound-System](https://github.com/babeinlovexd/Insane-Sound-System)
 
-🗓 **2026-02-28** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-01** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
 
-暂无描述
-
----
-
-### [Spandana-N-S/Full-Stack-AI-SaaS-App-NexusAI-Hub-](https://github.com/Spandana-N-S/Full-Stack-AI-SaaS-App-NexusAI-Hub-)
-
-🗓 **2026-02-28** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
+🚀 Insane Sound System V4: Das ultimative ESP32-S3 & D1 Mini Custom-Board! Bietet High-Fidelity I2S-Audio mit nahtlosem Hardware-Mux-Switching zwischen WLAN (ESPHome) & Bluetooth. Inkl. 2x15W Class-D Amp, 4-Zonen WS2811 LED-Steuerung & smarter Klima-Überwachung. Open-Source Multiroom-Audio auf einem neuen Level! 🎧🔊
 
 ---
 
-### [Gurehmat/Eportfolio-retro](https://github.com/Gurehmat/Eportfolio-retro)
+### [mattcr77/Calculadora-de-Performance-do-Atendimento](https://github.com/mattcr77/Calculadora-de-Performance-do-Atendimento)
 
-🗓 **2026-02-28** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-03-01** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Calculadora de Performance do Atendimento
+
+---
+
+### [l1teSG/JFelipeDev](https://github.com/l1teSG/JFelipeDev)
+
+🗓 **2026-03-01** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Portafolio de JFelipeDev 🚀 | Web & Mobile (React, Astro, React Native) | Game Dev (Godot/GDScript) | Creador de Dirty Road 🌱⚽  
+
+---
+
+### [Dippp10/auto-repo-1772413314-1](https://github.com/Dippp10/auto-repo-1772413314-1)
+
+🗓 **2026-03-01** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
