@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Keely-Ai/JAX-F2D2](https://github.com/Keely-Ai/JAX-F2D2)
+### [Saifullahkhan31/Smart-AI-Bus-Travel-Planner](https://github.com/Saifullahkhan31/Smart-AI-Bus-Travel-Planner)
 
-🗓 **2026-03-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
-
-JAX implementation of F2D2: Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models (https://arxiv.org/abs/2512.02636)
-
----
-
-### [babeinlovexd/Insane-Sound-System](https://github.com/babeinlovexd/Insane-Sound-System)
-
-🗓 **2026-03-01** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
-
-🚀 Insane Sound System V4: Das ultimative ESP32-S3 & D1 Mini Custom-Board! Bietet High-Fidelity I2S-Audio mit nahtlosem Hardware-Mux-Switching zwischen WLAN (ESPHome) & Bluetooth. Inkl. 2x15W Class-D Amp, 4-Zonen WS2811 LED-Steuerung & smarter Klima-Überwachung. Open-Source Multiroom-Audio auf einem neuen Level! 🎧🔊
-
----
-
-### [mattcr77/Calculadora-de-Performance-do-Atendimento](https://github.com/mattcr77/Calculadora-de-Performance-do-Atendimento)
-
-🗓 **2026-03-01** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Calculadora de Performance do Atendimento
-
----
-
-### [l1teSG/JFelipeDev](https://github.com/l1teSG/JFelipeDev)
-
-🗓 **2026-03-01** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Portafolio de JFelipeDev 🚀 | Web & Mobile (React, Astro, React Native) | Game Dev (Godot/GDScript) | Creador de Dirty Road 🌱⚽  
-
----
-
-### [Dippp10/auto-repo-1772413314-1](https://github.com/Dippp10/auto-repo-1772413314-1)
-
-🗓 **2026-03-01** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-02** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
+
+---
+
+### [necouncil/GoatsPass](https://github.com/necouncil/GoatsPass)
+
+🗓 **2026-03-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+GoatsPass - Менеджер паролей
+
+---
+
+### [longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System](https://github.com/longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System)
+
+🗓 **2026-03-02** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+A centralized flood rescue coordination system for managing rescue requests, dispatching teams, tracking relief supplies, and real-time operation monitoring.
+
+---
+
+### [Gabriel-V-Maia/Systemic](https://github.com/Gabriel-V-Maia/Systemic)
+
+🗓 **2026-03-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Repositório para o final projeto Situação Aprendizagem no Senai SUL
+
+---
+
+### [NeanReal/mean_hotel_manager](https://github.com/NeanReal/mean_hotel_manager)
+
+🗓 **2026-03-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+1C Hotel Manager
 
 ---
 
