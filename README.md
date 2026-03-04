@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Saifullahkhan31/Smart-AI-Bus-Travel-Planner](https://github.com/Saifullahkhan31/Smart-AI-Bus-Travel-Planner)
+### [Doobzi/DoobzisDeepSleep](https://github.com/Doobzi/DoobzisDeepSleep)
 
-🗓 **2026-03-02** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-03-03** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
+
+Doobzi's Deep Sleep - A Rust-inspired offline loot plugin for Unturned (RocketMod v4)
+
+---
+
+### [Menna-Ahmed-Ibrahim-Cloud/Cloud-Healthcare-Management-Architecture](https://github.com/Menna-Ahmed-Ibrahim-Cloud/Cloud-Healthcare-Management-Architecture)
+
+🗓 **2026-03-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [necouncil/GoatsPass](https://github.com/necouncil/GoatsPass)
+### [forrestzzp/CEOAgent.net](https://github.com/forrestzzp/CEOAgent.net)
 
-🗓 **2026-03-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-GoatsPass - Менеджер паролей
-
----
-
-### [longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System](https://github.com/longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System)
-
-🗓 **2026-03-02** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-A centralized flood rescue coordination system for managing rescue requests, dispatching teams, tracking relief supplies, and real-time operation monitoring.
+CEOAgent.net is not just another AI chat tool. It is the first “AI Enterprise Operating System” in human history — a closed-loop decision-making and execution system that simulates a CEO plus a full C-suite executive team, delivering end-to-end AI collaboration capabilities from strategy to execution for businesses and professionals anywhere…
 
 ---
 
-### [Gabriel-V-Maia/Systemic](https://github.com/Gabriel-V-Maia/Systemic)
+### [toasted-sea-salt/elle_rabley_porfolio](https://github.com/toasted-sea-salt/elle_rabley_porfolio)
 
-🗓 **2026-03-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-03** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
-Repositório para o final projeto Situação Aprendizagem no Senai SUL
+暂无描述
 
 ---
 
-### [NeanReal/mean_hotel_manager](https://github.com/NeanReal/mean_hotel_manager)
+### [3886370410/SaUZffgpxl](https://github.com/3886370410/SaUZffgpxl)
 
-🗓 **2026-03-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-1C Hotel Manager
+暂无描述
 
 ---
 
