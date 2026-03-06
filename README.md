@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [BocchiDaruko/WebcraftAI](https://github.com/BocchiDaruko/WebcraftAI)
+### [blairtcg/protego](https://github.com/blairtcg/protego)
 
-🗓 **2026-03-04** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-03-05** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-Autonomous agents competing in Monopoly, creating a pure agent-to-agent economy with real financial transactions.
-
----
-
-### [chiefaiadvisors/chief_ai_advisors_demo](https://github.com/chiefaiadvisors/chief_ai_advisors_demo)
-
-🗓 **2026-03-04** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-AI Workflow & Services Demo showcasing Chief AI Advisors capabilities
+Lightweight, scalable circuit breaker in Go
 
 ---
 
-### [xieyz1980/ai-commit-assistant](https://github.com/xieyz1980/ai-commit-assistant)
+### [nwpxd/apextrad](https://github.com/nwpxd/apextrad)
 
-🗓 **2026-03-04** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-智能Git提交助手 - AI Commit Assistant. Automatically generate meaningful Git commit messages using AI.
-
----
-
-### [3886370410/NgUcugmzMn](https://github.com/3886370410/NgUcugmzMn)
-
-🗓 **2026-03-04** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
+Claude did nothing not vibe-coded
 
 ---
 
-### [5771323yang/QeNrJXbVwM](https://github.com/5771323yang/QeNrJXbVwM)
+### [igofreely/firstRTS](https://github.com/igofreely/firstRTS)
 
-🗓 **2026-03-04** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **GDScript**
+
+My first RTS game
+
+---
+
+### [nwpxd/venture](https://github.com/nwpxd/venture)
+
+🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+scan
+
+---
+
+### [liuwei283/RealWonder](https://github.com/liuwei283/RealWonder)
+
+🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
