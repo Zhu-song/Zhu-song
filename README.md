@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [blairtcg/protego](https://github.com/blairtcg/protego)
+### [maria-rcks/t3code-aur](https://github.com/maria-rcks/t3code-aur)
 
-🗓 **2026-03-05** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
 
-Lightweight, scalable circuit breaker in Go
-
----
-
-### [nwpxd/apextrad](https://github.com/nwpxd/apextrad)
-
-🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Claude did nothing not vibe-coded
+T3 Code (t3.codes) packaged for the AUR
 
 ---
 
-### [igofreely/firstRTS](https://github.com/igofreely/firstRTS)
+### [ravindrameena1/Test](https://github.com/ravindrameena1/Test)
 
-🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **GDScript**
+🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-My first RTS game
-
----
-
-### [nwpxd/venture](https://github.com/nwpxd/venture)
-
-🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-scan
+暂无描述
 
 ---
 
-### [liuwei283/RealWonder](https://github.com/liuwei283/RealWonder)
+### [ravindrameena1/Core-java](https://github.com/ravindrameena1/Core-java)
 
-🗓 **2026-03-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [sg-van/ios-skills](https://github.com/sg-van/ios-skills)
+
+🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+暂无描述
+
+---
+
+### [DiegoAlvesDevCuiabano/Repo-para-turma-de-Ads-2](https://github.com/DiegoAlvesDevCuiabano/Repo-para-turma-de-Ads-2)
+
+🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
 
 暂无描述
 
