@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [maria-rcks/t3code-aur](https://github.com/maria-rcks/t3code-aur)
+### [orange2ai/Flash-Translate](https://github.com/orange2ai/Flash-Translate)
 
-🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+🗓 **2026-03-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Swift**
 
-T3 Code (t3.codes) packaged for the AUR
+极简 macOS 菜单栏划词翻译工具
 
 ---
 
-### [ravindrameena1/Test](https://github.com/ravindrameena1/Test)
+### [mase1981/uc-intg-unifi](https://github.com/mase1981/uc-intg-unifi)
 
-🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [ravindrameena1/Core-java](https://github.com/ravindrameena1/Core-java)
+### [Chachi8531/TripleStream](https://github.com/Chachi8531/TripleStream)
 
-🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-07** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
 
-暂无描述
-
----
-
-### [sg-van/ios-skills](https://github.com/sg-van/ios-skills)
-
-🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-暂无描述
+A premium streaming & social platform built with Next.js, TypeScript, Tailwind CSS, and Supabase
 
 ---
 
-### [DiegoAlvesDevCuiabano/Repo-para-turma-de-Ads-2](https://github.com/DiegoAlvesDevCuiabano/Repo-para-turma-de-Ads-2)
+### [Sammons/agentic-collab](https://github.com/Sammons/agentic-collab)
 
-🗓 **2026-03-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-03-07** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+Zero-dependency orchestrator for managing AI coding agents (Claude, Codex, OpenCode) via tmux sessions. Node 24, no build step, no npm install.
+
+---
+
+### [Dippp10/auto-repo-1772931786-2](https://github.com/Dippp10/auto-repo-1772931786-2)
+
+🗓 **2026-03-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
