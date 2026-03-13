@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [V1ki/zero](https://github.com/V1ki/zero)
+### [pacifio/unc](https://github.com/pacifio/unc)
 
-🗓 **2026-03-11** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-03-12** ｜ ⭐️ **5 stars** ｜ 🗂 **C++**
+
+HuggingFace transformer compiler for optimised native inference binaries
+
+---
+
+### [Alejo-Cueva/Modelos-y-Sistemas-2026-Cueva](https://github.com/Alejo-Cueva/Modelos-y-Sistemas-2026-Cueva)
+
+🗓 **2026-03-12** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [ApfelTeeSaft/Embeddium](https://github.com/ApfelTeeSaft/Embeddium)
+### [ambient7/Modelos-y-Sistemas-2026-Espindola](https://github.com/ambient7/Modelos-y-Sistemas-2026-Espindola)
 
-🗓 **2026-03-11** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-03-12** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-Single DLL Backend + libcurl hook. The definitive SP solution for Fortnite.
-
----
-
-### [tw93/claude-health](https://github.com/tw93/claude-health)
-
-🗓 **2026-03-11** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Claude Code skill: audit your Claude Code config health across all layers
+E.E.S.T Nº1 Curso 7º4ª
 
 ---
 
-### [absrtc/Synthwave](https://github.com/absrtc/Synthwave)
+### [styluck/mech_learn](https://github.com/styluck/mech_learn)
 
-🗓 **2026-03-11** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-03-12** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-UE4 Redirect for Android
+暂无描述
 
 ---
 
-### [5771323yang/jiwtxdLjYj](https://github.com/5771323yang/jiwtxdLjYj)
+### [alankordel/kordel-racing-data-lab](https://github.com/alankordel/kordel-racing-data-lab)
 
-🗓 **2026-03-11** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-12** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-【Java计算机毕业设计分享】基于SSM的医院挂号系统设计与实现，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
+Brincando com pipeline de dados, com um tema que eu adoro FORMULA  1 🏎️ Construindo ate ver onde vai
 
 ---
 
