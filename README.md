@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [OndrejDrapalik/gmux](https://github.com/OndrejDrapalik/gmux)
+### [JadeLiu-tech/px-asset-extract](https://github.com/JadeLiu-tech/px-asset-extract)
 
-🗓 **2026-03-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+🗓 **2026-03-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-The terminal primitive for agentic/harness engineering.
+Extract individual assets from images as transparent PNGs. Zero ML models, pure classical CV.
 
 ---
 
-### [Hyos332/BASIC-R4NS0MW4R3](https://github.com/Hyos332/BASIC-R4NS0MW4R3)
+### [Enkerli/DrawnCurveJUCE](https://github.com/Enkerli/DrawnCurveJUCE)
 
-🗓 **2026-03-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-15** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
+
+AUv3 MIDI looper for iOS — draw a curve, loop it as MIDI CC / Channel Pressure / Pitch Bend
+
+---
+
+### [abeldantas/autoevolve](https://github.com/abeldantas/autoevolve)
+
+🗓 **2026-03-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [5771323yang/CTIHSXWiCY](https://github.com/5771323yang/CTIHSXWiCY)
+### [guiabbehusen/project-pupila](https://github.com/guiabbehusen/project-pupila)
 
-🗓 **2026-03-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-【Java计算机毕业设计分享】基于SpringBoot+小程序的人口普查信息采集系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
-
----
-
-### [5771323yang/HwHWwjalwr](https://github.com/5771323yang/HwHWwjalwr)
-
-🗓 **2026-03-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SpringBoot的机场资源管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+ Sistema de visão computacional para análise de ambientes de varejo, projetado para entender o fluxo de clientes, o tempo de permanência e o engajamento por zona em lojas físicas.
 
 ---
 
-### [josuetamayo05/Flutter-App](https://github.com/josuetamayo05/Flutter-App)
+### [brandonandres/Laboratorio-Sistemas-Embebidos](https://github.com/brandonandres/Laboratorio-Sistemas-Embebidos)
 
-🗓 **2026-03-14** ｜ ⭐️ **1 stars** ｜ 🗂 **C++**
+🗓 **2026-03-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-My First Flutter Application
+Implementación de un Sistema de Control con Voz y Visión Artificial Integrado con Arduino
 
 ---
 
