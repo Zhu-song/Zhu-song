@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [JadeLiu-tech/px-asset-extract](https://github.com/JadeLiu-tech/px-asset-extract)
+### [BrainToSpeech/snn](https://github.com/BrainToSpeech/snn)
 
-🗓 **2026-03-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Extract individual assets from images as transparent PNGs. Zero ML models, pure classical CV.
-
----
-
-### [Enkerli/DrawnCurveJUCE](https://github.com/Enkerli/DrawnCurveJUCE)
-
-🗓 **2026-03-15** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
-
-AUv3 MIDI looper for iOS — draw a curve, loop it as MIDI CC / Channel Pressure / Pitch Bend
-
----
-
-### [abeldantas/autoevolve](https://github.com/abeldantas/autoevolve)
-
-🗓 **2026-03-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [guiabbehusen/project-pupila](https://github.com/guiabbehusen/project-pupila)
+### [ihebeez/AiWatch](https://github.com/ihebeez/AiWatch)
 
-🗓 **2026-03-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
- Sistema de visão computacional para análise de ambientes de varejo, projetado para entender o fluxo de clientes, o tempo de permanência e o engajamento por zona em lojas físicas.
+AI-powered robot monitoring system with real-time telemetry simulation, anomaly detection, and chat insights using FastAPI, MindsDB + Gemini, Angular, and PostgreSQL on AWS EC2 provisioned with Terraform.
 
 ---
 
-### [brandonandres/Laboratorio-Sistemas-Embebidos](https://github.com/brandonandres/Laboratorio-Sistemas-Embebidos)
+### [sedegah/SOP2K](https://github.com/sedegah/SOP2K)
 
-🗓 **2026-03-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Implementación de un Sistema de Control con Voz y Visión Artificial Integrado con Arduino
+SOP2K converts boolean Sum-of-Products (SOP) expressions into Karnaugh Maps with real-time visualization and automatic boolean minimization.
+
+---
+
+### [ArdoopTechnologies/Arc-bcp](https://github.com/ArdoopTechnologies/Arc-bcp)
+
+🗓 **2026-03-16** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Backup-A3
+
+---
+
+### [3886370410/AkUiMLBScZ](https://github.com/3886370410/AkUiMLBScZ)
+
+🗓 **2026-03-16** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Java计算机毕业设计分享】基于Android网约车管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
