@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026](https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026)
+### [AvaotaSBC/AvaotaF2](https://github.com/AvaotaSBC/AvaotaF2)
 
-🗓 **2026-03-17** ｜ ⭐️ **43 stars** ｜ 🗂 **Solidity**
+🗓 **2026-03-18** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
 
-Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits
-
----
-
-### [timesentry/agentsentry](https://github.com/timesentry/agentsentry)
-
-🗓 **2026-03-17** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
-
-Lightweight agent chronometry tooling
+AvaotaF2 is a tiny RISC-V Linux SBC with RVV1.0 ready based on Allwinner V861
 
 ---
 
-### [raphaelbarbosaqwerty/shazam-cli](https://github.com/raphaelbarbosaqwerty/shazam-cli)
+### [lucastavares06/shade](https://github.com/lucastavares06/shade)
 
-🗓 **2026-03-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Elixir**
+🗓 **2026-03-18** ｜ ⭐️ **3 stars** ｜ 🗂 **Rust**
 
-Autonomous AI Agent Teams
-
----
-
-### [3886370410/GcvzFTRRBN](https://github.com/3886370410/GcvzFTRRBN)
-
-🗓 **2026-03-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SpringBoot的智能水产养殖管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+x86 dll hider for windows processes
 
 ---
 
-### [5771323yang/nbcJKEilXr](https://github.com/5771323yang/nbcJKEilXr)
+### [Moe-kyaw-Aung-microsoft/Assembly-8086-programming-language-](https://github.com/Moe-kyaw-Aung-microsoft/Assembly-8086-programming-language-)
 
-🗓 **2026-03-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-【Java计算机毕业设计分享】基于SpringBoot的校园二手物品置换系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+programming languages 
+
+---
+
+### [Moe-kyaw-Aung-microsoft/Gatsby-programming-language](https://github.com/Moe-kyaw-Aung-microsoft/Gatsby-programming-language)
+
+🗓 **2026-03-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+programming languages
+
+---
+
+### [5771323yang/FAfxMqVCGU](https://github.com/5771323yang/FAfxMqVCGU)
+
+🗓 **2026-03-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Python计算机毕业设计分享】基于深度学习的口罩佩戴检测模型设计与实现，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
