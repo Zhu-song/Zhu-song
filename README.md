@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [AvaotaSBC/AvaotaF2](https://github.com/AvaotaSBC/AvaotaF2)
+### [ElielNascimento/git-eng5s-A](https://github.com/ElielNascimento/git-eng5s-A)
 
-🗓 **2026-03-18** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
+🗓 **2026-03-19** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-AvaotaF2 is a tiny RISC-V Linux SBC with RVV1.0 ready based on Allwinner V861
-
----
-
-### [lucastavares06/shade](https://github.com/lucastavares06/shade)
-
-🗓 **2026-03-18** ｜ ⭐️ **3 stars** ｜ 🗂 **Rust**
-
-x86 dll hider for windows processes
+暂无描述
 
 ---
 
-### [Moe-kyaw-Aung-microsoft/Assembly-8086-programming-language-](https://github.com/Moe-kyaw-Aung-microsoft/Assembly-8086-programming-language-)
+### [Its-JrDev/riwi-to-do-manager](https://github.com/Its-JrDev/riwi-to-do-manager)
 
-🗓 **2026-03-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-19** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-programming languages 
-
----
-
-### [Moe-kyaw-Aung-microsoft/Gatsby-programming-language](https://github.com/Moe-kyaw-Aung-microsoft/Gatsby-programming-language)
-
-🗓 **2026-03-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-programming languages
+暂无描述
 
 ---
 
-### [5771323yang/FAfxMqVCGU](https://github.com/5771323yang/FAfxMqVCGU)
+### [cmubig/MOSAIC](https://github.com/cmubig/MOSAIC)
 
-🗓 **2026-03-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-【Python计算机毕业设计分享】基于深度学习的口罩佩戴检测模型设计与实现，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+Official inference release for: MOSAIC: Generating Consistent, Privacy-Preserving Scenes from Multiple Depth Views in Multi-Room Environments (ICCV 2025)
+
+---
+
+### [StanLiveOps/trainingsim](https://github.com/StanLiveOps/trainingsim)
+
+🗓 **2026-03-19** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+simulator for training live ops
+
+---
+
+### [isso-1909/Weather_App](https://github.com/isso-1909/Weather_App)
+
+🗓 **2026-03-19** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+
+my Weather App
 
 ---
 
