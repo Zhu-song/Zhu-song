@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ElielNascimento/git-eng5s-A](https://github.com/ElielNascimento/git-eng5s-A)
+### [ProfAlex2021/CC2026BD](https://github.com/ProfAlex2021/CC2026BD)
 
-🗓 **2026-03-19** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [Its-JrDev/riwi-to-do-manager](https://github.com/Its-JrDev/riwi-to-do-manager)
-
-🗓 **2026-03-19** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-03-20** ｜ ⭐️ **4 stars** ｜ 🗂 **TSQL**
 
 暂无描述
 
 ---
 
-### [cmubig/MOSAIC](https://github.com/cmubig/MOSAIC)
+### [zoyoxd/ark-vm-decomp](https://github.com/zoyoxd/ark-vm-decomp)
 
-🗓 **2026-03-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-20** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-Official inference release for: MOSAIC: Generating Consistent, Privacy-Preserving Scenes from Multiple Depth Views in Multi-Room Environments (ICCV 2025)
-
----
-
-### [StanLiveOps/trainingsim](https://github.com/StanLiveOps/trainingsim)
-
-🗓 **2026-03-19** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-simulator for training live ops
+ArkoseLabs' FunCaptcha API.js virtual machine decompiled.
 
 ---
 
-### [isso-1909/Weather_App](https://github.com/isso-1909/Weather_App)
+### [byowork/manga](https://github.com/byowork/manga)
 
-🗓 **2026-03-19** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-03-20** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
-my Weather App
+A modern, fast manga reader powered by MangaDex — built with Astro, React & Cloudflare Workers
+
+---
+
+### [micrc9/SeymourTracker](https://github.com/micrc9/SeymourTracker)
+
+🗓 **2026-03-20** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Tuff ✌️
+
+---
+
+### [Hanarambi/NeonroofBlazorApp](https://github.com/Hanarambi/NeonroofBlazorApp)
+
+🗓 **2026-03-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+暂无描述
 
 ---
 
