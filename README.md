@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ProfAlex2021/CC2026BD](https://github.com/ProfAlex2021/CC2026BD)
+### [jackyliang/jit-semantic-search](https://github.com/jackyliang/jit-semantic-search)
 
-🗓 **2026-03-20** ｜ ⭐️ **4 stars** ｜ 🗂 **TSQL**
+🗓 **2026-03-21** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [zoyoxd/ark-vm-decomp](https://github.com/zoyoxd/ark-vm-decomp)
-
-🗓 **2026-03-20** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-ArkoseLabs' FunCaptcha API.js virtual machine decompiled.
+Semantic search without pre-processing. Query any text corpus instantly — no embeddings, no vector store, no index.
 
 ---
 
-### [byowork/manga](https://github.com/byowork/manga)
+### [REALMKS/Sebastian](https://github.com/REALMKS/Sebastian)
 
-🗓 **2026-03-20** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-03-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Lua**
 
-A modern, fast manga reader powered by MangaDex — built with Astro, React & Cloudflare Workers
-
----
-
-### [micrc9/SeymourTracker](https://github.com/micrc9/SeymourTracker)
-
-🗓 **2026-03-20** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Tuff ✌️
+Roblox Cleanup Module
 
 ---
 
-### [Hanarambi/NeonroofBlazorApp](https://github.com/Hanarambi/NeonroofBlazorApp)
+### [diffsense/diffsense-api](https://github.com/diffsense/diffsense-api)
 
-🗓 **2026-03-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-03-21** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-暂无描述
+AI API that turns git diffs into commit messages, security reviews, and changelog entries
+
+---
+
+### [Vibe-Marketer/top-skills](https://github.com/Vibe-Marketer/top-skills)
+
+🗓 **2026-03-21** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+8-skill lead magnet stack: Identity → Offer → Buyer → Beliefs → Argument → Attention → Copy → Voice
+
+---
+
+### [fangligamedev/openclaw-companion-memory](https://github.com/fangligamedev/openclaw-companion-memory)
+
+🗓 **2026-03-21** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+这是一个专为 Openclaw (https:/github.comopenclawopenclaw) 打造的本地化、具有强"活人感"与“深层精神共鸣"的智能陪伴记忆架构插件(Skill)
 
 ---
 
