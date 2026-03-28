@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [yinsn/sortify-resources](https://github.com/yinsn/sortify-resources)
+### [keshavakumar12/contract_flagger_ai](https://github.com/keshavakumar12/contract_flagger_ai)
 
-🗓 **2026-03-26** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-The first LLM agent that autonomously operates live ranking optimization — from tool to operator
-
----
-
-### [jailtoncarlos/ifgoiano_ppgia2026](https://github.com/jailtoncarlos/ifgoiano_ppgia2026)
-
-🗓 **2026-03-26** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
-
-PPGIA - Especialização em IA Aplicada a Dados Corporativos - IFGoiano Campus Urutaí
-
----
-
-### [qmclouca/ExerciciosTurma2026A](https://github.com/qmclouca/ExerciciosTurma2026A)
-
-🗓 **2026-03-26** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Materiais desenvolvidos em sala de aula
-
----
-
-### [Iman-J-Gangeh/KneeMRIClassification](https://github.com/Iman-J-Gangeh/KneeMRIClassification)
-
-🗓 **2026-03-26** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-A Deep Learning Model for knee MRI classification based off a Stanford dataset using RestNet-18. Grad-CAM integration was used to create heatmap visualizations. An acompanying website allows drag and drop image classifcation.
-
----
-
-### [ali01b/fxnx](https://github.com/ali01b/fxnx)
-
-🗓 **2026-03-26** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-03-27** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
+
+---
+
+### [5771323yang/mTAKJgAZXC](https://github.com/5771323yang/mTAKJgAZXC)
+
+🗓 **2026-03-27** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Java计算机毕业设计分享】基于推荐算法的游戏王查卡器辅助系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+
+---
+
+### [3886370410/WrbbneuXlN](https://github.com/3886370410/WrbbneuXlN)
+
+🗓 **2026-03-27** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Java计算机毕业设计分享】基于Android的视频播放器设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+
+---
+
+### [3886370410/qOMceWAmDG](https://github.com/3886370410/qOMceWAmDG)
+
+🗓 **2026-03-27** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Python计算机毕业设计分享】基于Python的自动答题源管理系统，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+
+---
+
+### [hengbingao/methmap_5base](https://github.com/hengbingao/methmap_5base)
+
+🗓 **2026-03-27** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+workflow for illumina 5 base
 
 ---
 
