@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ap5z/blooket-links](https://github.com/ap5z/blooket-links)
+### [sinkid8/sinahajeb.com](https://github.com/sinkid8/sinahajeb.com)
 
-🗓 **2026-03-28** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
 
-Method on how to get blooket links to proxy your site.
+Personal portfolio site built with Next.js 14, Tailwind CSS, and Framer Motion — showcasing projects in full-stack development, ML, and cybersecurity.
 
 ---
 
-### [araneasweb/devflakes](https://github.com/araneasweb/devflakes)
+### [5771323yang/dgAkLOQRas](https://github.com/5771323yang/dgAkLOQRas)
 
-🗓 **2026-03-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Nix**
+🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [SHAKAR-AFZAL/mcdonalds-sales-analytics-dashboard](https://github.com/SHAKAR-AFZAL/mcdonalds-sales-analytics-dashboard)
+### [ujjwaldhaka71/awesome-ai-finance](https://github.com/ujjwaldhaka71/awesome-ai-finance)
 
-🗓 **2026-03-28** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Interactive Excel dashboard analyzing South America sales performance with insights on profit, customer satisfaction, and regional trends.
-
----
-
-### [3886370410/mkuWZrvogI](https://github.com/3886370410/mkuWZrvogI)
-
-🗓 **2026-03-28** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于鸿蒙平台的日记本管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+暂无描述
 
 ---
 
-### [erick-gomes/desafio-go-calculadora](https://github.com/erick-gomes/desafio-go-calculadora)
+### [HeLLGURD/base-commits1](https://github.com/HeLLGURD/base-commits1)
 
-🗓 **2026-03-28** ｜ ⭐️ **1 stars** ｜ 🗂 **Go**
+🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Este é um projeto simples de calculadora desenvolvido em Go para praticar os conceitos básicos da linguagem, pacotes e testes unitários.
+"add daily note
+
+---
+
+### [khadija-bouraiss/spring-security-jpa](https://github.com/khadija-bouraiss/spring-security-jpa)
+
+🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
+
+暂无描述
 
 ---
 
