@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [sinkid8/sinahajeb.com](https://github.com/sinkid8/sinahajeb.com)
+### [kaansrc/performance-marketer](https://github.com/kaansrc/performance-marketer)
 
-🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-03-30** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Personal portfolio site built with Next.js 14, Tailwind CSS, and Framer Motion — showcasing projects in full-stack development, ML, and cybersecurity.
+AI-powered autonomous Meta Ads pipeline — generates creatives, deploys campaigns, optimizes daily. Built with Claude Code skills.
 
 ---
 
-### [5771323yang/dgAkLOQRas](https://github.com/5771323yang/dgAkLOQRas)
+### [arthaszeng/harness-orchestrator](https://github.com/arthaszeng/harness-orchestrator)
 
-🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-30** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [ujjwaldhaka71/awesome-ai-finance](https://github.com/ujjwaldhaka71/awesome-ai-finance)
+### [3886370410/GBpBzwCNHl](https://github.com/3886370410/GBpBzwCNHl)
 
-🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-03-30** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [HeLLGURD/base-commits1](https://github.com/HeLLGURD/base-commits1)
-
-🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-"add daily note
+【Java计算机毕业设计分享】基于SSM的自习室座位预订管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
-### [khadija-bouraiss/spring-security-jpa](https://github.com/khadija-bouraiss/spring-security-jpa)
+### [b22dccn256/bird-search-system](https://github.com/b22dccn256/bird-search-system)
 
-🗓 **2026-03-29** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
+🗓 **2026-03-30** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-暂无描述
+Xây dựng hệ CSDL lưu trữ và tìm kiếm ảnh chim
+
+---
+
+### [3886370410/zHfzjPRYMK](https://github.com/3886370410/zHfzjPRYMK)
+
+🗓 **2026-03-30** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Java计算机毕业设计分享】基于SSM的生鲜食品商城系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
