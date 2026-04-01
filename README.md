@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [kaansrc/performance-marketer](https://github.com/kaansrc/performance-marketer)
+### [code-yeongyu/not-claude-code-emulator](https://github.com/code-yeongyu/not-claude-code-emulator)
 
-🗓 **2026-03-30** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-03-31** ｜ ⭐️ **20 stars** ｜ 🗂 **TypeScript**
 
-AI-powered autonomous Meta Ads pipeline — generates creatives, deploys campaigns, optimizes daily. Built with Claude Code skills.
+ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE
 
 ---
 
-### [arthaszeng/harness-orchestrator](https://github.com/arthaszeng/harness-orchestrator)
+### [phodal/claude-code-codex-slide](https://github.com/phodal/claude-code-codex-slide)
 
-🗓 **2026-03-30** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-03-31** ｜ ⭐️ **8 stars** ｜ 🗂 **TypeScript**
+
+a analysis source code from claude code by codex with GPT Slide SKILL
+
+---
+
+### [94xy/xykt](https://github.com/94xy/xykt)
+
+🗓 **2026-03-31** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
+
+基于Apple VisionKit 的 macOS 抠图
+
+---
+
+### [askuy/awesome-claude-code](https://github.com/askuy/awesome-claude-code)
+
+🗓 **2026-03-31** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+awesome-claude-code
+
+---
+
+### [matheusmendes720/waste-guardian_lowhack-contest](https://github.com/matheusmendes720/waste-guardian_lowhack-contest)
+
+🗓 **2026-03-31** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
-
----
-
-### [3886370410/GBpBzwCNHl](https://github.com/3886370410/GBpBzwCNHl)
-
-🗓 **2026-03-30** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SSM的自习室座位预订管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
-
----
-
-### [b22dccn256/bird-search-system](https://github.com/b22dccn256/bird-search-system)
-
-🗓 **2026-03-30** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-Xây dựng hệ CSDL lưu trữ và tìm kiếm ảnh chim
-
----
-
-### [3886370410/zHfzjPRYMK](https://github.com/3886370410/zHfzjPRYMK)
-
-🗓 **2026-03-30** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SSM的生鲜食品商城系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
