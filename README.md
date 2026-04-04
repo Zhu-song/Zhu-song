@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Cynthia387/ContextFlow](https://github.com/Cynthia387/ContextFlow)
+### [TirpitzS128/ZeldaReplica](https://github.com/TirpitzS128/ZeldaReplica)
 
-🗓 **2026-04-02** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-03** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
 
-Map ChatGPT chats as a navigable Q&A graph—graph + timeline, sidebar/float, search & jump. Chrome extension, React, Manifest V3.
-
----
-
-### [whdxo/boardlog](https://github.com/whdxo/boardlog)
-
-🗓 **2026-04-02** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
-
-暂无描述
+A replica of the OG NES Zelda for learning
 
 ---
 
-### [JinJoyee/weather-map](https://github.com/JinJoyee/weather-map)
+### [Simon-He95/cultivation-skills](https://github.com/Simon-He95/cultivation-skills)
 
-🗓 **2026-04-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [druxsas/RA_Jets](https://github.com/druxsas/RA_Jets)
-
-🗓 **2026-04-02** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
-
-暂无描述
+修仙.skills
 
 ---
 
-### [eilhanzy/sxrc](https://github.com/eilhanzy/sxrc)
+### [moscovium-mc/ghost-protocol](https://github.com/moscovium-mc/ghost-protocol)
 
-🗓 **2026-04-02** ｜ ⭐️ **1 stars** ｜ 🗂 **Rust**
+🗓 **2026-04-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-暂无描述
+Operational security and recon scripts for the freedom fighter.
+
+---
+
+### [adarsh703/baby_no_one](https://github.com/adarsh703/baby_no_one)
+
+🗓 **2026-04-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+baby_no_one is a feature-rich Discord bot designed to keep servers highly active. Users chat and solve puzzles to earn "Aura", which they can invest in a volatile simulated crypto market, gamble in interactive casino duels, or bet on live IPL matches. All guided by a smart, sarcastic AI personality powered by Google Vertex AI.
+
+---
+
+### [jboert/mood-ring](https://github.com/jboert/mood-ring)
+
+🗓 **2026-04-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Shell**
+
+Terminal background colors that reflect Claude Code's state
 
 ---
 
