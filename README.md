@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [wxwxOk/multiPagePlugins](https://github.com/wxwxOk/multiPagePlugins)
+### [Dippp10/auto-repo-1775696660-3](https://github.com/Dippp10/auto-repo-1775696660-3)
 
-🗓 **2026-04-07** ｜ ⭐️ **11 stars** ｜ 🗂 **JavaScript**
-
-暂无描述
-
----
-
-### [ivan-pdev2099r5/adopt-me-roblox-script-Auto-Farm-Neon-Egg-Farming-Key-for-PC](https://github.com/ivan-pdev2099r5/adopt-me-roblox-script-Auto-Farm-Neon-Egg-Farming-Key-for-PC)
-
-🗓 **2026-04-07** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-About Enhance your Adopt Me! gameplay with a Lua script that automates tasks, speeds up pet hatching, and unlocks hidden areas on Roblox.
-
----
-
-### [gabrielld06/template-renderer-rs](https://github.com/gabrielld06/template-renderer-rs)
-
-🗓 **2026-04-07** ｜ ⭐️ **4 stars** ｜ 🗂 **Rust**
-
-Simple rust template renderer
-
----
-
-### [EmannRC/UPC_RPG_GameProject](https://github.com/EmannRC/UPC_RPG_GameProject)
-
-🗓 **2026-04-07** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [sid732/LightsTrail](https://github.com/sid732/LightsTrail)
+### [CatFatOw/neetcode-submissions](https://github.com/CatFatOw/neetcode-submissions)
 
-🗓 **2026-04-07** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+My NeetCode.io problem submissions
+
+---
+
+### [arielsy/fintrack](https://github.com/arielsy/fintrack)
+
+🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+Personal finance app built with Next.js, TypeScript and PostgreSQL
+
+---
+
+### [eschnei/buddagatchi](https://github.com/eschnei/buddagatchi)
+
+🗓 **2026-04-08** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
+
+---
+
+### [josetinga/enterprise-network-lab](https://github.com/josetinga/enterprise-network-lab)
+
+🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Multi-site enterprise network lab built in Packet Tracer featuring VLAN segmentation, inter-VLAN routing, OSPF dynamic routing with redistribution, NAT (PAT), DHCP with relay, ACL-based traffic control, and HSRP for gateway redundancy.
 
 ---
 
