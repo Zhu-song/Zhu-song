@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Dippp10/auto-repo-1775696660-3](https://github.com/Dippp10/auto-repo-1775696660-3)
+### [majestyhailchopper/best-hack-rust-updated](https://github.com/majestyhailchopper/best-hack-rust-updated)
 
-🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-09** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+An elite all-in-one survival enhancement suite for Rust that integrates advanced ESP, silent aim, and automated resource gathering into a single stealth-optimized package.
+
+---
+
+### [AsuraFY/Responsive-Website-for-travel-Agency-and-Fictional-Restaurant](https://github.com/AsuraFY/Responsive-Website-for-travel-Agency-and-Fictional-Restaurant)
+
+🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+Create a responsive webpage for a fictional restaurant using Bootstrap and its grid system. Create a landing page for a travel agency using Bootstrap components.
+
+---
+
+### [lmcclint/aro-network-checker](https://github.com/lmcclint/aro-network-checker)
+
+🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **Shell**
 
 暂无描述
 
 ---
 
-### [CatFatOw/neetcode-submissions](https://github.com/CatFatOw/neetcode-submissions)
+### [discover-Austin/NanoLM](https://github.com/discover-Austin/NanoLM)
 
-🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-My NeetCode.io problem submissions
-
----
-
-### [arielsy/fintrack](https://github.com/arielsy/fintrack)
-
-🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
-
-Personal finance app built with Next.js, TypeScript and PostgreSQL
+A complete LLaMA-3 transformer built entirely in NumPy. No frameworks. Every gradient by hand. 840K parameters you can actually read.
 
 ---
 
-### [eschnei/buddagatchi](https://github.com/eschnei/buddagatchi)
+### [Dippp10/auto-repo-1775783642-2](https://github.com/Dippp10/auto-repo-1775783642-2)
 
-🗓 **2026-04-08** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
-
----
-
-### [josetinga/enterprise-network-lab](https://github.com/josetinga/enterprise-network-lab)
-
-🗓 **2026-04-08** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Multi-site enterprise network lab built in Packet Tracer featuring VLAN segmentation, inter-VLAN routing, OSPF dynamic routing with redistribution, NAT (PAT), DHCP with relay, ACL-based traffic control, and HSRP for gateway redundancy.
 
 ---
 
