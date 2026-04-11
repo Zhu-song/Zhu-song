@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [majestyhailchopper/best-hack-rust-updated](https://github.com/majestyhailchopper/best-hack-rust-updated)
+### [ailingqu/nanobananas-api-guide](https://github.com/ailingqu/nanobananas-api-guide)
 
-🗓 **2026-04-09** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-04-10** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-An elite all-in-one survival enhancement suite for Rust that integrates advanced ESP, silent aim, and automated resource gathering into a single stealth-optimized package.
-
----
-
-### [AsuraFY/Responsive-Website-for-travel-Agency-and-Fictional-Restaurant](https://github.com/AsuraFY/Responsive-Website-for-travel-Agency-and-Fictional-Restaurant)
-
-🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
-
-Create a responsive webpage for a fictional restaurant using Bootstrap and its grid system. Create a landing page for a travel agency using Bootstrap components.
+Claude Code Skill for NanoBananas.AI API — AI image & video generation with 5 image models, 4 video models, Python/Node.js/cURL examples, and pricing reference.
 
 ---
 
-### [lmcclint/aro-network-checker](https://github.com/lmcclint/aro-network-checker)
+### [Moncef37i/portfoliov2](https://github.com/Moncef37i/portfoliov2)
 
-🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **Shell**
+🗓 **2026-04-10** ｜ ⭐️ **2 stars** ｜ 🗂 **SCSS**
 
 暂无描述
 
 ---
 
-### [discover-Austin/NanoLM](https://github.com/discover-Austin/NanoLM)
+### [BaselAshraf81/vibellm](https://github.com/BaselAshraf81/vibellm)
 
-🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-04-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-A complete LLaMA-3 transformer built entirely in NumPy. No frameworks. Every gradient by hand. 840K parameters you can actually read.
+LLM randomizer, generate random weights and structure.
 
 ---
 
-### [Dippp10/auto-repo-1775783642-2](https://github.com/Dippp10/auto-repo-1775783642-2)
+### [qurixion/congenial-waffle](https://github.com/qurixion/congenial-waffle)
 
-🗓 **2026-04-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+A Google Maps lead generation tool that extracts business information and scrapes contact details from websites.
+
+---
+
+### [Gastonfoncea/Justkill](https://github.com/Gastonfoncea/Justkill)
+
+🗓 **2026-04-10** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
