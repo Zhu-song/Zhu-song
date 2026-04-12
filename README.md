@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ailingqu/nanobananas-api-guide](https://github.com/ailingqu/nanobananas-api-guide)
+### [Yousef-M-Aboelfotoh/Ecommerce-Backend-Showcase](https://github.com/Yousef-M-Aboelfotoh/Ecommerce-Backend-Showcase)
 
-🗓 **2026-04-10** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **C#**
 
-Claude Code Skill for NanoBananas.AI API — AI image & video generation with 5 image models, 4 video models, Python/Node.js/cURL examples, and pricing reference.
+Scalable E-commerce backend with Clean Architecture and CQRS
 
 ---
 
-### [Moncef37i/portfoliov2](https://github.com/Moncef37i/portfoliov2)
+### [ANTONA77/TORTIBLOCK](https://github.com/ANTONA77/TORTIBLOCK)
 
-🗓 **2026-04-10** ｜ ⭐️ **2 stars** ｜ 🗂 **SCSS**
+🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+empresa
+
+---
+
+### [TechBuild-Lab/TechBuild-Lab](https://github.com/TechBuild-Lab/TechBuild-Lab)
+
+🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+TechBuild Lab is an open-source educational platform designed to teach users how to build, repair, and understand laptops and other electronic devices. The platform focuses on practical, hands-on learning through interactive lessons, visual guides, and simulations.
+
+---
+
+### [praveenjat1485-design/Jaat-test](https://github.com/praveenjat1485-design/Jaat-test)
+
+🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [BaselAshraf81/vibellm](https://github.com/BaselAshraf81/vibellm)
+### [nafas1370smaili-art/Nafas-Smaili](https://github.com/nafas1370smaili-art/Nafas-Smaili)
 
-🗓 **2026-04-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-LLM randomizer, generate random weights and structure.
-
----
-
-### [qurixion/congenial-waffle](https://github.com/qurixion/congenial-waffle)
-
-🗓 **2026-04-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-A Google Maps lead generation tool that extracts business information and scrapes contact details from websites.
-
----
-
-### [Gastonfoncea/Justkill](https://github.com/Gastonfoncea/Justkill)
-
-🗓 **2026-04-10** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
+Ch bbm khckxckhcdidoyhcxykzx mgjdyufglfj
 
 ---
 
