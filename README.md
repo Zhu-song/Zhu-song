@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Yousef-M-Aboelfotoh/Ecommerce-Backend-Showcase](https://github.com/Yousef-M-Aboelfotoh/Ecommerce-Backend-Showcase)
+### [wujx2001/GPLQ](https://github.com/wujx2001/GPLQ)
 
-🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **C#**
+🗓 **2026-04-12** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-Scalable E-commerce backend with Clean Architecture and CQRS
-
----
-
-### [ANTONA77/TORTIBLOCK](https://github.com/ANTONA77/TORTIBLOCK)
-
-🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
-
-empresa
+GPLQ release code
 
 ---
 
-### [TechBuild-Lab/TechBuild-Lab](https://github.com/TechBuild-Lab/TechBuild-Lab)
+### [JackMaDaddy/Web3Hermes](https://github.com/JackMaDaddy/Web3Hermes)
 
-🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-12** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-TechBuild Lab is an open-source educational platform designed to teach users how to build, repair, and understand laptops and other electronic devices. The platform focuses on practical, hands-on learning through interactive lessons, visual guides, and simulations.
-
----
-
-### [praveenjat1485-design/Jaat-test](https://github.com/praveenjat1485-design/Jaat-test)
-
-🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
-
-暂无描述
+Hermes-Agent 中文版 WebUI，便于中国用户使用。由 https://github.com/nesquena/hermes-webui 修改而来
 
 ---
 
-### [nafas1370smaili-art/Nafas-Smaili](https://github.com/nafas1370smaili-art/Nafas-Smaili)
+### [0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio](https://github.com/0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio)
 
-🗓 **2026-04-11** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-12** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-Ch bbm khckxckhcdidoyhcxykzx mgjdyufglfj
+AI-powered storyboard and short film creation tool — Vidtory Drama Studio
+
+---
+
+### [maurozelenka/latex-uvigo-tfg](https://github.com/maurozelenka/latex-uvigo-tfg)
+
+🗓 **2026-04-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Herramienta de automatización y maquetación de documentos: Creación de flujos de compilación locales (Make), scripting en Python para conversión de formatos (PDF a Word) y estructuración modular de código fuente.
+
+---
+
+### [GareBear99/TizWildin-Obsidian](https://github.com/GareBear99/TizWildin-Obsidian)
+
+🗓 **2026-04-12** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+A dark cinematic sample pack centered on ruined-cathedral choir textures, menu-loop material, transitions, bass movement, atmosphere, melodic layers, drums, and an electric-banjo extension.
 
 ---
 
