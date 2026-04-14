@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [wujx2001/GPLQ](https://github.com/wujx2001/GPLQ)
+### [quinngarcia41/Identity-Lab-Spoofer](https://github.com/quinngarcia41/Identity-Lab-Spoofer)
 
-🗓 **2026-04-12** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-04-13** ｜ ⭐️ **27 stars** ｜ 🗂 **C#**
 
-GPLQ release code
-
----
-
-### [JackMaDaddy/Web3Hermes](https://github.com/JackMaDaddy/Web3Hermes)
-
-🗓 **2026-04-12** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Hermes-Agent 中文版 WebUI，便于中国用户使用。由 https://github.com/nesquena/hermes-webui 修改而来
+HWID Spoofer, hwidspoofer, hwidspoof, spoof machine, machine spoofing, machine spoofer, ban bypass, bypass ban, hwid bypass, bypass hwid
 
 ---
 
-### [0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio](https://github.com/0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio)
+### [m3lfx/rdbms-b-2026](https://github.com/m3lfx/rdbms-b-2026)
 
-🗓 **2026-04-12** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-13** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-AI-powered storyboard and short film creation tool — Vidtory Drama Studio
-
----
-
-### [maurozelenka/latex-uvigo-tfg](https://github.com/maurozelenka/latex-uvigo-tfg)
-
-🗓 **2026-04-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Herramienta de automatización y maquetación de documentos: Creación de flujos de compilación locales (Make), scripting en Python para conversión de formatos (PDF a Word) y estructuración modular de código fuente.
+暂无描述
 
 ---
 
-### [GareBear99/TizWildin-Obsidian](https://github.com/GareBear99/TizWildin-Obsidian)
+### [HotCode2025/ProyectoIntegrador_LosSinChamba2026](https://github.com/HotCode2025/ProyectoIntegrador_LosSinChamba2026)
 
-🗓 **2026-04-12** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-04-13** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-A dark cinematic sample pack centered on ruined-cathedral choir textures, menu-loop material, transitions, bass movement, atmosphere, melodic layers, drums, and an electric-banjo extension.
+Proyecto Integrador -Python- Scrum-Tercer-Semestre-
+
+---
+
+### [sbauwow/schwagent](https://github.com/sbauwow/schwagent)
+
+🗓 **2026-04-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+An AI Agent for monitoring and trading via Charles Schwab Trading API
+
+---
+
+### [iamtowvee/duckshell](https://github.com/iamtowvee/duckshell)
+
+🗓 **2026-04-13** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+
+Simple browser console
 
 ---
 
