@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [PedropQuezada/Testeos_Progra2](https://github.com/PedropQuezada/Testeos_Progra2)
+### [4GeeksAcademy/final-project-69-grupo-1](https://github.com/4GeeksAcademy/final-project-69-grupo-1)
 
-🗓 **2026-04-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [cassian5582/School_Card_Manage_System](https://github.com/cassian5582/School_Card_Manage_System)
-
-🗓 **2026-04-14** ｜ ⭐️ **1 stars** ｜ 🗂 **C**
+🗓 **2026-04-15** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [SVANSEEE/DepartmentApp](https://github.com/SVANSEEE/DepartmentApp)
+### [mintylinux/meshwar-map-docker](https://github.com/mintylinux/meshwar-map-docker)
 
-🗓 **2026-04-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-App For University Students
+MeshCore Wardrive Map — Self-Hosted Docker Edition. SQLite-backed coverage map with manual import tools, contributor tracking, and leaderboard. Security-first: uploads disabled by default.
 
 ---
 
-### [Ashal-GIT/Team-disturbance](https://github.com/Ashal-GIT/Team-disturbance)
+### [BenVillaEng/SourceUnpack](https://github.com/BenVillaEng/SourceUnpack)
 
-🗓 **2026-04-14** ｜ ⭐️ **1 stars** ｜ 🗂 **R**
+🗓 **2026-04-15** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
+
+Simple compact software to unpack, view and extract valve software file formats. Feel free to modify the software to add mods, provided that proper credit is given. Its use and distribution are completely free of charge.
+
+---
+
+### [k3ssily/java4.0-N19](https://github.com/k3ssily/java4.0-N19)
+
+🗓 **2026-04-15** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
 
 暂无描述
 
 ---
 
-### [Tysheemjones/Telnet-vs-SSH-Wireshark-Lab](https://github.com/Tysheemjones/Telnet-vs-SSH-Wireshark-Lab)
+### [jjahongir2197/mashq1_1604](https://github.com/jjahongir2197/mashq1_1604)
 
-🗓 **2026-04-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-15** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
-Hands-on Wireshark lab demonstrating plaintext credential exposure in Telnet vs encrypted SSH traffic through packet capture and TCP stream analysis.
+暂无描述
 
 ---
 
