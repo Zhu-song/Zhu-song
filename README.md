@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [4GeeksAcademy/final-project-69-grupo-1](https://github.com/4GeeksAcademy/final-project-69-grupo-1)
+### [op01z/Multi-Coin-Flasher-Tool](https://github.com/op01z/Multi-Coin-Flasher-Tool)
 
-🗓 **2026-04-15** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-16** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+
+🔗 https://cryptoflasher.net
+
+---
+
+### [Nash-Blip/Simulador-de-Inversiones](https://github.com/Nash-Blip/Simulador-de-Inversiones)
+
+🗓 **2026-04-16** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [mintylinux/meshwar-map-docker](https://github.com/mintylinux/meshwar-map-docker)
+### [nnourue/Pulsar-Net](https://github.com/nnourue/Pulsar-Net)
 
-🗓 **2026-04-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
 
-MeshCore Wardrive Map — Self-Hosted Docker Edition. SQLite-backed coverage map with manual import tools, contributor tracking, and leaderboard. Security-first: uploads disabled by default.
-
----
-
-### [BenVillaEng/SourceUnpack](https://github.com/BenVillaEng/SourceUnpack)
-
-🗓 **2026-04-15** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
-
-Simple compact software to unpack, view and extract valve software file formats. Feel free to modify the software to add mods, provided that proper credit is given. Its use and distribution are completely free of charge.
+Finding neutron stars in a haystack. Physics-informed pulsar detection with XGBoost on HTRU2.
 
 ---
 
-### [k3ssily/java4.0-N19](https://github.com/k3ssily/java4.0-N19)
+### [xiaolai/mermaid-preview-for-claude](https://github.com/xiaolai/mermaid-preview-for-claude)
 
-🗓 **2026-04-15** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
+🗓 **2026-04-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
 
-暂无描述
+Auto-preview Mermaid diagrams in the browser on Write/Edit/MultiEdit/NotebookEdit. Offline-safe, dark-mode aware, per-file preview with auto-reload.
 
 ---
 
-### [jjahongir2197/mashq1_1604](https://github.com/jjahongir2197/mashq1_1604)
+### [oelizondofl-a11y/Proyecto-DFT](https://github.com/oelizondofl-a11y/Proyecto-DFT)
 
-🗓 **2026-04-15** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-04-16** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
