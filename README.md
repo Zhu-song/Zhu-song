@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ravisaiteja15/BLINKIT-ANALYSIS-DASHBOARD-](https://github.com/ravisaiteja15/BLINKIT-ANALYSIS-DASHBOARD-)
+### [Mireacul/SatFix](https://github.com/Mireacul/SatFix)
 
-🗓 **2026-04-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-18** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
+
+SatFix resets the internal heal timer every tick via NMS so that exhaustion penalty never applies. Saturation drains at the same rate regardless of health.
+
+---
+
+### [BlondinkaQ/awesome-proxy](https://github.com/BlondinkaQ/awesome-proxy)
+
+🗓 **2026-04-18** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+The definitive, ever-growing resource for proxy servers, routing tools, and client libraries. Built to change how developers handle large-scale network requests.
+
+---
+
+### [BuildToAutomate/client-mockup](https://github.com/BuildToAutomate/client-mockup)
+
+🗓 **2026-04-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Prototypes
+
+---
+
+### [AlR8MND/mexc-aster-spread-catcher](https://github.com/AlR8MND/mexc-aster-spread-catcher)
+
+🗓 **2026-04-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [Xin-MediaGeek/research-pipeline](https://github.com/Xin-MediaGeek/research-pipeline)
+### [To-Data-Beyond/Generative-AI-Techanical-Tutorials](https://github.com/To-Data-Beyond/Generative-AI-Techanical-Tutorials)
 
-🗓 **2026-04-17** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-A multi-step research feasibility assessment pipeline built with Streamlit. Given a research direction, the pipeline screens literature, extracts evidence, and generates a structured feasibility report.
-
----
-
-### [LevTsaturyan/credit_scoring](https://github.com/LevTsaturyan/credit_scoring)
-
-🗓 **2026-04-17** ｜ ⭐️ **1 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-04-18** ｜ ⭐️ **1 stars** ｜ 🗂 **Jupyter Notebook**
 
 暂无描述
-
----
-
-### [jvlara/irb-fzf-history](https://github.com/jvlara/irb-fzf-history)
-
-🗓 **2026-04-17** ｜ ⭐️ **1 stars** ｜ 🗂 **Ruby**
-
-All the powers of fzf on your ruby history!
-
----
-
-### [valdesyx/ip-developing](https://github.com/valdesyx/ip-developing)
-
-🗓 **2026-04-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-trying to figure out the systems of a vpn
 
 ---
 
