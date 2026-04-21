@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Sane-RB/The-UPR](https://github.com/Sane-RB/The-UPR)
+### [renatogroffe/arquitetura-foundry-mcps_2026-04](https://github.com/renatogroffe/arquitetura-foundry-mcps_2026-04)
 
-🗓 **2026-04-19** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-04-20** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-I built a device that made me god. Taking eyes to build a bigger bubble
+Exemplo de arquitetura de referência para soluções de IA utilizando MCPs, Microsoft Foundry e serviços do Microsoft Azure.
 
 ---
 
-### [karaba-fieldnotes/repo-3](https://github.com/karaba-fieldnotes/repo-3)
+### [khianvaliente13-design/Apply](https://github.com/khianvaliente13-design/Apply)
 
-🗓 **2026-04-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-20** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+My Portfolio
+
+---
+
+### [KSubedi/llm-select](https://github.com/KSubedi/llm-select)
+
+🗓 **2026-04-20** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Chrome extension to quickly select something to give reference to LLM.
+
+---
+
+### [Yaser-mohsen/css-projict](https://github.com/Yaser-mohsen/css-projict)
+
+🗓 **2026-04-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [mibrahim488/M-website-](https://github.com/mibrahim488/M-website-)
+### [rayandcherry/Blender2BambuStudio](https://github.com/rayandcherry/Blender2BambuStudio)
 
-🗓 **2026-04-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [emanuelyzellari-hue/PricePulse](https://github.com/emanuelyzellari-hue/PricePulse)
-
-🗓 **2026-04-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-PricePulse – Real-time deals, discounts & affiliate product recommendations platform for smart shopping and savings.
-
----
-
-### [Sebminecrafter/SebOS](https://github.com/Sebminecrafter/SebOS)
-
-🗓 **2026-04-19** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-An amazing Arch distro.
+A Claude Code skill that exports colored Blender models to Bambu Studio for multi-color AMS printing via native OBJ+MTL — no Silk addon required.
 
 ---
 
