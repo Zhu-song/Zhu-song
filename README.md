@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [renatogroffe/arquitetura-foundry-mcps_2026-04](https://github.com/renatogroffe/arquitetura-foundry-mcps_2026-04)
+### [noa1188/singbox-reality-hy2](https://github.com/noa1188/singbox-reality-hy2)
 
-🗓 **2026-04-20** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-04-21** ｜ ⭐️ **3 stars** ｜ 🗂 **Shell**
 
-Exemplo de arquitetura de referência para soluções de IA utilizando MCPs, Microsoft Foundry e serviços do Microsoft Azure.
-
----
-
-### [khianvaliente13-design/Apply](https://github.com/khianvaliente13-design/Apply)
-
-🗓 **2026-04-20** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-My Portfolio
+sing-box 部署 Reality + Hysteria2 极简一键脚本
 
 ---
 
-### [KSubedi/llm-select](https://github.com/KSubedi/llm-select)
+### [trmfreitas/mac-photos-export](https://github.com/trmfreitas/mac-photos-export)
 
-🗓 **2026-04-20** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-21** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-Chrome extension to quickly select something to give reference to LLM.
+Javascript Automation for exporting photos from Photos application keeping track of what has been exported.
 
 ---
 
-### [Yaser-mohsen/css-projict](https://github.com/Yaser-mohsen/css-projict)
+### [GooseWithAKnife/Vencord-GooseE2EE](https://github.com/GooseWithAKnife/Vencord-GooseE2EE)
 
-🗓 **2026-04-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-04-21** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+Vencord End-to-End Encryption
+
+---
+
+### [Branchcuttter/openmythos](https://github.com/Branchcuttter/openmythos)
+
+🗓 **2026-04-21** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [rayandcherry/Blender2BambuStudio](https://github.com/rayandcherry/Blender2BambuStudio)
+### [mat973252-coder/claude-recovery-hooks](https://github.com/mat973252-coder/claude-recovery-hooks)
 
-🗓 **2026-04-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-21** ｜ ⭐️ **1 stars** ｜ 🗂 **PowerShell**
 
-A Claude Code skill that exports colored Blender models to Bambu Studio for multi-color AMS printing via native OBJ+MTL — no Silk addon required.
+help cc recover
 
 ---
 
