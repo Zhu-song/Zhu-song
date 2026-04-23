@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [noa1188/singbox-reality-hy2](https://github.com/noa1188/singbox-reality-hy2)
+### [Hostingglobal-Tech/daedal](https://github.com/Hostingglobal-Tech/daedal)
 
-🗓 **2026-04-21** ｜ ⭐️ **3 stars** ｜ 🗂 **Shell**
+🗓 **2026-04-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
 
-sing-box 部署 Reality + Hysteria2 极简一键脚本
-
----
-
-### [trmfreitas/mac-photos-export](https://github.com/trmfreitas/mac-photos-export)
-
-🗓 **2026-04-21** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-Javascript Automation for exporting photos from Photos application keeping track of what has been exported.
+Tiny Rust CLI for OpenAI gpt-image-2 — single static binary, no SDK
 
 ---
 
-### [GooseWithAKnife/Vencord-GooseE2EE](https://github.com/GooseWithAKnife/Vencord-GooseE2EE)
+### [kevin046/VibeShield](https://github.com/kevin046/VibeShield)
 
-🗓 **2026-04-21** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Vencord End-to-End Encryption
+The open-source security backbone of the ClawMolt ecosystem. A rootless, daemonless framework for orchestrating trustless AI agent workforces using Podman, TEE-backed isolation, and behavioral verification.
 
 ---
 
-### [Branchcuttter/openmythos](https://github.com/Branchcuttter/openmythos)
+### [XzJulian0711/Grupo5_kmeans_IA](https://github.com/XzJulian0711/Grupo5_kmeans_IA)
 
-🗓 **2026-04-21** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-04-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
 
 暂无描述
 
 ---
 
-### [mat973252-coder/claude-recovery-hooks](https://github.com/mat973252-coder/claude-recovery-hooks)
+### [haningtonbarry-hbo/Project1](https://github.com/haningtonbarry-hbo/Project1)
 
-🗓 **2026-04-21** ｜ ⭐️ **1 stars** ｜ 🗂 **PowerShell**
+🗓 **2026-04-22** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
-help cc recover
+暂无描述
+
+---
+
+### [JayCorri/mev-backrun-arb-bot](https://github.com/JayCorri/mev-backrun-arb-bot)
+
+🗓 **2026-04-22** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
 
 ---
 
