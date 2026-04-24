@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Hostingglobal-Tech/daedal](https://github.com/Hostingglobal-Tech/daedal)
+### [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway)
 
-🗓 **2026-04-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+🗓 **2026-04-23** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-Tiny Rust CLI for OpenAI gpt-image-2 — single static binary, no SDK
-
----
-
-### [kevin046/VibeShield](https://github.com/kevin046/VibeShield)
-
-🗓 **2026-04-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-The open-source security backbone of the ClawMolt ecosystem. A rootless, daemonless framework for orchestrating trustless AI agent workforces using Podman, TEE-backed isolation, and behavioral verification.
+Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard
 
 ---
 
-### [XzJulian0711/Grupo5_kmeans_IA](https://github.com/XzJulian0711/Grupo5_kmeans_IA)
+### [renatogroffe/dotnet10-agent-framework-sqlserver-mcp-otel-grafana_consultaprodutos](https://github.com/renatogroffe/dotnet10-agent-framework-sqlserver-mcp-otel-grafana_consultaprodutos)
 
-🗓 **2026-04-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-04-23** ｜ ⭐️ **3 stars** ｜ 🗂 **C#**
+
+Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framework, com integração com o Microsoft Foundry como solução de IA Generativa na consulta de informações de produtos em uma base SQL Server. Inclui o uso do MCP oficial do SQL Server e observabilidade com Grafana + OpenTelemetry (via Docker Compose).
+
+---
+
+### [thomas-774/GPA-CAL-V2](https://github.com/thomas-774/GPA-CAL-V2)
+
+🗓 **2026-04-23** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [haningtonbarry-hbo/Project1](https://github.com/haningtonbarry-hbo/Project1)
+### [Adam-Paranich/Wayne-County-PA](https://github.com/Adam-Paranich/Wayne-County-PA)
 
-🗓 **2026-04-22** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-04-23** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [JayCorri/mev-backrun-arb-bot](https://github.com/JayCorri/mev-backrun-arb-bot)
+### [kizilovv/tg-user-bot-client](https://github.com/kizilovv/tg-user-bot-client)
 
-🗓 **2026-04-22** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-23** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
 
-暂无描述
+High-level Telegram user-bot client on mtcute (MTProto). Scheduled posts, folder chats, thread replies, reactions — with exponential backoff on every call.
 
 ---
 
