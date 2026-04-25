@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway)
+### [Zyx0rx/port-forward](https://github.com/Zyx0rx/port-forward)
 
-🗓 **2026-04-23** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-04-24** ｜ ⭐️ **8 stars** ｜ 🗂 **Shell**
 
-Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard
-
----
-
-### [renatogroffe/dotnet10-agent-framework-sqlserver-mcp-otel-grafana_consultaprodutos](https://github.com/renatogroffe/dotnet10-agent-framework-sqlserver-mcp-otel-grafana_consultaprodutos)
-
-🗓 **2026-04-23** ｜ ⭐️ **3 stars** ｜ 🗂 **C#**
-
-Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framework, com integração com o Microsoft Foundry como solução de IA Generativa na consulta de informações de produtos em uma base SQL Server. Inclui o uso do MCP oficial do SQL Server e observabilidade com Grafana + OpenTelemetry (via Docker Compose).
+A multi-backend Linux port forwarding management script with interactive and CLI modes.
 
 ---
 
-### [thomas-774/GPA-CAL-V2](https://github.com/thomas-774/GPA-CAL-V2)
+### [krishnaabdiel-png/krishnaabdiel](https://github.com/krishnaabdiel-png/krishnaabdiel)
 
-🗓 **2026-04-23** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [Adam-Paranich/Wayne-County-PA](https://github.com/Adam-Paranich/Wayne-County-PA)
+### [Jchnc/core-web](https://github.com/Jchnc/core-web)
 
-🗓 **2026-04-23** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+Scalable Next.js 16 frontend built with React 19, Tailwind CSS v4, and shadcn/ui. Designed for seamless integration with the core-api backend.
+
+---
+
+### [korayozkan/KiruhiPlace](https://github.com/korayozkan/KiruhiPlace)
+
+🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [kizilovv/tg-user-bot-client](https://github.com/kizilovv/tg-user-bot-client)
+### [effjy/ccu](https://github.com/effjy/ccu)
 
-🗓 **2026-04-23** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **C**
 
-High-level Telegram user-bot client on mtcute (MTProto). Scheduled posts, folder chats, thread replies, reactions — with exponential backoff on every call.
+Classified Concealment Utility
 
 ---
 
