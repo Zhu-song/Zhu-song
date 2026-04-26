@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Zyx0rx/port-forward](https://github.com/Zyx0rx/port-forward)
+### [goatbotnx/xalman-ytvid-dl](https://github.com/goatbotnx/xalman-ytvid-dl)
 
-🗓 **2026-04-24** ｜ ⭐️ **8 stars** ｜ 🗂 **Shell**
-
-A multi-backend Linux port forwarding management script with interactive and CLI modes.
-
----
-
-### [krishnaabdiel-png/krishnaabdiel](https://github.com/krishnaabdiel-png/krishnaabdiel)
-
-🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-25** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [Jchnc/core-web](https://github.com/Jchnc/core-web)
+### [lonewolve24/LaunchChit](https://github.com/lonewolve24/LaunchChit)
 
-🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
-
-Scalable Next.js 16 frontend built with React 19, Tailwind CSS v4, and shadcn/ui. Designed for seamless integration with the core-api backend.
-
----
-
-### [korayozkan/KiruhiPlace](https://github.com/korayozkan/KiruhiPlace)
-
-🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-04-25** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [effjy/ccu](https://github.com/effjy/ccu)
+### [6x-u/NetVision](https://github.com/6x-u/NetVision)
 
-🗓 **2026-04-24** ｜ ⭐️ **1 stars** ｜ 🗂 **C**
+🗓 **2026-04-25** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
 
-Classified Concealment Utility
+暂无描述
+
+---
+
+### [shimmy-project/shimmy](https://github.com/shimmy-project/shimmy)
+
+🗓 **2026-04-25** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [VatsalKumar2/CS172Project](https://github.com/VatsalKumar2/CS172Project)
+
+🗓 **2026-04-25** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+CS 172 Project
 
 ---
 
