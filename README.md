@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ultraworkers/hbackup](https://github.com/ultraworkers/hbackup)
+### [Dhravya/webpull](https://github.com/Dhravya/webpull)
 
-🗓 **2026-04-26** ｜ ⭐️ **5 stars** ｜ 🗂 **Rust**
-
-Backup and restore tool for Hermes Agent + OpenClaw installations
-
----
-
-### [darteagaleon/Proyecto_IE_XX](https://github.com/darteagaleon/Proyecto_IE_XX)
-
-🗓 **2026-04-26** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Repositorio donde los aprendices crearan las ramas para cada uno de los modulos apartir de la estrucutra base.
-
----
-
-### [IzQant/training_session](https://github.com/IzQant/training_session)
-
-🗓 **2026-04-26** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-일반인/아마추어 대상 훈련 및 식단 관리 서비스
-
----
-
-### [m44686066-creator/Abebe](https://github.com/m44686066-creator/Abebe)
-
-🗓 **2026-04-26** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-04-27** ｜ ⭐️ **13 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [jon-devlapaz/gbc](https://github.com/jon-devlapaz/gbc)
+### [i2cjak/Framework_Expansion_Cards](https://github.com/i2cjak/Framework_Expansion_Cards)
 
-🗓 **2026-04-26** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-04-27** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
 
-Local FastAPI tool for Claude Code — workspace audit, session search, live cost tracking. DMG aesthetic.
+In which i2cjak creates a new expansion card design every day until he is given a NICE Framework laptop
+
+---
+
+### [bombom0704/test.txt](https://github.com/bombom0704/test.txt)
+
+🗓 **2026-04-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [slywia/Yki-Min](https://github.com/slywia/Yki-Min)
+
+🗓 **2026-04-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [3335023198wxj-prog/supreme-adventure](https://github.com/3335023198wxj-prog/supreme-adventure)
+
+🗓 **2026-04-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+一个冒险
 
 ---
 
