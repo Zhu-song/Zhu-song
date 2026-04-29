@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Dhravya/webpull](https://github.com/Dhravya/webpull)
+### [avacocloud/SNI-XHTTP-V1.1](https://github.com/avacocloud/SNI-XHTTP-V1.1)
 
-🗓 **2026-04-27** ｜ ⭐️ **13 stars** ｜ 🗂 **TypeScript**
-
-暂无描述
-
----
-
-### [i2cjak/Framework_Expansion_Cards](https://github.com/i2cjak/Framework_Expansion_Cards)
-
-🗓 **2026-04-27** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
-
-In which i2cjak creates a new expansion card design every day until he is given a NICE Framework laptop
-
----
-
-### [bombom0704/test.txt](https://github.com/bombom0704/test.txt)
-
-🗓 **2026-04-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-04-28** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [slywia/Yki-Min](https://github.com/slywia/Yki-Min)
+### [fr4ct4ldemo/Verification-with-components-v2-](https://github.com/fr4ct4ldemo/Verification-with-components-v2-)
 
-🗓 **2026-04-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-04-28** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+
+A feature-rich Discord verification bot built with discord.js. Includes customizable verify panels, category lockdown on setup, role-based access, blacklist/whitelist system, cooldowns, captcha support, verification logs, and stats tracking.
+
+---
+
+### [Billy-loop/os-review](https://github.com/Billy-loop/os-review)
+
+🗓 **2026-04-28** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [3335023198wxj-prog/supreme-adventure](https://github.com/3335023198wxj-prog/supreme-adventure)
+### [Wang-xjtu/UniT](https://github.com/Wang-xjtu/UniT)
 
-🗓 **2026-04-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-04-28** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-一个冒险
+UniT: Unified Geometry Learning With Group Autoregressive Transformer
+
+---
+
+### [1ee/CyberScanner-Pro](https://github.com/1ee/CyberScanner-Pro)
+
+🗓 **2026-04-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Simple cybersecurity scanner for web applications
 
 ---
 
