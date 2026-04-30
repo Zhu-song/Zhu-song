@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [avacocloud/SNI-XHTTP-V1.1](https://github.com/avacocloud/SNI-XHTTP-V1.1)
+### [shellaaa1/wechat-official-account-skill](https://github.com/shellaaa1/wechat-official-account-skill)
 
-🗓 **2026-04-28** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-29** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+
+微信公众号运营助手 - 本地命令行工具，支持模板渲染、AI图片生成、素材上传、草稿管理等功能
+
+---
+
+### [Release-By-Max20/Xworm-V6-compiled-](https://github.com/Release-By-Max20/Xworm-V6-compiled-)
+
+🗓 **2026-04-29** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [fr4ct4ldemo/Verification-with-components-v2-](https://github.com/fr4ct4ldemo/Verification-with-components-v2-)
+### [SkiiOS/BelajarAndroid](https://github.com/SkiiOS/BelajarAndroid)
 
-🗓 **2026-04-28** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-04-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
 
-A feature-rich Discord verification bot built with discord.js. Includes customizable verify panels, category lockdown on setup, role-based access, blacklist/whitelist system, cooldowns, captcha support, verification logs, and stats tracking.
-
----
-
-### [Billy-loop/os-review](https://github.com/Billy-loop/os-review)
-
-🗓 **2026-04-28** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-暂无描述
+A Android Studio project named BelajarAndroid
 
 ---
 
-### [Wang-xjtu/UniT](https://github.com/Wang-xjtu/UniT)
+### [lizilaywer/PrivacyGuard](https://github.com/lizilaywer/PrivacyGuard)
 
-🗓 **2026-04-28** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-04-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-UniT: Unified Geometry Learning With Group Autoregressive Transformer
+PrivacyGuard 脱敏卫士 - 一个中国五线小城市律师用AI 开发的，基于Python + PyQt6 的 完全本地的PDF/Word 文档智能脱敏、脱密工具，“先脱敏，再上传”，支持文本识别、OCR 扫描、手动标记等多种脱敏方式，提供双栏对比预览和批量处理功能。（Local-based intelligent document redaction tool）
 
 ---
 
-### [1ee/CyberScanner-Pro](https://github.com/1ee/CyberScanner-Pro)
+### [openclaw/clawsweeper.bot](https://github.com/openclaw/clawsweeper.bot)
 
-🗓 **2026-04-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-04-29** ｜ ⭐️ **2 stars** ｜ 🗂 **CSS**
 
-Simple cybersecurity scanner for web applications
+ClawSweeper Website
 
 ---
 
