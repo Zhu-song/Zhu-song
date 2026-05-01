@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [shellaaa1/wechat-official-account-skill](https://github.com/shellaaa1/wechat-official-account-skill)
+### [andrebaltieri/live-maf-2026-04-30](https://github.com/andrebaltieri/live-maf-2026-04-30)
 
-🗓 **2026-04-29** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
-
-微信公众号运营助手 - 本地命令行工具，支持模板渲染、AI图片生成、素材上传、草稿管理等功能
-
----
-
-### [Release-By-Max20/Xworm-V6-compiled-](https://github.com/Release-By-Max20/Xworm-V6-compiled-)
-
-🗓 **2026-04-29** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-04-30** ｜ ⭐️ **12 stars** ｜ 🗂 **C#**
 
 暂无描述
 
 ---
 
-### [SkiiOS/BelajarAndroid](https://github.com/SkiiOS/BelajarAndroid)
+### [rakratz/FrontEnd20261](https://github.com/rakratz/FrontEnd20261)
 
-🗓 **2026-04-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-04-30** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
 
-A Android Studio project named BelajarAndroid
-
----
-
-### [lizilaywer/PrivacyGuard](https://github.com/lizilaywer/PrivacyGuard)
-
-🗓 **2026-04-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-PrivacyGuard 脱敏卫士 - 一个中国五线小城市律师用AI 开发的，基于Python + PyQt6 的 完全本地的PDF/Word 文档智能脱敏、脱密工具，“先脱敏，再上传”，支持文本识别、OCR 扫描、手动标记等多种脱敏方式，提供双栏对比预览和批量处理功能。（Local-based intelligent document redaction tool）
+Turma de FrontEnd 1 do IPOG 2026 do Professor Me. Ricardo de Andrade Krtaz
 
 ---
 
-### [openclaw/clawsweeper.bot](https://github.com/openclaw/clawsweeper.bot)
+### [vinilana/anyharness](https://github.com/vinilana/anyharness)
 
-🗓 **2026-04-29** ｜ ⭐️ **2 stars** ｜ 🗂 **CSS**
+🗓 **2026-04-30** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
-ClawSweeper Website
+暂无描述
+
+---
+
+### [ThiagoCanatoAzevedo/multi-agents-study](https://github.com/ThiagoCanatoAzevedo/multi-agents-study)
+
+🗓 **2026-04-30** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+暂无描述
+
+---
+
+### [Lizandro562/estructura-de-datos-y-algoritmos](https://github.com/Lizandro562/estructura-de-datos-y-algoritmos)
+
+🗓 **2026-04-30** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
 
 ---
 
