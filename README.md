@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [pranetp26/nasaos101_module5](https://github.com/pranetp26/nasaos101_module5)
+### [WeritoP/FL-STUDIO-PATCHER](https://github.com/WeritoP/FL-STUDIO-PATCHER)
 
-🗓 **2026-05-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-05-03** ｜ ⭐️ **450 stars** ｜ 🗂 **未知**
+
+Fl Stduio patch for lifetime works
+
+---
+
+### [Vuks1n/mhr-ggate](https://github.com/Vuks1n/mhr-ggate)
+
+🗓 **2026-05-03** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [simplysmarty/Technology-Sales-Analysis](https://github.com/simplysmarty/Technology-Sales-Analysis)
+### [wiolett-industries/gateway](https://github.com/wiolett-industries/gateway)
 
-🗓 **2026-05-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-05-03** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-An interactive Excel dashboard analyzing Technology sales performance across 4 sub-categories, 4 years and multiple U.S. regions
+Self-hosted infrastructure control plane for reverse proxies, Docker workloads, certificates, databases, logs, monitoring, status pages, and automation.
 
 ---
 
-### [pauloviccs/VICCS_LumenTotemTech](https://github.com/pauloviccs/VICCS_LumenTotemTech)
+### [Msun207/Siege-defence](https://github.com/Msun207/Siege-defence)
 
-🗓 **2026-05-02** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-03** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+Ai generated grid based game
+
+---
+
+### [jplima30/vejaOprecoApp](https://github.com/jplima30/vejaOprecoApp)
+
+🗓 **2026-05-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Swift**
 
 暂无描述
-
----
-
-### [leocorreamello/CP02-Mobile](https://github.com/leocorreamello/CP02-Mobile)
-
-🗓 **2026-05-02** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
-
-暂无描述
-
----
-
-### [03DSmoothie/rubydung-cpp](https://github.com/03DSmoothie/rubydung-cpp)
-
-🗓 **2026-05-02** ｜ ⭐️ **1 stars** ｜ 🗂 **C++**
-
-C++ port of Minecraft rd-132211 for Linux (AppImage)
 
 ---
 
