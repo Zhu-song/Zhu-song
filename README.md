@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [WeritoP/FL-STUDIO-PATCHER](https://github.com/WeritoP/FL-STUDIO-PATCHER)
+### [testfully/agent-skills](https://github.com/testfully/agent-skills)
 
-🗓 **2026-05-03** ｜ ⭐️ **450 stars** ｜ 🗂 **未知**
+🗓 **2026-05-04** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-Fl Stduio patch for lifetime works
+Testfully's official collection of agent skills
 
 ---
 
-### [Vuks1n/mhr-ggate](https://github.com/Vuks1n/mhr-ggate)
+### [xileyyds/kedaya-bridge](https://github.com/xileyyds/kedaya-bridge)
 
-🗓 **2026-05-03** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
+🗓 **2026-05-04** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [wiolett-industries/gateway](https://github.com/wiolett-industries/gateway)
+### [dinesh-git17/codex-pet-rate-rings](https://github.com/dinesh-git17/codex-pet-rate-rings)
 
-🗓 **2026-05-03** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-05-04** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-Self-hosted infrastructure control plane for reverse proxies, Docker workloads, certificates, databases, logs, monitoring, status pages, and automation.
-
----
-
-### [Msun207/Siege-defence](https://github.com/Msun207/Siege-defence)
-
-🗓 **2026-05-03** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
-
-Ai generated grid based game
+A local Codex skill that wraps your desktop pet in live 5-hour and weekly rate-limit rings.
 
 ---
 
-### [jplima30/vejaOprecoApp](https://github.com/jplima30/vejaOprecoApp)
+### [guilermenunes843-lgtm/Bot-M-rio-](https://github.com/guilermenunes843-lgtm/Bot-M-rio-)
 
-🗓 **2026-05-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Swift**
+🗓 **2026-05-04** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
+
+---
+
+### [kasondejeremiah2-code/TalentClips](https://github.com/kasondejeremiah2-code/TalentClips)
+
+🗓 **2026-05-04** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Talent Clip is a lightweight web app built for showcasing short-form creative content, enabling users to upload, explore, and engage with talent from around the world.
 
 ---
 
