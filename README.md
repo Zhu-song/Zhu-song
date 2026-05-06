@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [testfully/agent-skills](https://github.com/testfully/agent-skills)
+### [WeritoP/BetterNitroDiscord](https://github.com/WeritoP/BetterNitroDiscord)
 
-🗓 **2026-05-04** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-05-05** ｜ ⭐️ **462 stars** ｜ 🗂 **未知**
 
-Testfully's official collection of agent skills
+BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 
 ---
 
-### [xileyyds/kedaya-bridge](https://github.com/xileyyds/kedaya-bridge)
+### [1TDSPY-26/front-1sem-aula-02](https://github.com/1TDSPY-26/front-1sem-aula-02)
 
-🗓 **2026-05-04** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-05** ｜ ⭐️ **11 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [dinesh-git17/codex-pet-rate-rings](https://github.com/dinesh-git17/codex-pet-rate-rings)
+### [Se3do/ngine-CAD-Engine](https://github.com/Se3do/ngine-CAD-Engine)
 
-🗓 **2026-05-04** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-05** ｜ ⭐️ **4 stars** ｜ 🗂 **C++**
 
-A local Codex skill that wraps your desktop pet in live 5-hour and weekly rate-limit rings.
+An extensible C++20 2D geometry core and constraint solver designed for CAD/PLM software.
 
 ---
 
-### [guilermenunes843-lgtm/Bot-M-rio-](https://github.com/guilermenunes843-lgtm/Bot-M-rio-)
+### [Crafterchen2/LpxApi](https://github.com/Crafterchen2/LpxApi)
 
-🗓 **2026-05-04** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-05-05** ｜ ⭐️ **1 stars** ｜ 🗂 **C#**
+
+A C# Api for a Novation Launchpad X.
+
+---
+
+### [sperezintexas/xfinance-advisor-mcp](https://github.com/sperezintexas/xfinance-advisor-mcp)
+
+🗓 **2026-05-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
-
----
-
-### [kasondejeremiah2-code/TalentClips](https://github.com/kasondejeremiah2-code/TalentClips)
-
-🗓 **2026-05-04** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Talent Clip is a lightweight web app built for showcasing short-form creative content, enabling users to upload, explore, and engage with talent from around the world.
 
 ---
 
