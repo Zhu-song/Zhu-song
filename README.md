@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [WeritoP/BetterNitroDiscord](https://github.com/WeritoP/BetterNitroDiscord)
+### [BertecKol/Bertex-Here](https://github.com/BertecKol/Bertex-Here)
 
-🗓 **2026-05-05** ｜ ⭐️ **462 stars** ｜ 🗂 **未知**
-
-BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
-
----
-
-### [1TDSPY-26/front-1sem-aula-02](https://github.com/1TDSPY-26/front-1sem-aula-02)
-
-🗓 **2026-05-05** ｜ ⭐️ **11 stars** ｜ 🗂 **HTML**
+🗓 **2026-05-06** ｜ ⭐️ **47 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [Se3do/ngine-CAD-Engine](https://github.com/Se3do/ngine-CAD-Engine)
+### [1TDSPO-26/front-1sem-aula-07](https://github.com/1TDSPO-26/front-1sem-aula-07)
 
-🗓 **2026-05-05** ｜ ⭐️ **4 stars** ｜ 🗂 **C++**
+🗓 **2026-05-06** ｜ ⭐️ **20 stars** ｜ 🗂 **HTML**
 
-An extensible C++20 2D geometry core and constraint solver designed for CAD/PLM software.
-
----
-
-### [Crafterchen2/LpxApi](https://github.com/Crafterchen2/LpxApi)
-
-🗓 **2026-05-05** ｜ ⭐️ **1 stars** ｜ 🗂 **C#**
-
-A C# Api for a Novation Launchpad X.
+暂无描述
 
 ---
 
-### [sperezintexas/xfinance-advisor-mcp](https://github.com/sperezintexas/xfinance-advisor-mcp)
+### [aziis98/autonotes](https://github.com/aziis98/autonotes)
 
-🗓 **2026-05-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-05-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+
+A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
+
+---
+
+### [h-kono-it/astro-site-shell](https://github.com/h-kono-it/astro-site-shell)
+
+🗓 **2026-05-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Astro**
+
+A CLI-style terminal widget for Astro sites
+
+---
+
+### [RGB50323/ProyectoNcapas_Frontend](https://github.com/RGB50323/ProyectoNcapas_Frontend)
+
+🗓 **2026-05-06** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
