@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [BertecKol/Bertex-Here](https://github.com/BertecKol/Bertex-Here)
+### [1TDSPw-26/front-aula-07-1sem](https://github.com/1TDSPw-26/front-aula-07-1sem)
 
-🗓 **2026-05-06** ｜ ⭐️ **47 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [1TDSPO-26/front-1sem-aula-07](https://github.com/1TDSPO-26/front-1sem-aula-07)
-
-🗓 **2026-05-06** ｜ ⭐️ **20 stars** ｜ 🗂 **HTML**
+🗓 **2026-05-07** ｜ ⭐️ **14 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [aziis98/autonotes](https://github.com/aziis98/autonotes)
+### [Tremorfitzapplaud/1tamilmv-telegram-bot](https://github.com/Tremorfitzapplaud/1tamilmv-telegram-bot)
 
-🗓 **2026-05-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+🗓 **2026-05-07** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
 
-A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
-
----
-
-### [h-kono-it/astro-site-shell](https://github.com/h-kono-it/astro-site-shell)
-
-🗓 **2026-05-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Astro**
-
-A CLI-style terminal widget for Astro sites
+1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot
 
 ---
 
-### [RGB50323/ProyectoNcapas_Frontend](https://github.com/RGB50323/ProyectoNcapas_Frontend)
+### [nooncheetahstart/Kahoot-tools-AI](https://github.com/nooncheetahstart/Kahoot-tools-AI)
 
-🗓 **2026-05-06** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-05-07** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Kahoot || Kahoot helper || Kahoot tools || Kahoot ai
+
+---
+
+### [GabrielRibSilva/avaliacao-n2](https://github.com/GabrielRibSilva/avaliacao-n2)
+
+🗓 **2026-05-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
 
 暂无描述
+
+---
+
+### [Edu-0/writers-brain](https://github.com/Edu-0/writers-brain)
+
+🗓 **2026-05-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Kotlin**
+
+Repositório para o trabalho de Dispositivos Móveis
 
 ---
 
