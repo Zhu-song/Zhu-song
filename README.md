@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [1TDSPw-26/front-aula-07-1sem](https://github.com/1TDSPw-26/front-aula-07-1sem)
+### [ckolivas/ckpool](https://github.com/ckolivas/ckpool)
 
-🗓 **2026-05-07** ｜ ⭐️ **14 stars** ｜ 🗂 **HTML**
-
-暂无描述
-
----
-
-### [Tremorfitzapplaud/1tamilmv-telegram-bot](https://github.com/Tremorfitzapplaud/1tamilmv-telegram-bot)
-
-🗓 **2026-05-07** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
-
-1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot
-
----
-
-### [nooncheetahstart/Kahoot-tools-AI](https://github.com/nooncheetahstart/Kahoot-tools-AI)
-
-🗓 **2026-05-07** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Kahoot || Kahoot helper || Kahoot tools || Kahoot ai
-
----
-
-### [GabrielRibSilva/avaliacao-n2](https://github.com/GabrielRibSilva/avaliacao-n2)
-
-🗓 **2026-05-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-05-08** ｜ ⭐️ **6 stars** ｜ 🗂 **C**
 
 暂无描述
 
 ---
 
-### [Edu-0/writers-brain](https://github.com/Edu-0/writers-brain)
+### [dragonscraper/bookmyshow-scraper](https://github.com/dragonscraper/bookmyshow-scraper)
 
-🗓 **2026-05-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Kotlin**
+🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-Repositório para o trabalho de Dispositivos Móveis
+this is an old scraper for bookmyshow  i made it two years ago it does  need some changes 
+
+---
+
+### [masonthemaker/palmprint](https://github.com/masonthemaker/palmprint)
+
+🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+
+Hand-gesture and facial-expression verification instead of CAPTCHAs, with human-in-the-loop consent for AI agents
+
+---
+
+### [cezarmezzalira/afya-aep-2026](https://github.com/cezarmezzalira/afya-aep-2026)
+
+🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+
+暂无描述
+
+---
+
+### [LiZhuoRan0/Weekly-Report-Aggregator](https://github.com/LiZhuoRan0/Weekly-Report-Aggregator)
+
+🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+Receive weekly reports from QQ email and the designated local folder, and integrate and send them.
 
 ---
 
