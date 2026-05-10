@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ckolivas/ckpool](https://github.com/ckolivas/ckpool)
+### [ilaykav/scvelo-rs](https://github.com/ilaykav/scvelo-rs)
 
-🗓 **2026-05-08** ｜ ⭐️ **6 stars** ｜ 🗂 **C**
+🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+
+Drop-in Rust + PyO3 acceleration of scvelo for single-cell RNA velocity
+
+---
+
+### [olveirajs/objtEdit](https://github.com/olveirajs/objtEdit)
+
+🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Pawn**
 
 暂无描述
 
 ---
 
-### [dragonscraper/bookmyshow-scraper](https://github.com/dragonscraper/bookmyshow-scraper)
+### [kplane-dev/bench](https://github.com/kplane-dev/bench)
 
-🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
 
-this is an old scraper for bookmyshow  i made it two years ago it does  need some changes 
-
----
-
-### [masonthemaker/palmprint](https://github.com/masonthemaker/palmprint)
-
-🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-Hand-gesture and facial-expression verification instead of CAPTCHAs, with human-in-the-loop consent for AI agents
+Reproducible CPU/memory/goroutine benchmark for the kplane apiserver across N virtual control planes
 
 ---
 
-### [cezarmezzalira/afya-aep-2026](https://github.com/cezarmezzalira/afya-aep-2026)
+### [khaidrate/Fate-Definer](https://github.com/khaidrate/Fate-Definer)
 
-🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
 
-暂无描述
+Prototype for a DND/tabletop RPG manager
 
 ---
 
-### [LiZhuoRan0/Weekly-Report-Aggregator](https://github.com/LiZhuoRan0/Weekly-Report-Aggregator)
+### [moayedalghanmi-web/moayed](https://github.com/moayedalghanmi-web/moayed)
 
-🗓 **2026-05-08** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-05-09** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
-Receive weekly reports from QQ email and the designated local folder, and integrate and send them.
+موقع الخيّال الفارس مؤيد بن بندر الغانمي
 
 ---
 
