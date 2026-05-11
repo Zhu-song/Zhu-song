@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ilaykav/scvelo-rs](https://github.com/ilaykav/scvelo-rs)
+### [itsuzef/goalkeeper](https://github.com/itsuzef/goalkeeper)
 
-🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+🗓 **2026-05-10** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-Drop-in Rust + PyO3 acceleration of scvelo for single-cell RNA velocity
+Set durable goals. Approve at the gate. Contract-driven autonomous goal execution for Claude Code. A subagent judge gates completion against an explicit Definition of Done.
 
 ---
 
-### [olveirajs/objtEdit](https://github.com/olveirajs/objtEdit)
+### [sweetk-dev/11-IITP-DABT-MCP](https://github.com/sweetk-dev/11-IITP-DABT-MCP)
 
-🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Pawn**
+🗓 **2026-05-10** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+11. 문화관광정보 제공을 위한 MCP(Model Context Protocol) 호스트 및 서버구성
+
+---
+
+### [lenhattung/SU26-SE2041-PRJ301](https://github.com/lenhattung/SU26-SE2041-PRJ301)
+
+🗓 **2026-05-10** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [kplane-dev/bench](https://github.com/kplane-dev/bench)
+### [BTspaceC/SAS-FAS-analyst](https://github.com/BTspaceC/SAS-FAS-analyst)
 
-🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+🗓 **2026-05-10** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Reproducible CPU/memory/goroutine benchmark for the kplane apiserver across N virtual control planes
-
----
-
-### [khaidrate/Fate-Definer](https://github.com/khaidrate/Fate-Definer)
-
-🗓 **2026-05-09** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
-
-Prototype for a DND/tabletop RPG manager
+Structured Adversarial Synthesis - Financial Analysis System
 
 ---
 
-### [moayedalghanmi-web/moayed](https://github.com/moayedalghanmi-web/moayed)
+### [ulrichheringer/flow.engine](https://github.com/ulrichheringer/flow.engine)
 
-🗓 **2026-05-09** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-05-10** ｜ ⭐️ **3 stars** ｜ 🗂 **Kotlin**
 
-موقع الخيّال الفارس مؤيد بن بندر الغانمي
+暂无描述
 
 ---
 
