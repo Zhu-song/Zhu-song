@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Nick-Baumann/gobbo-ai](https://github.com/Nick-Baumann/gobbo-ai)
+### [1TDSPY-26/front-1sem-aula-03](https://github.com/1TDSPY-26/front-1sem-aula-03)
 
-🗓 **2026-05-11** ｜ ⭐️ **10 stars** ｜ 🗂 **TypeScript**
-
-GRRRBLEHHH!
-
----
-
-### [Yingfluencer/asean-deal-diagnostic](https://github.com/Yingfluencer/asean-deal-diagnostic)
-
-🗓 **2026-05-11** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-05-12** ｜ ⭐️ **14 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [Kayofpimentel/projeto_ada_equipe2](https://github.com/Kayofpimentel/projeto_ada_equipe2)
+### [anan-root/ChatBI-Data-Analysis-Assistant](https://github.com/anan-root/ChatBI-Data-Analysis-Assistant)
 
-🗓 **2026-05-11** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Repositório para o projeto final do módulo 2 - turma 1680 - equipe 2
-
----
-
-### [Frankierags/stadium-pulse](https://github.com/Frankierags/stadium-pulse)
-
-🗓 **2026-05-11** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-Real-time sports scoreboard built with Flask, JavaScript, and WLED integration.
+基于 LangGraph、MCP、FastAPI、React 和 PostgreSQL 构建的企业级 ChatBI 数据分析助手，支持自然语言查数、文件导入清洗、业务空间隔离、图表看板和诊断型分析报告。
 
 ---
 
-### [tkennedy2491/Thierno](https://github.com/tkennedy2491/Thierno)
+### [SuhangXia/CodePatentSkill](https://github.com/SuhangXia/CodePatentSkill)
 
-🗓 **2026-05-11** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
+
+---
+
+### [miniex/btop-theme-damin](https://github.com/miniex/btop-theme-damin)
+
+🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+
+Minimal btop theme in the damin two-color palette
+
+---
+
+### [aerroberts/two-pebble](https://github.com/aerroberts/two-pebble)
+
+🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+A personal agent orchestration UI for developers
 
 ---
 
