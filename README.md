@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [1TDSPY-26/front-1sem-aula-03](https://github.com/1TDSPY-26/front-1sem-aula-03)
+### [CyberSealNull/CcCompanion](https://github.com/CyberSealNull/CcCompanion)
 
-🗓 **2026-05-12** ｜ ⭐️ **14 stars** ｜ 🗂 **HTML**
+🗓 **2026-05-13** ｜ ⭐️ **10 stars** ｜ 🗂 **Swift**
 
-暂无描述
-
----
-
-### [anan-root/ChatBI-Data-Analysis-Assistant](https://github.com/anan-root/ChatBI-Data-Analysis-Assistant)
-
-🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-基于 LangGraph、MCP、FastAPI、React 和 PostgreSQL 构建的企业级 ChatBI 数据分析助手，支持自然语言查数、文件导入清洗、业务空间隔离、图表看板和诊断型分析报告。
+Bring Claude Code to your iPhone. Open-source iOS client + tiny Python push server. Local-first, runs on your own Mac and your own phone.
 
 ---
 
-### [SuhangXia/CodePatentSkill](https://github.com/SuhangXia/CodePatentSkill)
+### [cityjia/nft-template](https://github.com/cityjia/nft-template)
 
-🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [miniex/btop-theme-damin](https://github.com/miniex/btop-theme-damin)
-
-🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
-
-Minimal btop theme in the damin two-color palette
+Production-ready NFT collection template with ERC-721, metadata, and minting dApp
 
 ---
 
-### [aerroberts/two-pebble](https://github.com/aerroberts/two-pebble)
+### [cityjia/cross-chain-bridge](https://github.com/cityjia/cross-chain-bridge)
 
-🗓 **2026-05-12** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-A personal agent orchestration UI for developers
+Cross-chain bridge implementation template supporting EVM-compatible networks
+
+---
+
+### [cityjia/solidity-library](https://github.com/cityjia/solidity-library)
+
+🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+Reusable Solidity libraries and utility contracts for secure smart contract development
+
+---
+
+### [cityjia/solidity-patterns](https://github.com/cityjia/solidity-patterns)
+
+🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+Common Solidity design patterns and best practices
 
 ---
 
