@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [CyberSealNull/CcCompanion](https://github.com/CyberSealNull/CcCompanion)
+### [avotcorg/music](https://github.com/avotcorg/music)
 
-🗓 **2026-05-13** ｜ ⭐️ **10 stars** ｜ 🗂 **Swift**
+🗓 **2026-05-14** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
 
-Bring Claude Code to your iPhone. Open-source iOS client + tiny Python push server. Local-first, runs on your own Mac and your own phone.
-
----
-
-### [cityjia/nft-template](https://github.com/cityjia/nft-template)
-
-🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
-
-Production-ready NFT collection template with ERC-721, metadata, and minting dApp
+music
 
 ---
 
-### [cityjia/cross-chain-bridge](https://github.com/cityjia/cross-chain-bridge)
+### [marginalia-os/marginalia-sdk](https://github.com/marginalia-os/marginalia-sdk)
 
-🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Cross-chain bridge implementation template supporting EVM-compatible networks
-
----
-
-### [cityjia/solidity-library](https://github.com/cityjia/solidity-library)
-
-🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
-
-Reusable Solidity libraries and utility contracts for secure smart contract development
+Developer SDK and manifest schema for Marginalia packages.
 
 ---
 
-### [cityjia/solidity-patterns](https://github.com/cityjia/solidity-patterns)
+### [ps1526/ankylo_rl](https://github.com/ps1526/ankylo_rl)
 
-🗓 **2026-05-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Common Solidity design patterns and best practices
+rl sim of ankylosaurus magniventris to simulate plausible paleo-biological behavior, building off of mezosoic labs
+
+---
+
+### [AmyraxVPN-Main/AmyraxVPN-RELAY](https://github.com/AmyraxVPN-Main/AmyraxVPN-RELAY)
+
+🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+AmyraxVPN Netlify RELAY!
+
+---
+
+### [wyexsq/To-Do-List-Tool](https://github.com/wyexsq/To-Do-List-Tool)
+
+🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
 
 ---
 
