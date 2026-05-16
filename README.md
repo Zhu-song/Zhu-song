@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [avotcorg/music](https://github.com/avotcorg/music)
+### [MistWeatherMedia/weatherscan-v2](https://github.com/MistWeatherMedia/weatherscan-v2)
 
-🗓 **2026-05-14** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-music
-
----
-
-### [marginalia-os/marginalia-sdk](https://github.com/marginalia-os/marginalia-sdk)
-
-🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Developer SDK and manifest schema for Marginalia packages.
+Weatherscan v2 (2005-2022) simulation in HTML/JS/CSS
 
 ---
 
-### [ps1526/ankylo_rl](https://github.com/ps1526/ankylo_rl)
+### [roverdiani/GCEmu](https://github.com/roverdiani/GCEmu)
 
-🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
 
-rl sim of ankylosaurus magniventris to simulate plausible paleo-biological behavior, building off of mezosoic labs
-
----
-
-### [AmyraxVPN-Main/AmyraxVPN-RELAY](https://github.com/AmyraxVPN-Main/AmyraxVPN-RELAY)
-
-🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-AmyraxVPN Netlify RELAY!
+A Grand Chase Season 1 emulator written in Java
 
 ---
 
-### [wyexsq/To-Do-List-Tool](https://github.com/wyexsq/To-Do-List-Tool)
+### [lifeineth/lie](https://github.com/lifeineth/lie)
 
-🗓 **2026-05-14** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
+
+---
+
+### [Flotealy/vm_scanner](https://github.com/Flotealy/vm_scanner)
+
+🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+暂无描述
+
+---
+
+### [renawxs/Love-Site](https://github.com/renawxs/Love-Site)
+
+🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+Site feito com HTML, CSS e JavaScript 
 
 ---
 
