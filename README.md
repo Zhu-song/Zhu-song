@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [MistWeatherMedia/weatherscan-v2](https://github.com/MistWeatherMedia/weatherscan-v2)
+### [zhiyingzzhou/renewlet](https://github.com/zhiyingzzhou/renewlet)
 
-🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-16** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
 
-Weatherscan v2 (2005-2022) simulation in HTML/JS/CSS
-
----
-
-### [roverdiani/GCEmu](https://github.com/roverdiani/GCEmu)
-
-🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
-
-A Grand Chase Season 1 emulator written in Java
+Renewlet 是一个自托管的订阅管理工具。它把 SaaS、AI 工具、云服务和开发工具的价格、续费日、预算和提醒放到一起，适合个人、独立团队和家庭实验室使用。
 
 ---
 
-### [lifeineth/lie](https://github.com/lifeineth/lie)
+### [MrTrenchTrucker/turbohaul-manager](https://github.com/MrTrenchTrucker/turbohaul-manager)
 
-🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-05-16** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+Ollama-shape inference manager using Tom's TurboQuant llama.cpp. FIFO queue + grace + IDLE_HOT hot-hold + model swap on Blackwell.
+
+---
+
+### [NeurekaSoftware/wArrden](https://github.com/NeurekaSoftware/wArrden)
+
+🗓 **2026-05-16** ｜ ⭐️ **3 stars** ｜ 🗂 **C#**
+
+[Mirror] wArrden makes it easy to maintain your Radarr and Sonarr libraries by finding missing or upgradeable content, as well as detecting and clearing stuck imports from the queue.
+
+---
+
+### [Gertrundger/Cracker_Project](https://github.com/Gertrundger/Cracker_Project)
+
+🗓 **2026-05-16** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
 
 暂无描述
 
 ---
 
-### [Flotealy/vm_scanner](https://github.com/Flotealy/vm_scanner)
+### [alexr314/mellifluous](https://github.com/alexr314/mellifluous)
 
-🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-05-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [renawxs/Love-Site](https://github.com/renawxs/Love-Site)
-
-🗓 **2026-05-15** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-Site feito com HTML, CSS e JavaScript 
+Markdown-to-speech for macOS Apple Silicon. Parses structure, normalizes inline content, speaks with pauses that feel like real reading. TTS runs locally on MLX with voice cloning.
 
 ---
 
