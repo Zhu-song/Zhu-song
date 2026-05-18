@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [zhiyingzzhou/renewlet](https://github.com/zhiyingzzhou/renewlet)
+### [AlexanderWangY/spectral](https://github.com/AlexanderWangY/spectral)
 
-🗓 **2026-05-16** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-05-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
 
-Renewlet 是一个自托管的订阅管理工具。它把 SaaS、AI 工具、云服务和开发工具的价格、续费日、预算和提醒放到一起，适合个人、独立团队和家庭实验室使用。
-
----
-
-### [MrTrenchTrucker/turbohaul-manager](https://github.com/MrTrenchTrucker/turbohaul-manager)
-
-🗓 **2026-05-16** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-Ollama-shape inference manager using Tom's TurboQuant llama.cpp. FIFO queue + grace + IDLE_HOT hot-hold + model swap on Blackwell.
+Decentralized service discovery via self-healing expander graphs.
 
 ---
 
-### [NeurekaSoftware/wArrden](https://github.com/NeurekaSoftware/wArrden)
+### [nachixxs/accelerate-ai-automations](https://github.com/nachixxs/accelerate-ai-automations)
 
-🗓 **2026-05-16** ｜ ⭐️ **3 stars** ｜ 🗂 **C#**
+🗓 **2026-05-17** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-[Mirror] wArrden makes it easy to maintain your Radarr and Sonarr libraries by finding missing or upgradeable content, as well as detecting and clearing stuck imports from the queue.
-
----
-
-### [Gertrundger/Cracker_Project](https://github.com/Gertrundger/Cracker_Project)
-
-🗓 **2026-05-16** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
-
-暂无描述
+AI automation workflows for SMBs — n8n + Claude Sonnet + Google Sheets
 
 ---
 
-### [alexr314/mellifluous](https://github.com/alexr314/mellifluous)
+### [maxvaldes33/finanzas-cli](https://github.com/maxvaldes33/finanzas-cli)
 
-🗓 **2026-05-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-05-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Markdown-to-speech for macOS Apple Silicon. Parses structure, normalizes inline content, speaks with pauses that feel like real reading. TTS runs locally on MLX with voice cloning.
+💰 Gestor de finanzas personales en terminal — importa cartolas bancarias chilenas (CSV/Excel/PDF), categoriza gastos y visualiza con Rich
+
+---
+
+### [serigneb557-creator/Anbales-s-n-gal](https://github.com/serigneb557-creator/Anbales-s-n-gal)
+
+🗓 **2026-05-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Boutique de vente d'annales et anciens sujets de concours du Sénégal
+
+---
+
+### [brunostreamingtv-jpg/Bm](https://github.com/brunostreamingtv-jpg/Bm)
+
+🗓 **2026-05-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Sua melhor opção em tv 
 
 ---
 
