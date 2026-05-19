@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [AlexanderWangY/spectral](https://github.com/AlexanderWangY/spectral)
+### [he4rt/marketing-extension](https://github.com/he4rt/marketing-extension)
 
-🗓 **2026-05-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+🗓 **2026-05-18** ｜ ⭐️ **21 stars** ｜ 🗂 **JavaScript**
 
-Decentralized service discovery via self-healing expander graphs.
-
----
-
-### [nachixxs/accelerate-ai-automations](https://github.com/nachixxs/accelerate-ai-automations)
-
-🗓 **2026-05-17** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-AI automation workflows for SMBs — n8n + Claude Sonnet + Google Sheets
+Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
 
 ---
 
-### [maxvaldes33/finanzas-cli](https://github.com/maxvaldes33/finanzas-cli)
+### [kelvinagyareyeboah/kelvinagyareyeboah](https://github.com/kelvinagyareyeboah/kelvinagyareyeboah)
 
-🗓 **2026-05-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-05-18** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-💰 Gestor de finanzas personales en terminal — importa cartolas bancarias chilenas (CSV/Excel/PDF), categoriza gastos y visualiza con Rich
-
----
-
-### [serigneb557-creator/Anbales-s-n-gal](https://github.com/serigneb557-creator/Anbales-s-n-gal)
-
-🗓 **2026-05-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Boutique de vente d'annales et anciens sujets de concours du Sénégal
+About the author
 
 ---
 
-### [brunostreamingtv-jpg/Bm](https://github.com/brunostreamingtv-jpg/Bm)
+### [ki-mutaku/re-recaptcha](https://github.com/ki-mutaku/re-recaptcha)
 
-🗓 **2026-05-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-05-18** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-Sua melhor opção em tv 
+reCAPTCHAのような画像当てゲームを機械学習で当てるプロジェクト
+
+---
+
+### [lukasn9/HackathonRotterdam](https://github.com/lukasn9/HackathonRotterdam)
+
+🗓 **2026-05-18** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
+
+---
+
+### [lks59k/AI-Text-Analyzer](https://github.com/lks59k/AI-Text-Analyzer)
+
+🗓 **2026-05-18** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Une extension web dédier pour la détection de texte AI
 
 ---
 
