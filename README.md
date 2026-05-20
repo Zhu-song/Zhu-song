@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [he4rt/marketing-extension](https://github.com/he4rt/marketing-extension)
+### [1TDSPY-26/front-1sem-aula-05](https://github.com/1TDSPY-26/front-1sem-aula-05)
 
-🗓 **2026-05-18** ｜ ⭐️ **21 stars** ｜ 🗂 **JavaScript**
-
-Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured JSON for He4rt Hub ingestion.
-
----
-
-### [kelvinagyareyeboah/kelvinagyareyeboah](https://github.com/kelvinagyareyeboah/kelvinagyareyeboah)
-
-🗓 **2026-05-18** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
-
-About the author
-
----
-
-### [ki-mutaku/re-recaptcha](https://github.com/ki-mutaku/re-recaptcha)
-
-🗓 **2026-05-18** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-reCAPTCHAのような画像当てゲームを機械学習で当てるプロジェクト
-
----
-
-### [lukasn9/HackathonRotterdam](https://github.com/lukasn9/HackathonRotterdam)
-
-🗓 **2026-05-18** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-05-19** ｜ ⭐️ **7 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [lks59k/AI-Text-Analyzer](https://github.com/lks59k/AI-Text-Analyzer)
+### [y-g-jiang/Jiangtherapee-sony-compressed-raw-hq-decoder](https://github.com/y-g-jiang/Jiangtherapee-sony-compressed-raw-hq-decoder)
 
-🗓 **2026-05-18** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-19** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-Une extension web dédier pour la détection de texte AI
+暂无描述
+
+---
+
+### [dajun666/schoology-mcp](https://github.com/dajun666/schoology-mcp)
+
+🗓 **2026-05-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+mcp for schoology--specifically for PAUSD
+
+---
+
+### [real-ckdev/Auto-Accept](https://github.com/real-ckdev/Auto-Accept)
+
+🗓 **2026-05-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+
+A Minecraft mod designed to make joining your world easier.
+
+---
+
+### [yzq129/-](https://github.com/yzq129/-)
+
+🗓 **2026-05-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+只有金融数学实验问题2的分析
 
 ---
 
