@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [aslzoda1/w50](https://github.com/aslzoda1/w50)
+### [gokulgml/polymarket-copy-trading-bot](https://github.com/gokulgml/polymarket-copy-trading-bot)
 
-🗓 **2026-05-21** ｜ ⭐️ **5 stars** ｜ 🗂 **HTML**
+🗓 **2026-05-22** ｜ ⭐️ **46 stars** ｜ 🗂 **TypeScript**
+
+polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,
+
+---
+
+### [RhysSullivan/meshnet](https://github.com/RhysSullivan/meshnet)
+
+🗓 **2026-05-22** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [aslzoda1/w24](https://github.com/aslzoda1/w24)
+### [kingtonriser/git-booster](https://github.com/kingtonriser/git-booster)
 
-🗓 **2026-05-21** ｜ ⭐️ **4 stars** ｜ 🗂 **HTML**
-
-暂无描述
-
----
-
-### [aslzoda1/241](https://github.com/aslzoda1/241)
-
-🗓 **2026-05-21** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
+🗓 **2026-05-22** ｜ ⭐️ **3 stars** ｜ 🗂 **Shell**
 
 暂无描述
 
 ---
 
-### [aslzoda1/c221](https://github.com/aslzoda1/c221)
+### [Linejesus/Projeto_Micromobilidade_Urbana](https://github.com/Linejesus/Projeto_Micromobilidade_Urbana)
 
-🗓 **2026-05-21** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
+🗓 **2026-05-22** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [aslzoda1/c211](https://github.com/aslzoda1/c211)
+### [ItsCryztynn/Debt-Analytics-Financial-Dashboard](https://github.com/ItsCryztynn/Debt-Analytics-Financial-Dashboard)
 
-🗓 **2026-05-21** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
+🗓 **2026-05-22** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-暂无描述
+Dynamic Excel dashboard for debt-to-income (DTI) analysis and automated liability tracking. Built to visualize financial recovery trends (2026-2027).
 
 ---
 
