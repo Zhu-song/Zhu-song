@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [gonefunctor/ariel](https://github.com/gonefunctor/ariel)
+### [vaamonde/ai-network-senac-tit](https://github.com/vaamonde/ai-network-senac-tit)
 
-🗓 **2026-05-24** ｜ ⭐️ **23 stars** ｜ 🗂 **C**
+🗓 **2026-05-25** ｜ ⭐️ **12 stars** ｜ 🗂 **未知**
 
-AArch64 EL2 hypervisor for QEMU virt that boots at EL2
-
----
-
-### [realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules)
-
-🗓 **2026-05-24** ｜ ⭐️ **17 stars** ｜ 🗂 **未知**
-
-Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.
+Repositório do Curso de IA para Redes de Computadores do SENAC Lapa Tito
 
 ---
 
-### [hzauzxb/code_label_img](https://github.com/hzauzxb/code_label_img)
+### [WoodHelmsman/Macrium-Reflect-Crack](https://github.com/WoodHelmsman/Macrium-Reflect-Crack)
 
-🗓 **2026-05-24** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-05-25** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
 
-Multi-Agent Rich-Text Image Annotation via VLM Coding
-
----
-
-### [Jarred-Sumner/xmac](https://github.com/Jarred-Sumner/xmac)
-
-🗓 **2026-05-24** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-Download and extract macOS SDKs from Apple's public CDN for cross-compilation. Like xwin, but for macOS.
+Software repository — parsed from GitHub.
 
 ---
 
-### [datallmhub/agentflow4j-cookbook](https://github.com/datallmhub/agentflow4j-cookbook)
+### [PoolSocialTower/Folx-Pro-Crack](https://github.com/PoolSocialTower/Folx-Pro-Crack)
 
-🗓 **2026-05-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-05-25** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
 
-Runnable multi-agent LLM workflow examples in Java — RAG, ticket triage, web research, Slack bot, batch processing — with AgentFlow4J and Spring AI.
+Software repository — parsed from GitHub.
+
+---
+
+### [Bufferiuneedle/IM-Magic-Partition-Resizer-cracked](https://github.com/Bufferiuneedle/IM-Magic-Partition-Resizer-cracked)
+
+🗓 **2026-05-25** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+
+IM-Magic Partition Resizer — extend system C drive without data loss or system reboot required.
+
+---
+
+### [GripIndustrialPivot/GetDataBack-Pro-cracked](https://github.com/GripIndustrialPivot/GetDataBack-Pro-cracked)
+
+🗓 **2026-05-25** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+GetDataBack Pro — NTFS and FAT file system recovery after crash, deletion, or format.
 
 ---
 
