@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [vaamonde/ai-network-senac-tit](https://github.com/vaamonde/ai-network-senac-tit)
+### [GOROman/nullevi03](https://github.com/GOROman/nullevi03)
 
-🗓 **2026-05-25** ｜ ⭐️ **12 stars** ｜ 🗂 **未知**
+🗓 **2026-05-26** ｜ ⭐️ **20 stars** ｜ 🗂 **Shell**
 
-Repositório do Curso de IA para Redes de Computadores do SENAC Lapa Tito
-
----
-
-### [WoodHelmsman/Macrium-Reflect-Crack](https://github.com/WoodHelmsman/Macrium-Reflect-Crack)
-
-🗓 **2026-05-25** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
-
-Software repository — parsed from GitHub.
+暂无描述
 
 ---
 
-### [PoolSocialTower/Folx-Pro-Crack](https://github.com/PoolSocialTower/Folx-Pro-Crack)
+### [itsajchan/bd-web-research-agents](https://github.com/itsajchan/bd-web-research-agents)
 
-🗓 **2026-05-25** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
+🗓 **2026-05-26** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
 
-Software repository — parsed from GitHub.
-
----
-
-### [Bufferiuneedle/IM-Magic-Partition-Resizer-cracked](https://github.com/Bufferiuneedle/IM-Magic-Partition-Resizer-cracked)
-
-🗓 **2026-05-25** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
-
-IM-Magic Partition Resizer — extend system C drive without data loss or system reboot required.
+暂无描述
 
 ---
 
-### [GripIndustrialPivot/GetDataBack-Pro-cracked](https://github.com/GripIndustrialPivot/GetDataBack-Pro-cracked)
+### [mli/docs](https://github.com/mli/docs)
 
-🗓 **2026-05-25** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-05-26** ｜ ⭐️ **5 stars** ｜ 🗂 **MDX**
 
-GetDataBack Pro — NTFS and FAT file system recovery after crash, deletion, or format.
+暂无描述
+
+---
+
+### [LiuYan-89937/BigOpenLLMSearch](https://github.com/LiuYan-89937/BigOpenLLMSearch)
+
+🗓 **2026-05-26** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
+
+---
+
+### [CortexReach/wechat-article-hub](https://github.com/CortexReach/wechat-article-hub)
+
+🗓 **2026-05-26** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+暂无描述
 
 ---
 
