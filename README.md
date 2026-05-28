@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [GOROman/nullevi03](https://github.com/GOROman/nullevi03)
+### [Fruit03246565/fruitorchestra](https://github.com/Fruit03246565/fruitorchestra)
 
-🗓 **2026-05-26** ｜ ⭐️ **20 stars** ｜ 🗂 **Shell**
+🗓 **2026-05-27** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [itsajchan/bd-web-research-agents](https://github.com/itsajchan/bd-web-research-agents)
-
-🗓 **2026-05-26** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
-
-暂无描述
+The missing memory layer for multi-agent systems
 
 ---
 
-### [mli/docs](https://github.com/mli/docs)
+### [marvinified/voctar](https://github.com/marvinified/voctar)
 
-🗓 **2026-05-26** ｜ ⭐️ **5 stars** ｜ 🗂 **MDX**
+🗓 **2026-05-27** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-暂无描述
-
----
-
-### [LiuYan-89937/BigOpenLLMSearch](https://github.com/LiuYan-89937/BigOpenLLMSearch)
-
-🗓 **2026-05-26** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-暂无描述
+Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval.
 
 ---
 
-### [CortexReach/wechat-article-hub](https://github.com/CortexReach/wechat-article-hub)
+### [Renato-SI/Bom-de-Guerra-](https://github.com/Renato-SI/Bom-de-Guerra-)
 
-🗓 **2026-05-26** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-05-27** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-暂无描述
+Desafio da Disciplina de PP1
+
+---
+
+### [rickshagravell/Smart-contract-learning](https://github.com/rickshagravell/Smart-contract-learning)
+
+🗓 **2026-05-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+# Smart Contract Learning  Basic experiments while learning smart contracts and blockchain development.
+
+---
+
+### [rickshagravell/Faucet-resources](https://github.com/rickshagravell/Faucet-resources)
+
+🗓 **2026-05-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+# Faucet Resources  Useful blockchain faucet resources for testing and development purposes.
 
 ---
 
