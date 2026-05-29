@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Fruit03246565/fruitorchestra](https://github.com/Fruit03246565/fruitorchestra)
+### [ivanzhang2/mainland-tv-drama](https://github.com/ivanzhang2/mainland-tv-drama)
 
-🗓 **2026-05-27** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
 
-The missing memory layer for multi-agent systems
-
----
-
-### [marvinified/voctar](https://github.com/marvinified/voctar)
-
-🗓 **2026-05-27** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval.
+大陆电视剧追剧手册 2024-2026
 
 ---
 
-### [Renato-SI/Bom-de-Guerra-](https://github.com/Renato-SI/Bom-de-Guerra-)
+### [ivanzhang/overseas-drama-guide](https://github.com/ivanzhang/overseas-drama-guide)
 
-🗓 **2026-05-27** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
 
-Desafio da Disciplina de PP1
-
----
-
-### [rickshagravell/Smart-contract-learning](https://github.com/rickshagravell/Smart-contract-learning)
-
-🗓 **2026-05-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-# Smart Contract Learning  Basic experiments while learning smart contracts and blockchain development.
+海外剧集观影笔记 - 鱿鱼游戏 / 权力的游戏 / 绝命毒师
 
 ---
 
-### [rickshagravell/Faucet-resources](https://github.com/rickshagravell/Faucet-resources)
+### [ivanzhang2/year-by-year-films](https://github.com/ivanzhang2/year-by-year-films)
 
-🗓 **2026-05-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
 
-# Faucet Resources  Useful blockchain faucet resources for testing and development purposes.
+按年份分类电影榜：2024 / 2025 / 2026
+
+---
+
+### [ivanzhang/movie-region-guide](https://github.com/ivanzhang/movie-region-guide)
+
+🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
+
+按地区分类的电影榜：美国 / 日本 / 韩国 / 港片
+
+---
+
+### [tianjiu8341/new-movies-2026](https://github.com/tianjiu8341/new-movies-2026)
+
+🗓 **2026-05-28** ｜ ⭐️ **14 stars** ｜ 🗂 **未知**
+
+2026 新片速递 - 每月更新
 
 ---
 
