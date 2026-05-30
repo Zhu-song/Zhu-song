@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ivanzhang2/mainland-tv-drama](https://github.com/ivanzhang2/mainland-tv-drama)
+### [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
 
-🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
+🗓 **2026-05-29** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-大陆电视剧追剧手册 2024-2026
-
----
-
-### [ivanzhang/overseas-drama-guide](https://github.com/ivanzhang/overseas-drama-guide)
-
-🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
-
-海外剧集观影笔记 - 鱿鱼游戏 / 权力的游戏 / 绝命毒师
+暂无描述
 
 ---
 
-### [ivanzhang2/year-by-year-films](https://github.com/ivanzhang2/year-by-year-films)
+### [MythScience/MythScience](https://github.com/MythScience/MythScience)
 
-🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
+🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-按年份分类电影榜：2024 / 2025 / 2026
-
----
-
-### [ivanzhang/movie-region-guide](https://github.com/ivanzhang/movie-region-guide)
-
-🗓 **2026-05-28** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
-
-按地区分类的电影榜：美国 / 日本 / 韩国 / 港片
+以科学的方法、严谨的态度，构建中国神话传说的结构化数字工程。
 
 ---
 
-### [tianjiu8341/new-movies-2026](https://github.com/tianjiu8341/new-movies-2026)
+### [xyurt/object-pool](https://github.com/xyurt/object-pool)
 
-🗓 **2026-05-28** ｜ ⭐️ **14 stars** ｜ 🗂 **未知**
+🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
 
-2026 新片速递 - 每月更新
+C89 fixed object pool with preallocated memory and O(1) reuse, avoiding heap allocation and fragmentation.
+
+---
+
+### [1616856/SwayFxDotfiles](https://github.com/1616856/SwayFxDotfiles)
+
+🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+
+暂无描述
+
+---
+
+### [makisekurisu0827/context-compactor](https://github.com/makisekurisu0827/context-compactor)
+
+🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+A Claude Code skill that rolls long conversations into one self-updating summary to stop context overflow and keep answers coherent. 滚动压缩上下文，防止 Claude Code 长对话变笨。
 
 ---
 
