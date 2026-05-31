@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+### [yossiehrenfeld5372/oss-maintainer-report](https://github.com/yossiehrenfeld5372/oss-maintainer-report)
 
-🗓 **2026-05-29** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-05-30** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+CLI that audits repository maintainer-readiness and writes Markdown or JSON reports
+
+---
+
+### [gmapsscraper/google-maps-agent-skills](https://github.com/gmapsscraper/google-maps-agent-skills)
+
+🗓 **2026-05-30** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+Claude Code / OpenClaw skills for Google Maps lead    generation. Scrape businesses, extract emails, analyze competitors,    write cold outreach — powered by gmapsscraper.io API.
+
+---
+
+### [jmonster/pocketflare](https://github.com/jmonster/pocketflare)
+
+🗓 **2026-05-30** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Open Source backend running on 1 Cloudflare Worker
+
+---
+
+### [sabuchandess/open-directory-media-kit](https://github.com/sabuchandess/open-directory-media-kit)
+
+🗓 **2026-05-30** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [MythScience/MythScience](https://github.com/MythScience/MythScience)
+### [amrrish21/autotrade_bot](https://github.com/amrrish21/autotrade_bot)
 
-🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-05-30** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-以科学的方法、严谨的态度，构建中国神话传说的结构化数字工程。
-
----
-
-### [xyurt/object-pool](https://github.com/xyurt/object-pool)
-
-🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
-
-C89 fixed object pool with preallocated memory and O(1) reuse, avoiding heap allocation and fragmentation.
-
----
-
-### [1616856/SwayFxDotfiles](https://github.com/1616856/SwayFxDotfiles)
-
-🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
-
-暂无描述
-
----
-
-### [makisekurisu0827/context-compactor](https://github.com/makisekurisu0827/context-compactor)
-
-🗓 **2026-05-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-A Claude Code skill that rolls long conversations into one self-updating summary to stop context overflow and keep answers coherent. 滚动压缩上下文，防止 Claude Code 长对话变笨。
+An automated trading bot integrated with the Upstox brokerage API.
 
 ---
 
