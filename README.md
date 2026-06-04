@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [aslzoda1/j3251](https://github.com/aslzoda1/j3251)
+### [Teamcherope68/Affinity-Designer-2-crack](https://github.com/Teamcherope68/Affinity-Designer-2-crack)
 
-🗓 **2026-06-02** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+🗓 **2026-06-03** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+
+Affinity Designer 2 - Award-winning vector graphics software for UI design and illustrations. Comprehensive guide with setup instructions, feature highlights.
+
+---
+
+### [Gammachucutter/iMyFone-D-Back-crack](https://github.com/Gammachucutter/iMyFone-D-Back-crack)
+
+🗓 **2026-06-03** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+
+iMyFone D Back - Professional iOS data recovery software for deleted messages and photos. Comprehensive guide with setup instructions, feature highlights.
+
+---
+
+### [Petaarreminisce/Ableton-Live-12-Suite-crack](https://github.com/Petaarreminisce/Ableton-Live-12-Suite-crack)
+
+🗓 **2026-06-03** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [aslzoda1/j3262](https://github.com/aslzoda1/j3262)
+### [SandstoneAlbatross/Supremo-REMOTE-DESKTOP-crack](https://github.com/SandstoneAlbatross/Supremo-REMOTE-DESKTOP-crack)
 
-🗓 **2026-06-02** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+🗓 **2026-06-03** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [aslzoda1/j3249](https://github.com/aslzoda1/j3249)
-
-🗓 **2026-06-02** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
-
-暂无描述
+Supremo REMOTE DESKTOP - Secure remote desktop access and control software. Comprehensive guide with setup instructions, feature highlights.
 
 ---
 
-### [aslzoda1/j3215](https://github.com/aslzoda1/j3215)
+### [boona13/sprite-lab](https://github.com/boona13/sprite-lab)
 
-🗓 **2026-06-02** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
-
-暂无描述
-
----
-
-### [aslzoda1/j3211](https://github.com/aslzoda1/j3211)
-
-🗓 **2026-06-02** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+🗓 **2026-06-03** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
