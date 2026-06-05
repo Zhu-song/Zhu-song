@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [Teamcherope68/Affinity-Designer-2-crack](https://github.com/Teamcherope68/Affinity-Designer-2-crack)
+### [veryyoldman/undress-ai-image-video-generator](https://github.com/veryyoldman/undress-ai-image-video-generator)
 
-🗓 **2026-06-03** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+🗓 **2026-06-04** ｜ ⭐️ **101 stars** ｜ 🗂 **Python**
 
-Affinity Designer 2 - Award-winning vector graphics software for UI design and illustrations. Comprehensive guide with setup instructions, feature highlights.
-
----
-
-### [Gammachucutter/iMyFone-D-Back-crack](https://github.com/Gammachucutter/iMyFone-D-Back-crack)
-
-🗓 **2026-06-03** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
-
-iMyFone D Back - Professional iOS data recovery software for deleted messages and photos. Comprehensive guide with setup instructions, feature highlights.
+AI tool for generating uncensored images and videos
 
 ---
 
-### [Petaarreminisce/Ableton-Live-12-Suite-crack](https://github.com/Petaarreminisce/Ableton-Live-12-Suite-crack)
+### [coinbaselarper/lucideium](https://github.com/coinbaselarper/lucideium)
 
-🗓 **2026-06-03** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+🗓 **2026-06-04** ｜ ⭐️ **16 stars** ｜ 🗂 **Shell**
 
-暂无描述
-
----
-
-### [SandstoneAlbatross/Supremo-REMOTE-DESKTOP-crack](https://github.com/SandstoneAlbatross/Supremo-REMOTE-DESKTOP-crack)
-
-🗓 **2026-06-03** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
-
-Supremo REMOTE DESKTOP - Secure remote desktop access and control software. Comprehensive guide with setup instructions, feature highlights.
+Lucideium chromeos mod
 
 ---
 
-### [boona13/sprite-lab](https://github.com/boona13/sprite-lab)
+### [zzszmyf/codefuse](https://github.com/zzszmyf/codefuse)
 
-🗓 **2026-06-03** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-06-04** ｜ ⭐️ **9 stars** ｜ 🗂 **Go**
+
+Stop grepping. CodeFuse pre-indexes your codebase so AI agents can cat symbols and ls outlines in stead of rescanning files repeatedly.
+
+---
+
+### [HemomancerCreate/Undown-Tool](https://github.com/HemomancerCreate/Undown-Tool)
+
+🗓 **2026-06-04** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+Best tool for unlock lockdown browser bypass
+
+---
+
+### [Liana-Fu/hzpickleball](https://github.com/Liana-Fu/hzpickleball)
+
+🗓 **2026-06-04** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
