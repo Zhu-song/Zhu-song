@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [veryyoldman/undress-ai-image-video-generator](https://github.com/veryyoldman/undress-ai-image-video-generator)
+### [viper690/zenith-mesh](https://github.com/viper690/zenith-mesh)
 
-🗓 **2026-06-04** ｜ ⭐️ **101 stars** ｜ 🗂 **Python**
+🗓 **2026-06-05** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
 
-AI tool for generating uncensored images and videos
-
----
-
-### [coinbaselarper/lucideium](https://github.com/coinbaselarper/lucideium)
-
-🗓 **2026-06-04** ｜ ⭐️ **16 stars** ｜ 🗂 **Shell**
-
-Lucideium chromeos mod
+Cloud-native service mesh for resilient microservices communication and observability.
 
 ---
 
-### [zzszmyf/codefuse](https://github.com/zzszmyf/codefuse)
+### [viper690/nova-proxy](https://github.com/viper690/nova-proxy)
 
-🗓 **2026-06-04** ｜ ⭐️ **9 stars** ｜ 🗂 **Go**
+🗓 **2026-06-05** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-Stop grepping. CodeFuse pre-indexes your codebase so AI agents can cat symbols and ls outlines in stead of rescanning files repeatedly.
-
----
-
-### [HemomancerCreate/Undown-Tool](https://github.com/HemomancerCreate/Undown-Tool)
-
-🗓 **2026-06-04** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-Best tool for unlock lockdown browser bypass
+High-performance Layer 7 proxy and load balancer optimized for edge computing.
 
 ---
 
-### [Liana-Fu/hzpickleball](https://github.com/Liana-Fu/hzpickleball)
+### [whaine-dev/O-que-mais-gosto-em-pernambuco](https://github.com/whaine-dev/O-que-mais-gosto-em-pernambuco)
 
-🗓 **2026-06-04** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-06-05** ｜ ⭐️ **4 stars** ｜ 🗂 **HTML**
+
+暂无描述
+
+---
+
+### [JoaoPedr0Maciel/dev](https://github.com/JoaoPedr0Maciel/dev)
+
+🗓 **2026-06-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+
+A minimal task runner with a TUI for task discovery.
+
+---
+
+### [hayleyding/ccaf-exam-trainer](https://github.com/hayleyding/ccaf-exam-trainer)
+
+🗓 **2026-06-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
