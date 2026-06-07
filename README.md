@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [viper690/zenith-mesh](https://github.com/viper690/zenith-mesh)
+### [ElGaba/Lorecraft-Studio](https://github.com/ElGaba/Lorecraft-Studio)
 
-🗓 **2026-06-05** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
+🗓 **2026-06-06** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-Cloud-native service mesh for resilient microservices communication and observability.
-
----
-
-### [viper690/nova-proxy](https://github.com/viper690/nova-proxy)
-
-🗓 **2026-06-05** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
-
-High-performance Layer 7 proxy and load balancer optimized for edge computing.
+Agent-friendly studio for authoring, staging, previewing, and exporting cinematic interactive narrative games.
 
 ---
 
-### [whaine-dev/O-que-mais-gosto-em-pernambuco](https://github.com/whaine-dev/O-que-mais-gosto-em-pernambuco)
+### [dyxlan337/gpt-projects](https://github.com/dyxlan337/gpt-projects)
 
-🗓 **2026-06-05** ｜ ⭐️ **4 stars** ｜ 🗂 **HTML**
+🗓 **2026-06-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [JoaoPedr0Maciel/dev](https://github.com/JoaoPedr0Maciel/dev)
-
-🗓 **2026-06-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
-
-A minimal task runner with a TUI for task discovery.
+a place to rest and build some cool aplications, with financial costs
 
 ---
 
-### [hayleyding/ccaf-exam-trainer](https://github.com/hayleyding/ccaf-exam-trainer)
+### [wushuailemon/ssq-sync-dashboard](https://github.com/wushuailemon/ssq-sync-dashboard)
 
-🗓 **2026-06-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-06-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-暂无描述
+双色球开奖数据同步看板，包含数据同步、统计分析、选号推荐功能。支持 Vercel 部署。
+
+---
+
+### [Andeasw/pinSHA256-Tool](https://github.com/Andeasw/pinSHA256-Tool)
+
+🗓 **2026-06-06** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+Universal Cert & Pin Tool
+
+---
+
+### [devsparok/BotTemplate](https://github.com/devsparok/BotTemplate)
+
+🗓 **2026-06-06** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+A simple Discord bot template built entirely with discord.js v14 and designed to work fully with slash commands.
 
 ---
 
