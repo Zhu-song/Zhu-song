@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [aslzoda1/j10023](https://github.com/aslzoda1/j10023)
+### [kaor333/Exodus-Fake-Balance](https://github.com/kaor333/Exodus-Fake-Balance)
 
-🗓 **2026-06-09** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+🗓 **2026-06-10** ｜ ⭐️ **34 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [aslzoda1/j9917](https://github.com/aslzoda1/j9917)
-
-🗓 **2026-06-09** ｜ ⭐️ **8 stars** ｜ 🗂 **C++**
-
-暂无描述
+Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering
 
 ---
 
-### [aslzoda1/j10035](https://github.com/aslzoda1/j10035)
+### [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML)
 
-🗓 **2026-06-09** ｜ ⭐️ **8 stars** ｜ 🗂 **HTML**
+🗓 **2026-06-10** ｜ ⭐️ **16 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [aslzoda1/j10022](https://github.com/aslzoda1/j10022)
-
-🗓 **2026-06-09** ｜ ⭐️ **8 stars** ｜ 🗂 **Kotlin**
-
-暂无描述
+GreatXML bitlocker bypass vulnerability
 
 ---
 
-### [aslzoda1/j10029](https://github.com/aslzoda1/j10029)
+### [aslzoda1/j10600](https://github.com/aslzoda1/j10600)
 
-🗓 **2026-06-09** ｜ ⭐️ **8 stars** ｜ 🗂 **C++**
+🗓 **2026-06-10** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-暂无描述
+✨ Repository j10600 | Mastered in Python 🐍 #Aslzoda
+
+---
+
+### [aslzoda1/j10603](https://github.com/aslzoda1/j10603)
+
+🗓 **2026-06-10** ｜ ⭐️ **8 stars** ｜ 🗂 **CSS**
+
+💎 Premium UI/UX Logic in CSS | Version 10603 🎨 #Aslzoda
+
+---
+
+### [aslzoda1/j10607](https://github.com/aslzoda1/j10607)
+
+🗓 **2026-06-10** ｜ ⭐️ **8 stars** ｜ 🗂 **C#**
+
+🌈 j10607: A beautiful symphony of C# 💎 #Aslzoda
 
 ---
 
