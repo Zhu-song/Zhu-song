@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [corerajsack52/discord-proxy-bypass-2026](https://github.com/corerajsack52/discord-proxy-bypass-2026)
+### [sodam-ai/Docker_One-Click-Kit](https://github.com/sodam-ai/Docker_One-Click-Kit)
 
-🗓 **2026-06-11** ｜ ⭐️ **33 stars** ｜ 🗂 **HTML**
+🗓 **2026-06-12** ｜ ⭐️ **3 stars** ｜ 🗂 **PowerShell**
 
-⬇ discord-proxy-bypass-2026.rar в Releases · #discord #proxy #bypass #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia-bypass #unblock-discord #discord-not-working
-
----
-
-### [aslzoda1/j10937](https://github.com/aslzoda1/j10937)
-
-🗓 **2026-06-11** ｜ ⭐️ **8 stars** ｜ 🗂 **TypeScript**
-
-🌈 j10937: A beautiful symphony of TypeScript 📘 #Aslzoda
+비개발자도 더블클릭만으로 Docker 설치·실행·관리·제거하고 인기 앱 45종을 골라 바로 실행하는 Windows 원클릭 키트
 
 ---
 
-### [aslzoda1/j10999](https://github.com/aslzoda1/j10999)
+### [ozorical/Chunkize](https://github.com/ozorical/Chunkize)
 
-🗓 **2026-06-11** ｜ ⭐️ **8 stars** ｜ 🗂 **C#**
+🗓 **2026-06-12** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-🔥 Automated Excellence: C# Power 💎 #Aslzoda
-
----
-
-### [aslzoda1/j10974](https://github.com/aslzoda1/j10974)
-
-🗓 **2026-06-11** ｜ ⭐️ **8 stars** ｜ 🗂 **HTML**
-
-🔥 Automated Excellence: HTML Power 🌐 #Aslzoda
+Chunkize is essentially 'Chunky' but for MCBE-Endstone Servers. 
 
 ---
 
-### [aslzoda1/j10987](https://github.com/aslzoda1/j10987)
+### [SafeGuard-Hosting/SafeGuard-Panel-CE](https://github.com/SafeGuard-Hosting/SafeGuard-Panel-CE)
 
-🗓 **2026-06-11** ｜ ⭐️ **8 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-06-12** ｜ ⭐️ **2 stars** ｜ 🗂 **PHP**
 
-🌈 j10987: A beautiful symphony of TypeScript 📘 #Aslzoda
+The modern hosting control panel that's actually free — every feature, unlimited servers, $0
+
+---
+
+### [jasononono/jamhacks10](https://github.com/jasononono/jamhacks10)
+
+🗓 **2026-06-12** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [piggyzenghz/piggy-console](https://github.com/piggyzenghz/piggy-console)
+
+🗓 **2026-06-12** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Zero-dependency self-hosted server console & homelab dashboard — pure-stdlib Python backend, no-build vanilla JS frontend
 
 ---
 
