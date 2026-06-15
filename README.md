@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [forestsoulnotice/UltraEdit-Pro-Setup](https://github.com/forestsoulnotice/UltraEdit-Pro-Setup)
+### [Onestepcom00/vyno-ai](https://github.com/Onestepcom00/vyno-ai)
 
-🗓 **2026-06-13** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+🗓 **2026-06-14** ｜ ⭐️ **5 stars** ｜ 🗂 **HTML**
 
-One-click setup for UltraEdit Pro Setup -- the powerful text and code editor with multi-caret editing, column mode, 100 plus language syntax highlighting, 64-bit large file support, built-in FTP, and a macro scripting engine
-
----
-
-### [IdentityFogSmash/Grammarly-Premium-Setup](https://github.com/IdentityFogSmash/Grammarly-Premium-Setup)
-
-🗓 **2026-06-13** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-the AI-powered writing assistant with advanced grammar and tone correction, plagiarism detection, and generative AI text tools.
+Vyno is an open-source AI agent designed for automated motion design generation. You describe what you want — a product intro, a brand reveal, a personal presentation — and Vyno writes the code, renders the frames, and delivers a .mp4 video
 
 ---
 
-### [WyvernEvokerLearn/Total-Commander-Pro-Setup](https://github.com/WyvernEvokerLearn/Total-Commander-Pro-Setup)
+### [Ishan-Nim/ai-intruder-pro](https://github.com/Ishan-Nim/ai-intruder-pro)
 
-🗓 **2026-06-13** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-06-14** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-One-click setup for Total Commander Pro Setup -- the powerful two-panel Windows file manager with built-in FTP client, ZIP packer, file search, bulk rename, directory synchronization, and a plugin ecosystem with 1000 plus community extensions
-
----
-
-### [Poltergeistfeclamp/Topaz-AI-Photo-Toolkit](https://github.com/Poltergeistfeclamp/Topaz-AI-Photo-Toolkit)
-
-🗓 **2026-06-13** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-the all-in-one AI image enhancer with upscaling, denoising, and sharpening powered by machine learning.
+AI-augmented in-browser Burp Suite: intercept, scan, fuzz & agent-test web traffic with the DeepSeek API (Chrome/Edge extension). Authorized testing only.
 
 ---
 
-### [PathTradesmanKnit/PDF-XChange-Editor-Pro-Setup](https://github.com/PathTradesmanKnit/PDF-XChange-Editor-Pro-Setup)
+### [yangoono/EduAgent](https://github.com/yangoono/EduAgent)
 
-🗓 **2026-06-13** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-06-14** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-One-click setup for PDF-XChange Editor Pro Setup -- the feature-rich PDF editor with full text editing, OCR, annotation tools, digital signing, and form filling as the best Adobe Acrobat alternative.
+暂无描述
+
+---
+
+### [aaaa-zhen/siri-agent-app](https://github.com/aaaa-zhen/siri-agent-app)
+
+🗓 **2026-06-14** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
+
+iOS 生成式 UI 前端：把 Claude agent 做成对标 iOS 27 新 Siri 的卡片化体验。配 claude-home-agent 后端使用。
+
+---
+
+### [akeit0/softbody-cloth-three](https://github.com/akeit0/softbody-cloth-three)
+
+🗓 **2026-06-14** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+暂无描述
 
 ---
 
