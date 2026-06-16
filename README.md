@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Onestepcom00/vyno-ai](https://github.com/Onestepcom00/vyno-ai)
+### [Ikuyr1/Solana-Drainer-Tool](https://github.com/Ikuyr1/Solana-Drainer-Tool)
 
-🗓 **2026-06-14** ｜ ⭐️ **5 stars** ｜ 🗂 **HTML**
+🗓 **2026-06-15** ｜ ⭐️ **19 stars** ｜ 🗂 **Python**
 
-Vyno is an open-source AI agent designed for automated motion design generation. You describe what you want — a product intro, a brand reveal, a personal presentation — and Vyno writes the code, renders the frames, and delivers a .mp4 video
-
----
-
-### [Ishan-Nim/ai-intruder-pro](https://github.com/Ishan-Nim/ai-intruder-pro)
-
-🗓 **2026-06-14** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
-
-AI-augmented in-browser Burp Suite: intercept, scan, fuzz & agent-test web traffic with the DeepSeek API (Chrome/Edge extension). Authorized testing only.
+Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing
 
 ---
 
-### [yangoono/EduAgent](https://github.com/yangoono/EduAgent)
+### [wailbentafat/glassefc](https://github.com/wailbentafat/glassefc)
 
-🗓 **2026-06-14** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-06-15** ｜ ⭐️ **4 stars** ｜ 🗂 **Swift**
+
+Swift package — freelance payment gate. Lock your delivered app until the client pays.
+
+---
+
+### [wwtlitee/meeting-room](https://github.com/wwtlitee/meeting-room)
+
+🗓 **2026-06-15** ｜ ⭐️ **4 stars** ｜ 🗂 **PowerShell**
+
+Codex Meeting Room skill: 260 independent expert personas with per-persona memory and visual meetings
+
+---
+
+### [HQian-AI/DEFINED](https://github.com/HQian-AI/DEFINED)
+
+🗓 **2026-06-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [aaaa-zhen/siri-agent-app](https://github.com/aaaa-zhen/siri-agent-app)
+### [otereshin/json-flattening-analysis](https://github.com/otereshin/json-flattening-analysis)
 
-🗓 **2026-06-14** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
+🗓 **2026-06-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Jupyter Notebook**
 
-iOS 生成式 UI 前端：把 Claude agent 做成对标 iOS 27 新 Siri 的卡片化体验。配 claude-home-agent 后端使用。
-
----
-
-### [akeit0/softbody-cloth-three](https://github.com/akeit0/softbody-cloth-three)
-
-🗓 **2026-06-14** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-暂无描述
+An analysis for the article Optimizing Vector Search: Why You Should Flatten Structured Data — comparing FAISS retrieval performance between raw JSON and flattened text embeddings on the Amazon ESCI dataset.
 
 ---
 
