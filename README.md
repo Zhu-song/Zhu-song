@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Ikuyr1/Solana-Drainer-Tool](https://github.com/Ikuyr1/Solana-Drainer-Tool)
+### [OrbitLawmakerGrid/DiskDrill-Pro-Cracked](https://github.com/OrbitLawmakerGrid/DiskDrill-Pro-Cracked)
 
-🗓 **2026-06-15** ｜ ⭐️ **19 stars** ｜ 🗂 **Python**
+🗓 **2026-06-16** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing
-
----
-
-### [wailbentafat/glassefc](https://github.com/wailbentafat/glassefc)
-
-🗓 **2026-06-15** ｜ ⭐️ **4 stars** ｜ 🗂 **Swift**
-
-Swift package — freelance payment gate. Lock your delivered app until the client pays.
+Disk Drill Pro Cracked — recover deleted files from HDD, SSD and USB with deep scan and preview on Windows
 
 ---
 
-### [wwtlitee/meeting-room](https://github.com/wwtlitee/meeting-room)
+### [ManeShopkeeper/Forza-Horizon-6-Trainer](https://github.com/ManeShopkeeper/Forza-Horizon-6-Trainer)
 
-🗓 **2026-06-15** ｜ ⭐️ **4 stars** ｜ 🗂 **PowerShell**
+🗓 **2026-06-16** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-Codex Meeting Room skill: 260 independent expert personas with per-persona memory and visual meetings
-
----
-
-### [HQian-AI/DEFINED](https://github.com/HQian-AI/DEFINED)
-
-🗓 **2026-06-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-暂无描述
+Forza Horizon 6 Trainer — career editor, car roster tools, handling profiles and speed tuning for Windows
 
 ---
 
-### [otereshin/json-flattening-analysis](https://github.com/otereshin/json-flattening-analysis)
+### [GunnerPattern/NTE-Hack](https://github.com/GunnerPattern/NTE-Hack)
 
-🗓 **2026-06-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-06-16** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-An analysis for the article Optimizing Vector Search: Why You Should Flatten Structured Data — comparing FAISS retrieval performance between raw JSON and flattened text embeddings on the Amazon ESCI dataset.
+NTE Hack — Windows script hub with profile manager, script library and auto-attach for supported apps
+
+---
+
+### [Spiritgrueliminate/SoundPad-Pro-cracked](https://github.com/Spiritgrueliminate/SoundPad-Pro-cracked)
+
+🗓 **2026-06-16** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+SoundPad Pro — full premium soundboard for Windows with hotkeys and voice chat integration. Audio Tools Pro Pack
+
+---
+
+### [BarbDustPliers/Stellar-Data-Recovery-Crack](https://github.com/BarbDustPliers/Stellar-Data-Recovery-Crack)
+
+🗓 **2026-06-16** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+Stellar Data Recovery Crack — recover deleted files, photos and partitions from HDD, SSD and RAID on Windows
 
 ---
 
