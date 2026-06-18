@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [OrbitLawmakerGrid/DiskDrill-Pro-Cracked](https://github.com/OrbitLawmakerGrid/DiskDrill-Pro-Cracked)
+### [DecaGrenadier/DLL-Repair-Tool](https://github.com/DecaGrenadier/DLL-Repair-Tool)
 
-🗓 **2026-06-16** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+🗓 **2026-06-17** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-Disk Drill Pro Cracked — recover deleted files from HDD, SSD and USB with deep scan and preview on Windows
-
----
-
-### [ManeShopkeeper/Forza-Horizon-6-Trainer](https://github.com/ManeShopkeeper/Forza-Horizon-6-Trainer)
-
-🗓 **2026-06-16** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
-
-Forza Horizon 6 Trainer — career editor, car roster tools, handling profiles and speed tuning for Windows
+Fix "MSVCP140.dll is missing" and "VCRUNTIME140.dll not found" errors on Windows 10/11. Repair d3dx9_43.dll, xinput1_3.dll and 50+ missing DLL files in one click. Installs all Visual C++ Redistributable packages, DirectX Runtime and .NET Framework automatically.
 
 ---
 
-### [GunnerPattern/NTE-Hack](https://github.com/GunnerPattern/NTE-Hack)
+### [NoonKnightDawn/Memory-Leak-Fixer](https://github.com/NoonKnightDawn/Memory-Leak-Fixer)
 
-🗓 **2026-06-16** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-06-17** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-NTE Hack — Windows script hub with profile manager, script library and auto-attach for supported apps
-
----
-
-### [Spiritgrueliminate/SoundPad-Pro-cracked](https://github.com/Spiritgrueliminate/SoundPad-Pro-cracked)
-
-🗓 **2026-06-16** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-SoundPad Pro — full premium soundboard for Windows with hotkeys and voice chat integration. Audio Tools Pro Pack
+Fix high RAM usage and memory leaks on Windows 10/11 -- detect leaking processes, clear standby memory, fix Desktop Window Manager memory leak (dwm.exe), resolve "Your computer is low on memory" error. Fix PC getting slower over time.
 
 ---
 
-### [BarbDustPliers/Stellar-Data-Recovery-Crack](https://github.com/BarbDustPliers/Stellar-Data-Recovery-Crack)
+### [EagleEmbroider/Microphone-Fix-Tool](https://github.com/EagleEmbroider/Microphone-Fix-Tool)
 
-🗓 **2026-06-16** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-06-17** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-Stellar Data Recovery Crack — recover deleted files, photos and partitions from HDD, SSD and RAID on Windows
+Fix microphone not working on Windows 10/11 -- mic not detected, too quiet, not working in Zoom Teams Discord. Fix privacy settings blocking mic, microphone boost missing, audio input after Windows Update. USB, Bluetooth, built-in.
+
+---
+
+### [fastpoemstronghold/Disk-Usage-100-Fix](https://github.com/fastpoemstronghold/Disk-Usage-100-Fix)
+
+🗓 **2026-06-17** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+Fix 100% disk usage on Windows 10/11 -- Task Manager shows disk at 100 for no reason. Disable SysMain Superfetch, stop Windows Search indexing, fix AHCI driver, optimize page file. Fix slow PC, disk usage stuck at 100, hard drive constantly running. SSD and HDD.
+
+---
+
+### [ModuleQuality40/Screen-Flickering-Fix](https://github.com/ModuleQuality40/Screen-Flickering-Fix)
+
+🗓 **2026-06-17** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+Fix screen flickering and "display driver stopped responding" on Windows 10/11. Repair monitor flashing, screen tearing, VIDEO_TDR_FAILURE, black screen flashes. Fix display driver crashes for NVIDIA, AMD, Intel. Screen flashing on and off fix.
 
 ---
 
