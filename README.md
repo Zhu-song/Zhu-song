@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [DecaGrenadier/DLL-Repair-Tool](https://github.com/DecaGrenadier/DLL-Repair-Tool)
+### [alfaoz/opencode-see-image](https://github.com/alfaoz/opencode-see-image)
 
-🗓 **2026-06-17** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-06-18** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
 
-Fix "MSVCP140.dll is missing" and "VCRUNTIME140.dll not found" errors on Windows 10/11. Repair d3dx9_43.dll, xinput1_3.dll and 50+ missing DLL files in one click. Installs all Visual C++ Redistributable packages, DirectX Runtime and .NET Framework automatically.
-
----
-
-### [NoonKnightDawn/Memory-Leak-Fixer](https://github.com/NoonKnightDawn/Memory-Leak-Fixer)
-
-🗓 **2026-06-17** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
-
-Fix high RAM usage and memory leaks on Windows 10/11 -- detect leaking processes, clear standby memory, fix Desktop Window Manager memory leak (dwm.exe), resolve "Your computer is low on memory" error. Fix PC getting slower over time.
+give non-vision models the ability to see images by routing images to a vision capable model
 
 ---
 
-### [EagleEmbroider/Microphone-Fix-Tool](https://github.com/EagleEmbroider/Microphone-Fix-Tool)
+### [jwangkun/loops](https://github.com/jwangkun/loops)
 
-🗓 **2026-06-17** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Fix microphone not working on Windows 10/11 -- mic not detected, too quiet, not working in Zoom Teams Discord. Fix privacy settings blocking mic, microphone boost missing, audio input after Windows Update. USB, Bluetooth, built-in.
-
----
-
-### [fastpoemstronghold/Disk-Usage-100-Fix](https://github.com/fastpoemstronghold/Disk-Usage-100-Fix)
-
-🗓 **2026-06-17** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
-
-Fix 100% disk usage on Windows 10/11 -- Task Manager shows disk at 100 for no reason. Disable SysMain Superfetch, stop Windows Search indexing, fix AHCI driver, optimize page file. Fix slow PC, disk usage stuck at 100, hard drive constantly running. SSD and HDD.
+Loop（循环） 是一种用于AI编程助手（如 Claude Code、Cursor）的自动化工作流指令集。它通过"执行→检查→修复→重复"的闭环模式，让AI能够自主完成开发任务，直到达到预设目标。
 
 ---
 
-### [ModuleQuality40/Screen-Flickering-Fix](https://github.com/ModuleQuality40/Screen-Flickering-Fix)
+### [LilMGenius/skills](https://github.com/LilMGenius/skills)
 
-🗓 **2026-06-17** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Fix screen flickering and "display driver stopped responding" on Windows 10/11. Repair monitor flashing, screen tearing, VIDEO_TDR_FAILURE, black screen flashes. Fix display driver crashes for NVIDIA, AMD, Intel. Screen flashing on and off fix.
+Skills for Fake Engineers. Bent from my .claude directory.
+
+---
+
+### [ExistentialRobotics/SERF-mapping](https://github.com/ExistentialRobotics/SERF-mapping)
+
+🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+暂无描述
+
+---
+
+### [Judasbloodyishere/securenet-monitor](https://github.com/Judasbloodyishere/securenet-monitor)
+
+🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Advanced Network Monitoring & Vulnerability Scanner - Real-time dashboard, automated scanning, CVE detection, ML-based anomaly scoring
 
 ---
 
