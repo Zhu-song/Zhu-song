@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [alfaoz/opencode-see-image](https://github.com/alfaoz/opencode-see-image)
+### [xiaohua-der/Train-It-Yourself](https://github.com/xiaohua-der/Train-It-Yourself)
 
-🗓 **2026-06-18** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-06-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-give non-vision models the ability to see images by routing images to a vision capable model
-
----
-
-### [jwangkun/loops](https://github.com/jwangkun/loops)
-
-🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Loop（循环） 是一种用于AI编程助手（如 Claude Code、Cursor）的自动化工作流指令集。它通过"执行→检查→修复→重复"的闭环模式，让AI能够自主完成开发任务，直到达到预设目标。
+Extract readable, source-faithful ML training code that researchers can inspect, modify, train, and test themselves.
 
 ---
 
-### [LilMGenius/skills](https://github.com/LilMGenius/skills)
+### [siroccomask/multi-step-improvement-loop](https://github.com/siroccomask/multi-step-improvement-loop)
 
-🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-06-19** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Skills for Fake Engineers. Bent from my .claude directory.
+Codex skill for orchestrating multi-step PR improvement loops
 
 ---
 
-### [ExistentialRobotics/SERF-mapping](https://github.com/ExistentialRobotics/SERF-mapping)
+### [3x-haust/Kodex](https://github.com/3x-haust/Kodex)
 
-🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-06-19** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [Judasbloodyishere/securenet-monitor](https://github.com/Judasbloodyishere/securenet-monitor)
+### [15sanny2025/vpn-portable-for-streaming-seo](https://github.com/15sanny2025/vpn-portable-for-streaming-seo)
 
-🗓 **2026-06-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-06-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Advanced Network Monitoring & Vulnerability Scanner - Real-time dashboard, automated scanning, CVE detection, ML-based anomaly scoring
+SEO repository for vpn portable for streaming
+
+---
+
+### [anhtuandev-04/KyNangNgheNghiepJava](https://github.com/anhtuandev-04/KyNangNgheNghiepJava)
+
+🗓 **2026-06-19** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+
+暂无描述
 
 ---
 
