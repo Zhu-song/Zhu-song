@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [xiaohua-der/Train-It-Yourself](https://github.com/xiaohua-der/Train-It-Yourself)
+### [luannsr12/phone-narrative-game](https://github.com/luannsr12/phone-narrative-game)
 
-🗓 **2026-06-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
-Extract readable, source-faithful ML training code that researchers can inspect, modify, train, and test themselves.
-
----
-
-### [siroccomask/multi-step-improvement-loop](https://github.com/siroccomask/multi-step-improvement-loop)
-
-🗓 **2026-06-19** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Codex skill for orchestrating multi-step PR improvement loops
+A data-driven narrative mystery game where your phone IS the game — React Native (Expo) + a visual story editor.
 
 ---
 
-### [3x-haust/Kodex](https://github.com/3x-haust/Kodex)
+### [benkrasnow/OpenPlateReader](https://github.com/benkrasnow/OpenPlateReader)
 
-🗓 **2026-06-19** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+Open source single-page web app to read data from laboratory plate readers
+
+---
+
+### [sai-akshita-prudhvi/nuclear-decay-simulation](https://github.com/sai-akshita-prudhvi/nuclear-decay-simulation)
+
+🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [15sanny2025/vpn-portable-for-streaming-seo](https://github.com/15sanny2025/vpn-portable-for-streaming-seo)
+### [isachinjoshi/medical-rag-agent](https://github.com/isachinjoshi/medical-rag-agent)
 
-🗓 **2026-06-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-SEO repository for vpn portable for streaming
+**"AI-powered medical Q&A chatbot using RAG with Google Gemini embeddings and Tavily search"**
 
 ---
 
-### [anhtuandev-04/KyNangNgheNghiepJava](https://github.com/anhtuandev-04/KyNangNgheNghiepJava)
+### [wood2kite/tirunIeGxP](https://github.com/wood2kite/tirunIeGxP)
 
-🗓 **2026-06-19** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-06-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-暂无描述
+【Java计算机毕业设计分享】基于SpringBoot的家具商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
