@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [NorthGladiator/DNS-Server-Not-Responding-Fix](https://github.com/NorthGladiator/DNS-Server-Not-Responding-Fix)
+### [in-rolls/savitr](https://github.com/in-rolls/savitr)
 
-🗓 **2026-06-21** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
+🗓 **2026-06-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-dns server not responding — DNS Server Not Responding Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
-
----
-
-### [MysticColonelSucceed/Error-0x80070005-Fix](https://github.com/MysticColonelSucceed/Error-0x80070005-Fix)
-
-🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
-
-error 0x80070005 access is denied — Error 0x80070005 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide.
+MLX-accelerated Surya OCR on Apple Silicon (~3.6x faster), for electoral-roll parsing
 
 ---
 
-### [CodeBeauticianTap/CLion-2026](https://github.com/CodeBeauticianTap/CLion-2026)
+### [igusAI/worlds2026minigame](https://github.com/igusAI/worlds2026minigame)
 
-🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-06-22** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
-clion download windows — JetBrains CLion for Windows 11 & 10. Direct download, install steps and setup guide.
-
----
-
-### [FrequencyPyromancer/Parallels-Desktop-2026](https://github.com/FrequencyPyromancer/Parallels-Desktop-2026)
-
-🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
-
-parallels desktop download windows 11 — Parallels Desktop Pro for Windows 11 & 10. Direct download, install steps and setup guide.
+Minigame 2026 WorldCup
 
 ---
 
-### [Channellunavolt/Avid-Pro-Tools-2026](https://github.com/Channellunavolt/Avid-Pro-Tools-2026)
+### [MRTOkoN/mgd-cardealer](https://github.com/MRTOkoN/mgd-cardealer)
 
-🗓 **2026-06-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-06-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Lua**
 
-pro tools download windows — Avid Pro Tools for Windows 11 & 10. Direct download, install steps and setup guide.
+暂无描述
+
+---
+
+### [Matheus-Souza-Rozendo/pure-cv-anpr](https://github.com/Matheus-Souza-Rozendo/pure-cv-anpr)
+
+🗓 **2026-06-22** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+ANPR system built solely with traditional image processing techniques and zero Deep Learning.
+
+---
+
+### [baigong-ai/tingji](https://github.com/baigong-ai/tingji)
+
+🗓 **2026-06-22** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+听记 · 本地会议录音转写与纪要：FunASR 语音识别 + 说话人分离 + 热词纠错 + LLM 整理，跨平台 Web UI（macOS / Windows WSL2 + GPU）
 
 ---
 
