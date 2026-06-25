@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [SageReminisce/XYplorer-2026](https://github.com/SageReminisce/XYplorer-2026)
+### [FlatCaretaker/Decipher-TextMessage-2026](https://github.com/FlatCaretaker/Decipher-TextMessage-2026)
 
-🗓 **2026-06-23** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-06-24** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
 
-xyplorer download — XYplorer for Windows 11 & 10. Direct download, install steps and setup guide.
-
----
-
-### [Colonyflucrypt/Wise-Disk-Cleaner-2026](https://github.com/Colonyflucrypt/Wise-Disk-Cleaner-2026)
-
-🗓 **2026-06-23** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
-
-wise disk cleaner download — Wise Disk Cleaner for Windows 11 & 10. Direct download, install steps and setup guide.
+decipher textmessage download — Decipher TextMessage for Windows 11 & 10. Direct download, install steps and setup guide.
 
 ---
 
-### [Screwkecontrol/Veeam-Agent-2026](https://github.com/Screwkecontrol/Veeam-Agent-2026)
+### [Essenceflamove/BurnAware-2026](https://github.com/Essenceflamove/BurnAware-2026)
 
-🗓 **2026-06-23** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+🗓 **2026-06-24** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
 
-veeam agent download — Veeam Agent for Windows 11 & 10. Direct download, install steps and setup guide.
-
----
-
-### [FieldStarfish/Twinmotion-2026](https://github.com/FieldStarfish/Twinmotion-2026)
-
-🗓 **2026-06-23** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
-
-twinmotion download — Twinmotion for Windows 11 & 10. Direct download, install steps and setup guide.
+burnaware download — BurnAware for Windows 11 & 10. Direct download, install steps and setup guide.
 
 ---
 
-### [Crinklyink/Stock-pred](https://github.com/Crinklyink/Stock-pred)
+### [MasterAppraise/PhotoMirage-2026](https://github.com/MasterAppraise/PhotoMirage-2026)
 
-🗓 **2026-06-23** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-06-24** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
 
-It Diddles the stocks ----- more consistent +8 percent for top 1 and top 3 
+photomirage download — PhotoMirage for Windows 11 & 10. Direct download, install steps and setup guide.
+
+---
+
+### [ElectronTempoNurture/Polaris-Word-2026](https://github.com/ElectronTempoNurture/Polaris-Word-2026)
+
+🗓 **2026-06-24** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+
+polaris word download — Polaris Word for Windows 11 & 10. Direct download, install steps and setup guide.
+
+---
+
+### [LavenderCommander/DxO-PureRAW-2026](https://github.com/LavenderCommander/DxO-PureRAW-2026)
+
+🗓 **2026-06-24** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+
+dxo pureraw download — DxO PureRAW for Windows 11 & 10. Direct download, install steps and setup guide.
 
 ---
 
