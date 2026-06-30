@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [sam70361/glass-ui-react](https://github.com/sam70361/glass-ui-react)
+### [kelvinagyareyeboah/humantime-js](https://github.com/kelvinagyareyeboah/humantime-js)
 
-🗓 **2026-06-28** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-06-29** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+
+⚡ A super‑lightweight JavaScript library to turn timestamps into friendly, human‑readable phrases like “just now”, “5 mins ago”, or “yesterday”. humantime-js makes your apps feel more natural by showing time the way people actually speak.
+
+---
+
+### [kengohayashitt7-dot/HabitQuest](https://github.com/kengohayashitt7-dot/HabitQuest)
+
+🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
 
 暂无描述
 
 ---
 
-### [zhfsoft/CheckDiameterLog](https://github.com/zhfsoft/CheckDiameterLog)
+### [daviizinkk/valorant-api](https://github.com/daviizinkk/valorant-api)
 
-🗓 **2026-06-28** ｜ ⭐️ **2 stars** ｜ 🗂 **CSS**
+🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Node.js wrapper for the unofficial VALORANT API — zero config, automatic authentication, web dashboard included
+
+---
+
+### [shining-sheep/final-project](https://github.com/shining-sheep/final-project)
+
+🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [nico-zhuang/ask-five-pro](https://github.com/nico-zhuang/ask-five-pro)
+### [Tildaepayne/DESN2000_T11D_A](https://github.com/Tildaepayne/DESN2000_T11D_A)
 
-🗓 **2026-06-28** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Ask Five Pro — 开箱即用的专家议会系统，内置34位跨领域专家
-
----
-
-### [menendezrolando26-crypto/birthday-letter](https://github.com/menendezrolando26-crypto/birthday-letter)
-
-🗓 **2026-06-28** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [onurozko/OpsLedger](https://github.com/onurozko/OpsLedger)
-
-🗓 **2026-06-28** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-Alpha portfolio project: modular finance/ops dashboard with industry adapters (restaurant slice active)
+The code implementation of DESN2000 T11D A project.
 
 ---
 
