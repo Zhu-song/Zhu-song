@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [kelvinagyareyeboah/humantime-js](https://github.com/kelvinagyareyeboah/humantime-js)
+### [Zeeshan2899/System_Backup___Restore](https://github.com/Zeeshan2899/System_Backup___Restore)
 
-🗓 **2026-06-29** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
 
-⚡ A super‑lightweight JavaScript library to turn timestamps into friendly, human‑readable phrases like “just now”, “5 mins ago”, or “yesterday”. humantime-js makes your apps feel more natural by showing time the way people actually speak.
-
----
-
-### [kengohayashitt7-dot/HabitQuest](https://github.com/kengohayashitt7-dot/HabitQuest)
-
-🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
-
-暂无描述
+Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup.
 
 ---
 
-### [daviizinkk/valorant-api](https://github.com/daviizinkk/valorant-api)
+### [zhujingqi/Twitter_Engagement_Tool](https://github.com/zhujingqi/Twitter_Engagement_Tool)
 
-🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
 
-Node.js wrapper for the unofficial VALORANT API — zero config, automatic authentication, web dashboard included
-
----
-
-### [shining-sheep/final-project](https://github.com/shining-sheep/final-project)
-
-🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
+Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.
 
 ---
 
-### [Tildaepayne/DESN2000_T11D_A](https://github.com/Tildaepayne/DESN2000_T11D_A)
+### [SrSCK/Virtual_Machine_Manager](https://github.com/SrSCK/Virtual_Machine_Manager)
 
-🗓 **2026-06-29** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
 
-The code implementation of DESN2000 T11D A project.
+Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs.
+
+---
+
+### [arenaasd/Roblox_BedWars_Auto-Farm___Aimbot](https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot)
+
+🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
+
+Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.
+
+---
+
+### [AnonymousDev1494/System_Information_Viewer](https://github.com/AnonymousDev1494/System_Information_Viewer)
+
+🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
+
+Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs.
 
 ---
 
