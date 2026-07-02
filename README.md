@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Zeeshan2899/System_Backup___Restore](https://github.com/Zeeshan2899/System_Backup___Restore)
+### [Captureandencoder/Marvel-Rivals-Menu-2026](https://github.com/Captureandencoder/Marvel-Rivals-Menu-2026)
 
-🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
+🗓 **2026-07-01** ｜ ⭐️ **51 stars** ｜ 🗂 **Python**
 
-Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup.
-
----
-
-### [zhujingqi/Twitter_Engagement_Tool](https://github.com/zhujingqi/Twitter_Engagement_Tool)
-
-🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
-
-Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.
+🎯 Marvel-Rivals-Menu – gameplay enhancement menu for Marvel Rivals. Features visual assistance, aim support, protection, movement, and more. For educational purposes only.
 
 ---
 
-### [SrSCK/Virtual_Machine_Manager](https://github.com/SrSCK/Virtual_Machine_Manager)
+### [AstroBesat-SoftW/Smart-Plant-IoT](https://github.com/AstroBesat-SoftW/Smart-Plant-IoT)
 
-🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
+🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
 
-Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs.
-
----
-
-### [arenaasd/Roblox_BedWars_Auto-Farm___Aimbot](https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot)
-
-🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
-
-Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.
+🌱 An IoT smart plant that waters itself. ESP8266 + Firebase Realtime DB + Flutter (Android/iOS/Web) with real-time monitoring, autonomous watering, and biophysical stress analysis via Vapor Pressure Deficit (VPD). Solo undergraduate thesis project.
 
 ---
 
-### [AnonymousDev1494/System_Information_Viewer](https://github.com/AnonymousDev1494/System_Information_Viewer)
+### [polardev-ui/kore](https://github.com/polardev-ui/kore)
 
-🗓 **2026-06-30** ｜ ⭐️ **223 stars** ｜ 🗂 **Python**
+🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
 
-Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs.
+Open source and incredibly secure Linux operating system based on Debian 13 Trixie.
+
+---
+
+### [bytebeast/check-endpoint](https://github.com/bytebeast/check-endpoint)
+
+🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Live per-phase HTTP timing probe — DNS, TCP, TLS, TTFB, and body transfer, streamed as each phase completes.
+
+---
+
+### [kby-ai/Face-Recognition-Open-Source-Free-SDK](https://github.com/kby-ai/Face-Recognition-Open-Source-Free-SDK)
+
+🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+The most powerful face recognition SDK open source for Windows and Linux (Face detection, Face landmark extraction, Face feature extraction, Face template matching)
 
 ---
 
