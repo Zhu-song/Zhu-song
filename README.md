@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Captureandencoder/Marvel-Rivals-Menu-2026](https://github.com/Captureandencoder/Marvel-Rivals-Menu-2026)
+### [TEGUH572/Sup-is-sup](https://github.com/TEGUH572/Sup-is-sup)
 
-🗓 **2026-07-01** ｜ ⭐️ **51 stars** ｜ 🗂 **Python**
+🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-🎯 Marvel-Rivals-Menu – gameplay enhancement menu for Marvel Rivals. Features visual assistance, aim support, protection, movement, and more. For educational purposes only.
-
----
-
-### [AstroBesat-SoftW/Smart-Plant-IoT](https://github.com/AstroBesat-SoftW/Smart-Plant-IoT)
-
-🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
-
-🌱 An IoT smart plant that waters itself. ESP8266 + Firebase Realtime DB + Flutter (Android/iOS/Web) with real-time monitoring, autonomous watering, and biophysical stress analysis via Vapor Pressure Deficit (VPD). Solo undergraduate thesis project.
+Join "Sup is sup" on Amplify - help each other grow by amplifying posts and earning stars together.  https://www.productclank.com/amplify/communities/join?code=U23PEG
 
 ---
 
-### [polardev-ui/kore](https://github.com/polardev-ui/kore)
+### [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser)
 
-🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
 
-Open source and incredibly secure Linux operating system based on Debian 13 Trixie.
-
----
-
-### [bytebeast/check-endpoint](https://github.com/bytebeast/check-endpoint)
-
-🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Live per-phase HTTP timing probe — DNS, TCP, TLS, TTFB, and body transfer, streamed as each phase completes.
+暂无描述
 
 ---
 
-### [kby-ai/Face-Recognition-Open-Source-Free-SDK](https://github.com/kby-ai/Face-Recognition-Open-Source-Free-SDK)
+### [jez5217/RitualBuilderSession2](https://github.com/jez5217/RitualBuilderSession2)
 
-🗓 **2026-07-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
-The most powerful face recognition SDK open source for Windows and Linux (Face detection, Face landmark extraction, Face feature extraction, Face template matching)
+暂无描述
+
+---
+
+### [juniliu0314-spec/speech-transcript-clean-qa](https://github.com/juniliu0314-spec/speech-transcript-clean-qa)
+
+🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+语音转文字稿件清洗与面试 Q&A 拆分工作流，将原始转写内容整理为 Markdown 笔记，并进一步生成可复习、可面试使用的问答资料。
+
+---
+
+### [PlatypusCodes/platypus](https://github.com/PlatypusCodes/platypus)
+
+🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **CSS**
+
+Website for Platypus
 
 ---
 
