@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [TEGUH572/Sup-is-sup](https://github.com/TEGUH572/Sup-is-sup)
+### [zli147783/MAVS-Net](https://github.com/zli147783/MAVS-Net)
 
-🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Join "Sup is sup" on Amplify - help each other grow by amplifying posts and earning stars together.  https://www.productclank.com/amplify/communities/join?code=U23PEG
-
----
-
-### [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser)
-
-🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+🗓 **2026-07-03** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [jez5217/RitualBuilderSession2](https://github.com/jez5217/RitualBuilderSession2)
+### [NSSpiral/AppleTV-ExportPatch](https://github.com/NSSpiral/AppleTV-ExportPatch)
 
-🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-07-03** ｜ ⭐️ **2 stars** ｜ 🗂 **Objective-C**
+
+Apple TV 2/3 (Lowtide) binary patcher which exports all ObjC class and metaclass symbols via the Mach-O export trie. This re-enables native ObjC linking with `-bundle_loader` for FrAppliance plugins and other bundles.
+
+---
+
+### [vqlkyriez-bot/letta-voice-larynx](https://github.com/vqlkyriez-bot/letta-voice-larynx)
+
+🗓 **2026-07-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+Give your Letta agent a larynx — Letta-side companion guide for Seven Voice Discord bridges. Full memory, full self, spoken aloud.
+
+---
+
+### [Scabuns/baekeunyungg](https://github.com/Scabuns/baekeunyungg)
+
+🗓 **2026-07-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [juniliu0314-spec/speech-transcript-clean-qa](https://github.com/juniliu0314-spec/speech-transcript-clean-qa)
+### [boom5497/sOEEtbHh](https://github.com/boom5497/sOEEtbHh)
 
-🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-07-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-语音转文字稿件清洗与面试 Q&A 拆分工作流，将原始转写内容整理为 Markdown 笔记，并进一步生成可复习、可面试使用的问答资料。
-
----
-
-### [PlatypusCodes/platypus](https://github.com/PlatypusCodes/platypus)
-
-🗓 **2026-07-02** ｜ ⭐️ **2 stars** ｜ 🗂 **CSS**
-
-Website for Platypus
+【Java计算机毕业设计分享】基于SpringBoot的校园电商管理平台，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
 
 ---
 
