@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [zli147783/MAVS-Net](https://github.com/zli147783/MAVS-Net)
+### [vorliq/vorliq-docs](https://github.com/vorliq/vorliq-docs)
 
-🗓 **2026-07-03** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-04** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+
+Official documentation, guides, roadmap, and project information for Vorliq.
+
+---
+
+### [Winuser3661/florr](https://github.com/Winuser3661/florr)
+
+🗓 **2026-07-04** ｜ ⭐️ **4 stars** ｜ 🗂 **HTML**
+
+extracted slop from florr client
+
+---
+
+### [Geolize-Studio/convex-mercadopago](https://github.com/Geolize-Studio/convex-mercadopago)
+
+🗓 **2026-07-04** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+Mercado Pago component for Convex — payments, subscriptions, webhooks with signature verification and reconciliation
+
+---
+
+### [s1nkhole/ctf-lens](https://github.com/s1nkhole/ctf-lens)
+
+🗓 **2026-07-04** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [NSSpiral/AppleTV-ExportPatch](https://github.com/NSSpiral/AppleTV-ExportPatch)
+### [RisingCyber/LEO_Sentinel](https://github.com/RisingCyber/LEO_Sentinel)
 
-🗓 **2026-07-03** ｜ ⭐️ **2 stars** ｜ 🗂 **Objective-C**
+🗓 **2026-07-04** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Apple TV 2/3 (Lowtide) binary patcher which exports all ObjC class and metaclass symbols via the Mach-O export trie. This re-enables native ObjC linking with `-bundle_loader` for FrAppliance plugins and other bundles.
-
----
-
-### [vqlkyriez-bot/letta-voice-larynx](https://github.com/vqlkyriez-bot/letta-voice-larynx)
-
-🗓 **2026-07-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-Give your Letta agent a larynx — Letta-side companion guide for Seven Voice Discord bridges. Full memory, full self, spoken aloud.
-
----
-
-### [Scabuns/baekeunyungg](https://github.com/Scabuns/baekeunyungg)
-
-🗓 **2026-07-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [boom5497/sOEEtbHh](https://github.com/boom5497/sOEEtbHh)
-
-🗓 **2026-07-03** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SpringBoot的校园电商管理平台，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
+LEO Sentinel is a Python tool that aggregates every Low Earth Orbit satellite from open DB's. And classifies each object into one of roughly 40 mission categories (GNSS, military comms, commercial EO, CubeSat, debris, and so on) using pattern matching against satellite naming conventions. 
 
 ---
 
