@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [vorliq/vorliq-docs](https://github.com/vorliq/vorliq-docs)
+### [lgtlgt0015-code/diknow-trantool](https://github.com/lgtlgt0015-code/diknow-trantool)
 
-🗓 **2026-07-04** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-Official documentation, guides, roadmap, and project information for Vorliq.
-
----
-
-### [Winuser3661/florr](https://github.com/Winuser3661/florr)
-
-🗓 **2026-07-04** ｜ ⭐️ **4 stars** ｜ 🗂 **HTML**
-
-extracted slop from florr client
+一个基于vitor底层，修改git破解的实时翻译浏览器插件
 
 ---
 
-### [Geolize-Studio/convex-mercadopago](https://github.com/Geolize-Studio/convex-mercadopago)
+### [Ali-hey-0/Codex-Account-Selector](https://github.com/Ali-hey-0/Codex-Account-Selector)
 
-🗓 **2026-07-04** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Batchfile**
 
-Mercado Pago component for Convex — payments, subscriptions, webhooks with signature verification and reconciliation
+Codex simple N to N account switcher by just one bat file 
 
 ---
 
-### [s1nkhole/ctf-lens](https://github.com/s1nkhole/ctf-lens)
+### [GuilhermeVieira12/Sistema-Biblioteca-JAVA](https://github.com/GuilhermeVieira12/Sistema-Biblioteca-JAVA)
 
-🗓 **2026-07-04** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Um sistema interativo desenvolvido em Java para gerenciar o acervo de uma biblioteca, permitindo o cadastro de materiais, registro de usuários e controle completo do ciclo de empréstimos e devoluções.
+
+---
+
+### [013677890/badminton-mes](https://github.com/013677890/badminton-mes)
+
+🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [RisingCyber/LEO_Sentinel](https://github.com/RisingCyber/LEO_Sentinel)
+### [ibislon/UkXhMguGcM](https://github.com/ibislon/UkXhMguGcM)
 
-🗓 **2026-07-04** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-LEO Sentinel is a Python tool that aggregates every Low Earth Orbit satellite from open DB's. And classifies each object into one of roughly 40 mission categories (GNSS, military comms, commercial EO, CubeSat, debris, and so on) using pattern matching against satellite naming conventions. 
+【Java计算机毕业设计分享】基于深度学习的SAR目标检测系统（数据集+源码+模型+界面），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
