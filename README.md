@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [lgtlgt0015-code/diknow-trantool](https://github.com/lgtlgt0015-code/diknow-trantool)
+### [fgh23333/AI4Food](https://github.com/fgh23333/AI4Food)
 
-🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-一个基于vitor底层，修改git破解的实时翻译浏览器插件
-
----
-
-### [Ali-hey-0/Codex-Account-Selector](https://github.com/Ali-hey-0/Codex-Account-Selector)
-
-🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Batchfile**
-
-Codex simple N to N account switcher by just one bat file 
-
----
-
-### [GuilhermeVieira12/Sistema-Biblioteca-JAVA](https://github.com/GuilhermeVieira12/Sistema-Biblioteca-JAVA)
-
-🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Um sistema interativo desenvolvido em Java para gerenciar o acervo de uma biblioteca, permitindo o cadastro de materiais, registro de usuários e controle completo do ciclo de empréstimos e devoluções.
-
----
-
-### [013677890/badminton-mes](https://github.com/013677890/badminton-mes)
-
-🗓 **2026-07-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-07-06** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [ibislon/UkXhMguGcM](https://github.com/ibislon/UkXhMguGcM)
+### [jettiy/access-todo](https://github.com/jettiy/access-todo)
 
-🗓 **2026-07-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-06** ｜ ⭐️ **3 stars** ｜ 🗂 **Rust**
 
-【Java计算机毕业设计分享】基于深度学习的SAR目标检测系统（数据集+源码+模型+界面），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+에이전트 연동 포스트잇 TODO 시스템 - ZCode/OMP/Hermes/Claude Code + 안드로이드 동기화
+
+---
+
+### [skyblockmoddingeasy/Auto-Carnival](https://github.com/skyblockmoddingeasy/Auto-Carnival)
+
+🗓 **2026-07-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Auto Carnival for hypixel skyblock | Carnival Macro
+
+---
+
+### [K-Dense-AI/skill-101-webinar](https://github.com/K-Dense-AI/skill-101-webinar)
+
+🗓 **2026-07-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [fireblaze-pop/shopcompare](https://github.com/fireblaze-pop/shopcompare)
+
+🗓 **2026-07-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+暂无描述
 
 ---
 
