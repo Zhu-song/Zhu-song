@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [fgh23333/AI4Food](https://github.com/fgh23333/AI4Food)
+### [LeoRoy61/r6s-overwolf-auto-launcher](https://github.com/LeoRoy61/r6s-overwolf-auto-launcher)
 
-🗓 **2026-07-06** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-07-07** ｜ ⭐️ **2 stars** ｜ 🗂 **PowerShell**
+
+"A lightweight, secure Windows launcher that starts Overwolf alongside Rainbow Six Siege, monitors the session, and cleanly closes Overwolf on game exit."
+
+---
+
+### [IdiotFrogs/MemorySeal-Front](https://github.com/IdiotFrogs/MemorySeal-Front)
+
+🗓 **2026-07-07** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [jettiy/access-todo](https://github.com/jettiy/access-todo)
+### [Gheat1/sctui](https://github.com/Gheat1/sctui)
 
-🗓 **2026-07-06** ｜ ⭐️ **3 stars** ｜ 🗂 **Rust**
+🗓 **2026-07-07** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-에이전트 연동 포스트잇 TODO 시스템 - ZCode/OMP/Hermes/Claude Code + 안드로이드 동기화
-
----
-
-### [skyblockmoddingeasy/Auto-Carnival](https://github.com/skyblockmoddingeasy/Auto-Carnival)
-
-🗓 **2026-07-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Auto Carnival for hypixel skyblock | Carnival Macro
+◐ A fast, beautiful TUI for Shortcut — status-grouped stories, instant startup, full keyboard + mouse control
 
 ---
 
-### [K-Dense-AI/skill-101-webinar](https://github.com/K-Dense-AI/skill-101-webinar)
+### [saitejabandaru-in/github-copilot](https://github.com/saitejabandaru-in/github-copilot)
 
-🗓 **2026-07-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-07-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-暂无描述
+GitHub Copilot complete guide - inline completions, Copilot Chat, CLI, and techniques to get expert-level outputs.
 
 ---
 
-### [fireblaze-pop/shopcompare](https://github.com/fireblaze-pop/shopcompare)
+### [letitbe-dull/nz-holidays](https://github.com/letitbe-dull/nz-holidays)
 
-🗓 **2026-07-06** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-07** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-暂无描述
+Aotearoa New Zealand Holiday & School Dates
 
 ---
 
