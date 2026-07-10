@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [TrapCourierFold/TBH-Mod-Menu](https://github.com/TrapCourierFold/TBH-Mod-Menu)
+### [remix-pc/sistema-solar-threejs](https://github.com/remix-pc/sistema-solar-threejs)
 
-🗓 **2026-07-08** ｜ ⭐️ **73 stars** ｜ 🗂 **Python**
+🗓 **2026-07-09** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-⚡ TBH-Mod-Menu – complete mod menu for TBH: Task Bar Hero. Features God Mode, unlimited money, EXP multiplier, instant kill, game speed hack, and more. Skip the grind and dominate the taskbar!
-
----
-
-### [Boltoachisel/TBH-Hack](https://github.com/Boltoachisel/TBH-Hack)
-
-🗓 **2026-07-08** ｜ ⭐️ **71 stars** ｜ 🗂 **Python**
-
-⚡ TBH-Hack – complete hack/trainer tool for TBH: Task Bar Hero. Features God Mode, unlimited money, EXP multiplier, instant kill, game speed hack, and more. Skip the grind and dominate the taskbar!
+暂无描述
 
 ---
 
-### [DisplayLead68/TBH-Cheat](https://github.com/DisplayLead68/TBH-Cheat)
+### [ibislon/sakiafNbgU](https://github.com/ibislon/sakiafNbgU)
 
-🗓 **2026-07-08** ｜ ⭐️ **71 stars** ｜ 🗂 **Python**
+🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-⚡ TBH-Cheat – complete cheat/trainer tool for TBH: Task Bar Hero. Features God Mode, unlimited money, EXP multiplier, instant kill, game speed hack, and more. Skip the grind and dominate the taskbar!
-
----
-
-### [Lusterpliroof/Discord-Unblock](https://github.com/Lusterpliroof/Discord-Unblock)
-
-🗓 **2026-07-08** ｜ ⭐️ **5 stars** ｜ 🗂 **Batchfile**
-
-РАБОЧИЙ ДИСКОРД ЗАПРЕТ (08.07.2026) · Windows 10/11 portable · Discord Unblock · DISCORD FIX 2026 · ОБХОД (08.07.2026) · Как обойти Discord — connecting fix · DPI bypass · ⬇ zip · Discord Unblock · #discord-fix #dpi-bypass #obhod-discorda #discord-ne-rabotaet #discord-not-working #discord-connecting #connecting-fix #voice-fix #rtc-fix #no-vpn #good
+【Java计算机毕业设计分享】基于SSM的电动车租赁网站管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
-### [Lusterpliroof/ObhodDiscord](https://github.com/Lusterpliroof/ObhodDiscord)
+### [pedro-augusto-ps/Banco-Seguro-OOP-Property-e-Hash](https://github.com/pedro-augusto-ps/Banco-Seguro-OOP-Property-e-Hash)
 
-🗓 **2026-07-08** ｜ ⭐️ **5 stars** ｜ 🗂 **Batchfile**
+🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-РАБОЧИЙ ДИСКОРД ЗАПРЕТ (08.07.2026) · инструкция в README · ObhodDiscord · РАБОЧИЙ ОБХОД DISCORD (08.07.2026) · Обход Discord 2026 — обход блокировки без VPN · GoodbyeDPI · ⬇ Releases · ObhodDiscord · #discord-fix #dpi-bypass #obhod-discorda #discord-ne-rabotaet #discord-not-working #discord-connecting #connecting-fix #voice-fix #rtc-fix #no-vpn #g
+This project simulates a bank account system with real authentication logic, built to practice advanced OOP concepts: encapsulation, @property, private attributes, and password hashing.
+
+---
+
+### [123SSS-oss/123](https://github.com/123SSS-oss/123)
+
+🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [atrago/KPxjvnMp](https://github.com/atrago/KPxjvnMp)
+
+🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Java计算机毕业设计分享】基于SpringBoot的流程管理系统设计与开发，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
 
 ---
 
