@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [remix-pc/sistema-solar-threejs](https://github.com/remix-pc/sistema-solar-threejs)
+### [Squirrrell/AI_Detection](https://github.com/Squirrrell/AI_Detection)
 
-🗓 **2026-07-09** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-暂无描述
-
----
-
-### [ibislon/sakiafNbgU](https://github.com/ibislon/sakiafNbgU)
-
-🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SSM的电动车租赁网站管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
-
----
-
-### [pedro-augusto-ps/Banco-Seguro-OOP-Property-e-Hash](https://github.com/pedro-augusto-ps/Banco-Seguro-OOP-Property-e-Hash)
-
-🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-This project simulates a bank account system with real authentication logic, built to practice advanced OOP concepts: encapsulation, @property, private attributes, and password hashing.
-
----
-
-### [123SSS-oss/123](https://github.com/123SSS-oss/123)
-
-🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [atrago/KPxjvnMp](https://github.com/atrago/KPxjvnMp)
+### [yasserouahdani20/tool-discord-free](https://github.com/yasserouahdani20/tool-discord-free)
 
-🗓 **2026-07-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-10** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-【Java计算机毕业设计分享】基于SpringBoot的流程管理系统设计与开发，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
+Everyone will benefit if each person shares a tool or method related to Discord or not. 
+
+---
+
+### [hasantmebd55-dot/guardnex-technologiess](https://github.com/hasantmebd55-dot/guardnex-technologiess)
+
+🗓 **2026-07-10** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [khrollo963/99-Names](https://github.com/khrollo963/99-Names)
+
+🗓 **2026-07-10** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+An interactive single-page grimoire exploring the 99 Beautiful Names of Allah (Al-Asma al-Husna), featuring Abjad numerology, talismanic magic squares (awfāq), khodam angelic correspondences, planetary associations, mystery letters, and a built-in gematria calculator. Built with vanilla HTML in a cosmic-inspired interface for study and reference.
+
+---
+
+### [Snow7-bot/smart-medical-frontend](https://github.com/Snow7-bot/smart-medical-frontend)
+
+🗓 **2026-07-10** ｜ ⭐️ **1 stars** ｜ 🗂 **Vue**
+
+暂无描述
 
 ---
 
