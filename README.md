@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Squirrrell/AI_Detection](https://github.com/Squirrrell/AI_Detection)
+### [jeallz/Consulta-obito-receita-federal](https://github.com/jeallz/Consulta-obito-receita-federal)
 
-🗓 **2026-07-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-11** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Sistema básico em python para automatizar consulta de óbito através de CPF e data de nascimento no site da Receita Federal
+
+---
+
+### [mabmab159/DSW1-M2-JUL26](https://github.com/mabmab159/DSW1-M2-JUL26)
+
+🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
 
 暂无描述
 
 ---
 
-### [yasserouahdani20/tool-discord-free](https://github.com/yasserouahdani20/tool-discord-free)
+### [hentaiOS-Infrastructure/mystic-attestationfixer](https://github.com/hentaiOS-Infrastructure/mystic-attestationfixer)
 
-🗓 **2026-07-10** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
 
-Everyone will benefit if each person shares a tool or method related to Discord or not. 
+Device side attestation replacer service
 
 ---
 
-### [hasantmebd55-dot/guardnex-technologiess](https://github.com/hasantmebd55-dot/guardnex-technologiess)
+### [yuyuan328/ai-task-manager](https://github.com/yuyuan328/ai-task-manager)
 
-🗓 **2026-07-10** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [khrollo963/99-Names](https://github.com/khrollo963/99-Names)
+### [xalonious/Bridgely](https://github.com/xalonious/Bridgely)
 
-🗓 **2026-07-10** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-An interactive single-page grimoire exploring the 99 Beautiful Names of Allah (Al-Asma al-Husna), featuring Abjad numerology, talismanic magic squares (awfāq), khodam angelic correspondences, planetary associations, mystery letters, and a built-in gematria calculator. Built with vanilla HTML in a cosmic-inspired interface for study and reference.
-
----
-
-### [Snow7-bot/smart-medical-frontend](https://github.com/Snow7-bot/smart-medical-frontend)
-
-🗓 **2026-07-10** ｜ ⭐️ **1 stars** ｜ 🗂 **Vue**
-
-暂无描述
+A Discord-to-Roblox verification bot with group role syncing, nickname management, custom binds, and profile or game-based verification.
 
 ---
 
