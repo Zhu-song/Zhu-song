@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [jeallz/Consulta-obito-receita-federal](https://github.com/jeallz/Consulta-obito-receita-federal)
+### [Arman-Luthra/aftr](https://github.com/Arman-Luthra/aftr)
 
-🗓 **2026-07-11** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-07-12** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-Sistema básico em python para automatizar consulta de óbito através de CPF e data de nascimento no site da Receita Federal
+Puppeteer for After Effects. Use AE with Claude Code to make production-ready videos.
 
 ---
 
-### [mabmab159/DSW1-M2-JUL26](https://github.com/mabmab159/DSW1-M2-JUL26)
+### [qvq325/Intelligent-Traffic](https://github.com/qvq325/Intelligent-Traffic)
 
-🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-07-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [hentaiOS-Infrastructure/mystic-attestationfixer](https://github.com/hentaiOS-Infrastructure/mystic-attestationfixer)
+### [ClearRain0015/Network_sniffer](https://github.com/ClearRain0015/Network_sniffer)
 
-🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
-
-Device side attestation replacer service
-
----
-
-### [yuyuan328/ai-task-manager](https://github.com/yuyuan328/ai-task-manager)
-
-🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [xalonious/Bridgely](https://github.com/xalonious/Bridgely)
+### [ibislon/GjWBJgAHUt](https://github.com/ibislon/GjWBJgAHUt)
 
-🗓 **2026-07-11** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-07-12** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-A Discord-to-Roblox verification bot with group role syncing, nickname management, custom binds, and profile or game-based verification.
+【Java计算机毕业设计分享】基于SSM的文斋网上书城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+
+---
+
+### [ThiagoMartinsSoftware/production-quality-tracker](https://github.com/ThiagoMartinsSoftware/production-quality-tracker)
+
+🗓 **2026-07-12** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Sistema web para registrar, acompanhar e gerenciar não conformidades entre a pré-montagem e as linhas de produção, melhorando a comunicação, a rastreabilidade e o tempo de resposta.
 
 ---
 
