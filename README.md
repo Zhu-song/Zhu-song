@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Arman-Luthra/aftr](https://github.com/Arman-Luthra/aftr)
+### [hammadirshad123/DFIR](https://github.com/hammadirshad123/DFIR)
 
-🗓 **2026-07-12** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
-
-Puppeteer for After Effects. Use AE with Claude Code to make production-ready videos.
-
----
-
-### [qvq325/Intelligent-Traffic](https://github.com/qvq325/Intelligent-Traffic)
-
-🗓 **2026-07-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [ClearRain0015/Network_sniffer](https://github.com/ClearRain0015/Network_sniffer)
+### [luancabral1/Openbank](https://github.com/luancabral1/Openbank)
 
-🗓 **2026-07-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
 
-暂无描述
-
----
-
-### [ibislon/GjWBJgAHUt](https://github.com/ibislon/GjWBJgAHUt)
-
-🗓 **2026-07-12** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SSM的文斋网上书城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+Full-stack banking management system (customers, accounts, transfers, reports) built with Java 21, Spring Boot and MySQL.
 
 ---
 
-### [ThiagoMartinsSoftware/production-quality-tracker](https://github.com/ThiagoMartinsSoftware/production-quality-tracker)
+### [alphaparkinc/genpark-openrouter-latency-balancer-skill](https://github.com/alphaparkinc/genpark-openrouter-latency-balancer-skill)
 
-🗓 **2026-07-12** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-Sistema web para registrar, acompanhar e gerenciar não conformidades entre a pré-montagem e as linhas de produção, melhorando a comunicação, a rastreabilidade e o tempo de resposta.
+Balance routing based on model response time latency
+
+---
+
+### [ruanvictorsj/python](https://github.com/ruanvictorsj/python)
+
+🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Python exercises, automation scripts and projects developed during my learning journey.
+
+---
+
+### [atrago/wlEuPHLN](https://github.com/atrago/wlEuPHLN)
+
+🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+【Java计算机毕业设计分享】基于SSM的运动会成绩管理系统，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
 
 ---
 
