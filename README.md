@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [hammadirshad123/DFIR](https://github.com/hammadirshad123/DFIR)
+### [asadteaa/WeMod-Pro-Patcher](https://github.com/asadteaa/WeMod-Pro-Patcher)
 
-🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-14** ｜ ⭐️ **55 stars** ｜ 🗂 **未知**
+
+Patcher for WeMod (wemod.com) — the popular game trainer and mod platform developed by WeMod Inc (founded 2016). Unlocks WeMod Pro subscription features including remote cheats, ad-free experience, custom hotkey bindings, priority support access, and early access to new game trainers. 
+
+---
+
+### [bartekhomeeee-crypto/uTorrent-Pro-Download](https://github.com/bartekhomeeee-crypto/uTorrent-Pro-Download)
+
+🗓 **2026-07-14** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+
+uTorrent Pro Download — pre-activated uTorrent Pro with all premium features unlocked. Removes all ads and banners, enables video streaming, bandwidth scheduler, virus guard integration, and advanced remote management. 
+
+---
+
+### [lily4harper/updated-cca-f-questions](https://github.com/lily4harper/updated-cca-f-questions)
+
+🗓 **2026-07-14** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+Honestly, I was a bit nervous before taking this exam, but things got much better during my preparation. A friend recommended Certs4Future and it really helped me understand the pattern and practice properly. In the end, I passed CCA-F with good marks and felt much more confident.
+
+---
+
+### [vizartid/casa-knowledge-graph](https://github.com/vizartid/casa-knowledge-graph)
+
+🗓 **2026-07-14** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+A personal thinking space for notes, knowledge connections, and conversations with Casa — a local-first, Zettelkasten-inspired second brain featuring an AI thinking partner, voice capture, and a live knowledge graph. Built with Next.js 16, React 19, and Google Gemini.
+
+---
+
+### [legend-builds/Base-Gas-Tracker](https://github.com/legend-builds/Base-Gas-Tracker)
+
+🗓 **2026-07-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
-
----
-
-### [luancabral1/Openbank](https://github.com/luancabral1/Openbank)
-
-🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
-
-Full-stack banking management system (customers, accounts, transfers, reports) built with Java 21, Spring Boot and MySQL.
-
----
-
-### [alphaparkinc/genpark-openrouter-latency-balancer-skill](https://github.com/alphaparkinc/genpark-openrouter-latency-balancer-skill)
-
-🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-Balance routing based on model response time latency
-
----
-
-### [ruanvictorsj/python](https://github.com/ruanvictorsj/python)
-
-🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Python exercises, automation scripts and projects developed during my learning journey.
-
----
-
-### [atrago/wlEuPHLN](https://github.com/atrago/wlEuPHLN)
-
-🗓 **2026-07-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Java计算机毕业设计分享】基于SSM的运动会成绩管理系统，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、部署教程、开题、任务书】
 
 ---
 
