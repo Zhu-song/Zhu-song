@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [asadteaa/WeMod-Pro-Patcher](https://github.com/asadteaa/WeMod-Pro-Patcher)
+### [alexafinode/claude-arbitrage-bot](https://github.com/alexafinode/claude-arbitrage-bot)
 
-🗓 **2026-07-14** ｜ ⭐️ **55 stars** ｜ 🗂 **未知**
+🗓 **2026-07-15** ｜ ⭐️ **81 stars** ｜ 🗂 **Solidity**
 
-Patcher for WeMod (wemod.com) — the popular game trainer and mod platform developed by WeMod Inc (founded 2016). Unlocks WeMod Pro subscription features including remote cheats, ad-free experience, custom hotkey bindings, priority support access, and early access to new game trainers. 
-
----
-
-### [bartekhomeeee-crypto/uTorrent-Pro-Download](https://github.com/bartekhomeeee-crypto/uTorrent-Pro-Download)
-
-🗓 **2026-07-14** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
-
-uTorrent Pro Download — pre-activated uTorrent Pro with all premium features unlocked. Removes all ads and banners, enables video streaming, bandwidth scheduler, virus guard integration, and advanced remote management. 
+Arbitrage bot for Ethereum-compatible networks with built-in Python automation
 
 ---
 
-### [lily4harper/updated-cca-f-questions](https://github.com/lily4harper/updated-cca-f-questions)
+### [joaozao14/CONDO-CONDO](https://github.com/joaozao14/CONDO-CONDO)
 
-🗓 **2026-07-14** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-07-15** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-Honestly, I was a bit nervous before taking this exam, but things got much better during my preparation. A friend recommended Certs4Future and it really helped me understand the pattern and practice properly. In the end, I passed CCA-F with good marks and felt much more confident.
-
----
-
-### [vizartid/casa-knowledge-graph](https://github.com/vizartid/casa-knowledge-graph)
-
-🗓 **2026-07-14** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
-
-A personal thinking space for notes, knowledge connections, and conversations with Casa — a local-first, Zettelkasten-inspired second brain featuring an AI thinking partner, voice capture, and a live knowledge graph. Built with Next.js 16, React 19, and Google Gemini.
+暂无描述
 
 ---
 
-### [legend-builds/Base-Gas-Tracker](https://github.com/legend-builds/Base-Gas-Tracker)
+### [yahyaaldomini0-hash/yahya-911](https://github.com/yahyaaldomini0-hash/yahya-911)
 
-🗓 **2026-07-14** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+QW-L9WF1U
+
+---
+
+### [hajunho/zeli-cast](https://github.com/hajunho/zeli-cast)
+
+🗓 **2026-07-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Consensus-based weather forecast: 5 APIs, majority voting. Plus news, stocks, nearby places. Clone and run - demo keys included.
+
+---
+
+### [nex627/skill-harness](https://github.com/nex627/skill-harness)
+
+🗓 **2026-07-15** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
