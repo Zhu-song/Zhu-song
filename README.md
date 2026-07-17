@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [alexafinode/claude-arbitrage-bot](https://github.com/alexafinode/claude-arbitrage-bot)
+### [infusionvictor/warren-buffett-jr](https://github.com/infusionvictor/warren-buffett-jr)
 
-🗓 **2026-07-15** ｜ ⭐️ **81 stars** ｜ 🗂 **Solidity**
-
-Arbitrage bot for Ethereum-compatible networks with built-in Python automation
-
----
-
-### [joaozao14/CONDO-CONDO](https://github.com/joaozao14/CONDO-CONDO)
-
-🗓 **2026-07-15** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-07-16** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [yahyaaldomini0-hash/yahya-911](https://github.com/yahyaaldomini0-hash/yahya-911)
+### [alphaparkinc/genpark-amami-agent-analytics-skill](https://github.com/alphaparkinc/genpark-amami-agent-analytics-skill)
 
-🗓 **2026-07-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-07-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-QW-L9WF1U
-
----
-
-### [hajunho/zeli-cast](https://github.com/hajunho/zeli-cast)
-
-🗓 **2026-07-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-Consensus-based weather forecast: 5 APIs, majority voting. Plus news, stocks, nearby places. Clone and run - demo keys included.
+Amami built-in agent analytics estimator
 
 ---
 
-### [nex627/skill-harness](https://github.com/nex627/skill-harness)
+### [pizixi/llmrelay](https://github.com/pizixi/llmrelay)
 
-🗓 **2026-07-15** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Go**
+
+LLM Relay 是一个轻量级 LLM 网关。它对外提供 OpenAI Chat Completions、OpenAI Responses 和 Anthropic Messages 三种接口，并可把请求路由到使用上述任一协议的上游服务。
+
+---
+
+### [mmeretgulyyew-sketch/Yakyn-Biz-App-Backend-Mini-project-](https://github.com/mmeretgulyyew-sketch/Yakyn-Biz-App-Backend-Mini-project-)
+
+🗓 **2026-07-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+
+暂无描述
+
+---
+
+### [FuWan722/godot_compositor_write_depth](https://github.com/FuWan722/godot_compositor_write_depth)
+
+🗓 **2026-07-16** ｜ ⭐️ **2 stars** ｜ 🗂 **GDScript**
 
 暂无描述
 
