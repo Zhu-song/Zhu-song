@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [infusionvictor/warren-buffett-jr](https://github.com/infusionvictor/warren-buffett-jr)
+### [ShawnMenz/TokenFarm](https://github.com/ShawnMenz/TokenFarm)
 
-🗓 **2026-07-16** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [alphaparkinc/genpark-amami-agent-analytics-skill](https://github.com/alphaparkinc/genpark-amami-agent-analytics-skill)
-
-🗓 **2026-07-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Amami built-in agent analytics estimator
-
----
-
-### [pizixi/llmrelay](https://github.com/pizixi/llmrelay)
-
-🗓 **2026-07-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Go**
-
-LLM Relay 是一个轻量级 LLM 网关。它对外提供 OpenAI Chat Completions、OpenAI Responses 和 Anthropic Messages 三种接口，并可把请求路由到使用上述任一协议的上游服务。
-
----
-
-### [mmeretgulyyew-sketch/Yakyn-Biz-App-Backend-Mini-project-](https://github.com/mmeretgulyyew-sketch/Yakyn-Biz-App-Backend-Mini-project-)
-
-🗓 **2026-07-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+🗓 **2026-07-17** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [FuWan722/godot_compositor_write_depth](https://github.com/FuWan722/godot_compositor_write_depth)
+### [nbws23/zgocloud-bgp-vps](https://github.com/nbws23/zgocloud-bgp-vps)
 
-🗓 **2026-07-16** ｜ ⭐️ **2 stars** ｜ 🗂 **GDScript**
+🗓 **2026-07-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+ZgoCloud BGP VPS 完整选购指南：香港东京BGP三网直连套餐怎么选？价格配置对比、优惠码使用、新手入门一篇搞定（附真实测评数据解析）
+
+---
+
+### [CyberAnimal1/the-rear-rooms](https://github.com/CyberAnimal1/the-rear-rooms)
+
+🗓 **2026-07-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
+
+---
+
+### [Chillwind132/mssql-mcp-server](https://github.com/Chillwind132/mssql-mcp-server)
+
+🗓 **2026-07-17** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+Microsoft SQL Server MCP server for queries, inspection, and troubleshooting
+
+---
+
+### [XavierLevenfiche/timebuoy](https://github.com/XavierLevenfiche/timebuoy)
+
+🗓 **2026-07-17** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+A tiny local time reference for AI agents, automations, and humans — because LLMs cannot tell time. JSON time-truth + drop-in solar-lume watch faces.
 
 ---
 
