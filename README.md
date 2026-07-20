@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN)
+### [Enoch666/suanming-mcp](https://github.com/Enoch666/suanming-mcp)
 
-🗓 **2026-07-18** ｜ ⭐️ **97 stars** ｜ 🗂 **C#**
+🗓 **2026-07-19** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без логов, без ограничений по трафику, полностью open-source. В активной разработке. Обходим блокировки в РФ.
-
----
-
-### [AmunM9/glyf](https://github.com/AmunM9/glyf)
-
-🗓 **2026-07-18** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-Tu letra a mano convertida en fuente .ttf/.otf — 100% en el navegador, sin subir archivos a la nube.
+玄机阁算命 MCP Server — 八字排盘、六爻起卦、灵签抽签、姓名打分、起名、程序员黄历。传统中国风水墨    HTML 命理报告。
 
 ---
 
-### [huohuaxiang/Chaotic-pendulum](https://github.com/huohuaxiang/Chaotic-pendulum)
+### [alphaparkinc/genpark-ai-qa-test-generator-skill](https://github.com/alphaparkinc/genpark-ai-qa-test-generator-skill)
 
-🗓 **2026-07-18** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-19** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-将双摆和三摆的混沌特性可视化展现/Visualizing the chaotic characteristics of double and triple pendulums
-
----
-
-### [BenDanielReich/Robot](https://github.com/BenDanielReich/Robot)
-
-🗓 **2026-07-18** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
-
-my c++ robot code
+Automated QA regression test case generator from feature desc
 
 ---
 
-### [d0976155-tech/LinkHub](https://github.com/d0976155-tech/LinkHub)
+### [Nebutra/cutout](https://github.com/Nebutra/cutout)
 
-🗓 **2026-07-18** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-07-19** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+Local-first AI design production workspace
+
+---
+
+### [mateusleitao/personalWebpage](https://github.com/mateusleitao/personalWebpage)
+
+🗓 **2026-07-19** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+This is my personal webpage repository
+
+---
+
+### [RodrigoUm/graphnexa-personal](https://github.com/RodrigoUm/graphnexa-personal)
+
+🗓 **2026-07-19** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
 
 暂无描述
 
