@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Enoch666/suanming-mcp](https://github.com/Enoch666/suanming-mcp)
+### [youngbenrja4262/king-legacy-lua-executor](https://github.com/youngbenrja4262/king-legacy-lua-executor)
 
-🗓 **2026-07-19** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-07-20** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
 
-玄机阁算命 MCP Server — 八字排盘、六爻起卦、灵签抽签、姓名打分、起名、程序员黄历。传统中国风水墨    HTML 命理报告。
-
----
-
-### [alphaparkinc/genpark-ai-qa-test-generator-skill](https://github.com/alphaparkinc/genpark-ai-qa-test-generator-skill)
-
-🗓 **2026-07-19** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Automated QA regression test case generator from feature desc
+Lightweight Roblox script utility for King Legacy with aimbot assistance, custom skins, toggleable options, and configurable settings, built to stay compatible with recent game updates.
 
 ---
 
-### [Nebutra/cutout](https://github.com/Nebutra/cutout)
+### [nathanhfdugray4793/golden-script-hub-loader](https://github.com/nathanhfdugray4793/golden-script-hub-loader)
 
-🗓 **2026-07-19** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-07-20** ｜ ⭐️ **9 stars** ｜ 🗂 **HTML**
 
-Local-first AI design production workspace
-
----
-
-### [mateusleitao/personalWebpage](https://github.com/mateusleitao/personalWebpage)
-
-🗓 **2026-07-19** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-This is my personal webpage repository
+64-bit Roblox script executor for Windows 10 and 11 with Lua support, a 500+ script hub, compact desktop UI, and an automated update flow for 2026.
 
 ---
 
-### [RodrigoUm/graphnexa-personal](https://github.com/RodrigoUm/graphnexa-personal)
+### [sandeepwastaken/vestige](https://github.com/sandeepwastaken/vestige)
 
-🗓 **2026-07-19** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
+🗓 **2026-07-20** ｜ ⭐️ **1 stars** ｜ 🗂 **Swift**
 
 暂无描述
+
+---
+
+### [Soufiane4103/index](https://github.com/Soufiane4103/index)
+
+🗓 **2026-07-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+暂无描述
+
+---
+
+### [rubleberry/purpleberry](https://github.com/rubleberry/purpleberry)
+
+🗓 **2026-07-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Unity game development repository for Assets, ProjectSettings, and Packages
 
 ---
 
