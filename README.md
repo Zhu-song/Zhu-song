@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [youngbenrja4262/king-legacy-lua-executor](https://github.com/youngbenrja4262/king-legacy-lua-executor)
+### [grasplightmask/waves-complete-setup](https://github.com/grasplightmask/waves-complete-setup)
 
-🗓 **2026-07-20** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-Lightweight Roblox script utility for King Legacy with aimbot assistance, custom skins, toggleable options, and configurable settings, built to stay compatible with recent game updates.
-
----
-
-### [nathanhfdugray4793/golden-script-hub-loader](https://github.com/nathanhfdugray4793/golden-script-hub-loader)
-
-🗓 **2026-07-20** ｜ ⭐️ **9 stars** ｜ 🗂 **HTML**
-
-64-bit Roblox script executor for Windows 10 and 11 with Lua support, a 500+ script hub, compact desktop UI, and an automated update flow for 2026.
+Waves Complete — Waves Complete Windows setup — VST plugin landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://waves-complete-setup.moltora.com/
 
 ---
 
-### [sandeepwastaken/vestige](https://github.com/sandeepwastaken/vestige)
+### [WarblerInferno/windows-update-fix-tool](https://github.com/WarblerInferno/windows-update-fix-tool)
 
-🗓 **2026-07-20** ｜ ⭐️ **1 stars** ｜ 🗂 **Swift**
+🗓 **2026-07-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [Soufiane4103/index](https://github.com/Soufiane4103/index)
-
-🗓 **2026-07-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
-
-暂无描述
+Windows Update Fix Tool — Windows Update Fix Tool Windows setup — system repair landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://windows-update-fix-tool.moltora.com/
 
 ---
 
-### [rubleberry/purpleberry](https://github.com/rubleberry/purpleberry)
+### [PhotonCrabDescribe/xbox-game-pass-setup](https://github.com/PhotonCrabDescribe/xbox-game-pass-setup)
 
-🗓 **2026-07-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-21** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-Unity game development repository for Assets, ProjectSettings, and Packages
+Xbox Game Pass — Xbox Game Pass Windows setup — gaming landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://xbox-game-pass-setup.moltora.com/
+
+---
+
+### [ScrewSalamanderSing/topaz-photo-ai](https://github.com/ScrewSalamanderSing/topaz-photo-ai)
+
+🗓 **2026-07-21** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+Topaz Photo AI — Topaz Photo AI Windows setup — software landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://topaz-photo-ai.moltora.com/
+
+---
+
+### [FierceSaboteurAsk75/wtfast](https://github.com/FierceSaboteurAsk75/wtfast)
+
+🗓 **2026-07-21** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+
+WTFast — WTFast Windows setup — gaming latency landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://wtfast.moltora.com/
 
 ---
 
