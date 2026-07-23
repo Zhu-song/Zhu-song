@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [grasplightmask/waves-complete-setup](https://github.com/grasplightmask/waves-complete-setup)
+### [dboudreau00/Delpheed-Delphi-Call-Hijacker](https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker)
 
-🗓 **2026-07-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-07-22** ｜ ⭐️ **3 stars** ｜ 🗂 **Pascal**
 
-Waves Complete — Waves Complete Windows setup — VST plugin landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://waves-complete-setup.moltora.com/
-
----
-
-### [WarblerInferno/windows-update-fix-tool](https://github.com/WarblerInferno/windows-update-fix-tool)
-
-🗓 **2026-07-21** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
-
-Windows Update Fix Tool — Windows Update Fix Tool Windows setup — system repair landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://windows-update-fix-tool.moltora.com/
+A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.
 
 ---
 
-### [PhotonCrabDescribe/xbox-game-pass-setup](https://github.com/PhotonCrabDescribe/xbox-game-pass-setup)
+### [shimishimiyey/python-practice-codes](https://github.com/shimishimiyey/python-practice-codes)
 
-🗓 **2026-07-21** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Xbox Game Pass — Xbox Game Pass Windows setup — gaming landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://xbox-game-pass-setup.moltora.com/
-
----
-
-### [ScrewSalamanderSing/topaz-photo-ai](https://github.com/ScrewSalamanderSing/topaz-photo-ai)
-
-🗓 **2026-07-21** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
-
-Topaz Photo AI — Topaz Photo AI Windows setup — software landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://topaz-photo-ai.moltora.com/
+codes used for practicing coding and computational thinking skills in python
 
 ---
 
-### [FierceSaboteurAsk75/wtfast](https://github.com/FierceSaboteurAsk75/wtfast)
+### [sebavidal10/neonpulse-frontend](https://github.com/sebavidal10/neonpulse-frontend)
 
-🗓 **2026-07-21** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
-WTFast — WTFast Windows setup — gaming latency landing repository with install notes, workflow checklists, and session logs. Install notes landing repo. Domain: https://wtfast.moltora.com/
+暂无描述
+
+---
+
+### [generalrodolfao/pentest-squad](https://github.com/generalrodolfao/pentest-squad)
+
+🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Squad multiagente para pentest de aplicações web — OWASP WSTG, PTES, LGPD/GDPR. Material educacional para aulas de segurança ofensiva.
+
+---
+
+### [kaiza498/GeoGessHack](https://github.com/kaiza498/GeoGessHack)
+
+🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+GeoGuessr Steam cheat — real-time location panel injected via Chrome DevTools Protocol
 
 ---
 
