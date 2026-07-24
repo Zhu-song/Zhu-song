@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [dboudreau00/Delpheed-Delphi-Call-Hijacker](https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker)
+### [gabelykwest9995/silent-castle-apk-update](https://github.com/gabelykwest9995/silent-castle-apk-update)
 
-🗓 **2026-07-22** ｜ ⭐️ **3 stars** ｜ 🗂 **Pascal**
+🗓 **2026-07-23** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
 
-A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.
-
----
-
-### [shimishimiyey/python-practice-codes](https://github.com/shimishimiyey/python-practice-codes)
-
-🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-codes used for practicing coding and computational thinking skills in python
+Silent Castle v1.50.021 is a modified Android survival horror game APK with expanded access to progression resources, including money, diamonds, characters, and an ad-free experience.
 
 ---
 
-### [sebavidal10/neonpulse-frontend](https://github.com/sebavidal10/neonpulse-frontend)
+### [hillbenxs9729/lattice-license-manager-v2026](https://github.com/hillbenxs9729/lattice-license-manager-v2026)
 
-🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-23** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
 
-暂无描述
-
----
-
-### [generalrodolfao/pentest-squad](https://github.com/generalrodolfao/pentest-squad)
-
-🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Squad multiagente para pentest de aplicações web — OWASP WSTG, PTES, LGPD/GDPR. Material educacional para aulas de segurança ofensiva.
+Cross-platform software licensing toolkit for creating, validating, and administering product keys and activation seeds, with offline cryptographic activation, batch exports, audit records, and optional AI integrations.
 
 ---
 
-### [kaiza498/GeoGessHack](https://github.com/kaiza498/GeoGessHack)
+### [nocaptheorem/Drone](https://github.com/nocaptheorem/Drone)
 
-🗓 **2026-07-22** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-07-23** ｜ ⭐️ **4 stars** ｜ 🗂 **C#**
 
-GeoGuessr Steam cheat — real-time location panel injected via Chrome DevTools Protocol
+A high-fidelity, first-principles 6-DoF drone simulation built in C# and Godot 4. Modeled with explicit 4th-order Runge-Kutta tensor integration, dynamic center-of-mass shifts via the Parallel Axis Theorem, sub-step cable damping, fault-tolerant control allocation, and dynamic shader-driven environmental interactions.
+
+---
+
+### [alphaparkinc/genpark-runtime-ai-authorization-guard-skill](https://github.com/alphaparkinc/genpark-runtime-ai-authorization-guard-skill)
+
+🗓 **2026-07-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+Fine-grained security proxy for AI coding agents
+
+---
+
+### [alphaparkinc/genpark-agent-cost-optimization-orchestrator-skill](https://github.com/alphaparkinc/genpark-agent-cost-optimization-orchestrator-skill)
+
+🗓 **2026-07-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+Multi-LLM model routing & prompt compression (AskCodi style)
 
 ---
 
