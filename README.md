@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [gabelykwest9995/silent-castle-apk-update](https://github.com/gabelykwest9995/silent-castle-apk-update)
+### [iclovemiku/qwen-omni-live](https://github.com/iclovemiku/qwen-omni-live)
 
-🗓 **2026-07-23** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-Silent Castle v1.50.021 is a modified Android survival horror game APK with expanded access to progression resources, including money, diamonds, characters, and an ad-free experience.
-
----
-
-### [hillbenxs9729/lattice-license-manager-v2026](https://github.com/hillbenxs9729/lattice-license-manager-v2026)
-
-🗓 **2026-07-23** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
-
-Cross-platform software licensing toolkit for creating, validating, and administering product keys and activation seeds, with offline cryptographic activation, batch exports, audit records, and optional AI integrations.
+A low-latency Qwen Omni live voice demo with native audio routing, reasoning, and streaming TTS.
 
 ---
 
-### [nocaptheorem/Drone](https://github.com/nocaptheorem/Drone)
+### [angelbandera0/flutter_animations_test](https://github.com/angelbandera0/flutter_animations_test)
 
-🗓 **2026-07-23** ｜ ⭐️ **4 stars** ｜ 🗂 **C#**
+🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Dart**
 
-A high-fidelity, first-principles 6-DoF drone simulation built in C# and Godot 4. Modeled with explicit 4th-order Runge-Kutta tensor integration, dynamic center-of-mass shifts via the Parallel Axis Theorem, sub-step cable damping, fault-tolerant control allocation, and dynamic shader-driven environmental interactions.
-
----
-
-### [alphaparkinc/genpark-runtime-ai-authorization-guard-skill](https://github.com/alphaparkinc/genpark-runtime-ai-authorization-guard-skill)
-
-🗓 **2026-07-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Fine-grained security proxy for AI coding agents
+Una app completa para aprender animaciones en Flutter desde básico hasta experto. Incluye 16 lecciones interactivas, demos en vivo, explorador de curvas y playground para experimentar sin código.
 
 ---
 
-### [alphaparkinc/genpark-agent-cost-optimization-orchestrator-skill](https://github.com/alphaparkinc/genpark-agent-cost-optimization-orchestrator-skill)
+### [reyrove/ChaotiColor-Generative-Art](https://github.com/reyrove/ChaotiColor-Generative-Art)
 
-🗓 **2026-07-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
-Multi-LLM model routing & prompt compression (AskCodi style)
+ChaotiColor — Generative cellular automata art with chaotic patterns, vibrant color palettes, and three unique modes. Pure JavaScript, no dependencies. Preview on apparel.
+
+---
+
+### [mlazar333/edualloc](https://github.com/mlazar333/edualloc)
+
+🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
+
+An educational C memory allocator implementing malloc, free, calloc, and realloc over a managed heap.
+
+---
+
+### [Mekanbahmanjeh/RLF](https://github.com/Mekanbahmanjeh/RLF)
+
+🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+
+A C++23 research prototype for non-neural machine learning. Achieves learning via sparse resonant dynamics and phase vectors instead of backpropagation.  RLF is a C++23 multimodal learning system built on complex phase-vectors, sparse mode retrieval, and recurrent settling—with zero neural networks or backpropagation.
 
 ---
 
