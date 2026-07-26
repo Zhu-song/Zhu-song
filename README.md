@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [iclovemiku/qwen-omni-live](https://github.com/iclovemiku/qwen-omni-live)
+### [kerogenesis/InputRedirect](https://github.com/kerogenesis/InputRedirect)
 
-🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-07-25** ｜ ⭐️ **11 stars** ｜ 🗂 **Rust**
 
-A low-latency Qwen Omni live voice demo with native audio routing, reasoning, and streaming TTS.
-
----
-
-### [angelbandera0/flutter_animations_test](https://github.com/angelbandera0/flutter_animations_test)
-
-🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Dart**
-
-Una app completa para aprender animaciones en Flutter desde básico hasta experto. Incluye 16 lecciones interactivas, demos en vivo, explorador de curvas y playground para experimentar sin código.
+Redirect keyboard, touchpad and mouse input through a real signed driver
 
 ---
 
-### [reyrove/ChaotiColor-Generative-Art](https://github.com/reyrove/ChaotiColor-Generative-Art)
+### [Xyraakyzzz/lynx-session](https://github.com/Xyraakyzzz/lynx-session)
 
-🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-25** ｜ ⭐️ **4 stars** ｜ 🗂 **JavaScript**
 
-ChaotiColor — Generative cellular automata art with chaotic patterns, vibrant color palettes, and three unique modes. Pure JavaScript, no dependencies. Preview on apparel.
-
----
-
-### [mlazar333/edualloc](https://github.com/mlazar333/edualloc)
-
-🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
-
-An educational C memory allocator implementing malloc, free, calloc, and realloc over a managed heap.
+暂无描述
 
 ---
 
-### [Mekanbahmanjeh/RLF](https://github.com/Mekanbahmanjeh/RLF)
+### [Xyraakyzzz/Lynx](https://github.com/Xyraakyzzz/Lynx)
 
-🗓 **2026-07-24** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-07-25** ｜ ⭐️ **4 stars** ｜ 🗂 **JavaScript**
 
-A C++23 research prototype for non-neural machine learning. Achieves learning via sparse resonant dynamics and phase vectors instead of backpropagation.  RLF is a C++23 multimodal learning system built on complex phase-vectors, sparse mode retrieval, and recurrent settling—with zero neural networks or backpropagation.
+暂无描述
+
+---
+
+### [v3ronicaaa/Foraging-Macro](https://github.com/v3ronicaaa/Foraging-Macro)
+
+🗓 **2026-07-25** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+ForagingMacro is a macro for hypixel skyblock foraging
+
+---
+
+### [MANIKHAVARI/library-desksense](https://github.com/MANIKHAVARI/library-desksense)
+
+🗓 **2026-07-25** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
+
+ESP32 IoT desk-monitoring system with switchable HTTP/CoAP telemetry, MQTT control, InfluxDB storage, and Grafana analytics.
 
 ---
 
