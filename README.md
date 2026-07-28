@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [secstant-sigp/trophies](https://github.com/secstant-sigp/trophies)
+### [mamonet/wiimote-motion-display](https://github.com/mamonet/wiimote-motion-display)
 
-🗓 **2026-07-26** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-07-27** ｜ ⭐️ **5 stars** ｜ 🗂 **C#**
 
-Public Vulnerabilities Found by Secstant
-
----
-
-### [reyrove/Game-of-Life-Generative-Art](https://github.com/reyrove/Game-of-Life-Generative-Art)
-
-🗓 **2026-07-26** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-Game of Life — Generative cellular automaton art with Conway's Game of Life simulation, random colors, pause/resume, and GIF export. Preview on apparel.
+暂无描述
 
 ---
 
-### [bkgrnd/FactoryGame](https://github.com/bkgrnd/FactoryGame)
+### [mamonet/take-rate-controller](https://github.com/mamonet/take-rate-controller)
 
-🗓 **2026-07-26** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-27** ｜ ⭐️ **5 stars** ｜ 🗂 **Go**
 
-stupid factory game
-
----
-
-### [b0dj0x/domainghost](https://github.com/b0dj0x/domainghost)
-
-🗓 **2026-07-26** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-domainghost by b0dj0x
+Deterministic PI control loop that sets per-transaction marketplace commission to converge on an aggregate take-rate target, with integer money, hard bounds, and a guaranteed fallback.
 
 ---
 
-### [reyrove/Girih-1-Generative-Art](https://github.com/reyrove/Girih-1-Generative-Art)
+### [kims6305-bjk/reflection-probe-gate](https://github.com/kims6305-bjk/reflection-probe-gate)
 
-🗓 **2026-07-26** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-07-27** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-Girih 1 — Generative Islamic geometric art with Girih patterns, recursive trees, and rich color palettes. Pure JavaScript, no dependencies. Preview on apparel.
+Reflection probe verification subgraph for citation-grounded QA — with the A/B gate that rejected its own main probe (pre-registered, blinded, McNemar)
+
+---
+
+### [alexandroluisg/Sistema_Gestion_Pedidos_VORA](https://github.com/alexandroluisg/Sistema_Gestion_Pedidos_VORA)
+
+🗓 **2026-07-27** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Sistema de Gestión de Pedidos desarrollado en Python para la asignatura de Programación Estructurada.
+
+---
+
+### [i29wknd-afk/Omg.meme-gif](https://github.com/i29wknd-afk/Omg.meme-gif)
+
+🗓 **2026-07-27** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Omg.meme
 
 ---
 
