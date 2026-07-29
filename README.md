@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [mamonet/wiimote-motion-display](https://github.com/mamonet/wiimote-motion-display)
+### [alphaparkinc/genpark-launch-readiness-skill](https://github.com/alphaparkinc/genpark-launch-readiness-skill)
 
-🗓 **2026-07-27** ｜ ⭐️ **5 stars** ｜ 🗂 **C#**
+🗓 **2026-07-28** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [mamonet/take-rate-controller](https://github.com/mamonet/take-rate-controller)
-
-🗓 **2026-07-27** ｜ ⭐️ **5 stars** ｜ 🗂 **Go**
-
-Deterministic PI control loop that sets per-transaction marketplace commission to converge on an aggregate take-rate target, with integer money, hard bounds, and a guaranteed fallback.
+AI skill module: genpark-launch-readiness-skill
 
 ---
 
-### [kims6305-bjk/reflection-probe-gate](https://github.com/kims6305-bjk/reflection-probe-gate)
+### [alphaparkinc/genpark-content-quality-auditor-skill](https://github.com/alphaparkinc/genpark-content-quality-auditor-skill)
 
-🗓 **2026-07-27** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-07-28** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
 
-Reflection probe verification subgraph for citation-grounded QA — with the A/B gate that rejected its own main probe (pre-registered, blinded, McNemar)
-
----
-
-### [alexandroluisg/Sistema_Gestion_Pedidos_VORA](https://github.com/alexandroluisg/Sistema_Gestion_Pedidos_VORA)
-
-🗓 **2026-07-27** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Sistema de Gestión de Pedidos desarrollado en Python para la asignatura de Programación Estructurada.
+AI skill module: genpark-content-quality-auditor-skill
 
 ---
 
-### [i29wknd-afk/Omg.meme-gif](https://github.com/i29wknd-afk/Omg.meme-gif)
+### [alphaparkinc/genpark-competitive-intel-skill](https://github.com/alphaparkinc/genpark-competitive-intel-skill)
 
-🗓 **2026-07-27** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-07-28** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-Omg.meme
+AI skill module: genpark-competitive-intel-skill
+
+---
+
+### [alphaparkinc/genpark-seo-metadata-generator-skill](https://github.com/alphaparkinc/genpark-seo-metadata-generator-skill)
+
+🗓 **2026-07-28** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
+
+AI skill module: genpark-seo-metadata-generator-skill
+
+---
+
+### [alphaparkinc/genpark-user-persona-generator-skill](https://github.com/alphaparkinc/genpark-user-persona-generator-skill)
+
+🗓 **2026-07-28** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
+
+AI skill module: genpark-user-persona-generator-skill
 
 ---
 
