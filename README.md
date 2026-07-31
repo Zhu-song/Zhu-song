@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [6t9xstar/Open-Cold-Dialer](https://github.com/6t9xstar/Open-Cold-Dialer)
+### [liuhuanyong/FDEGreenBook](https://github.com/liuhuanyong/FDEGreenBook)
 
-🗓 **2026-07-29** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-07-30** ｜ ⭐️ **4 stars** ｜ 🗂 **HTML**
 
-Open-source cold calling CRM with SIP softphone, lead management, campaigns, call scripts, analytics, REST API, Docker deployment, and self-hosted support. Works with SignalWire, Twilio, Telnyx, and custom SIP providers.
-
----
-
-### [alphaparkinc/genpark-agent-to-agent-brand-commerce-representative-skill](https://github.com/alphaparkinc/genpark-agent-to-agent-brand-commerce-representative-skill)
-
-🗓 **2026-07-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Agent-to-Agent (A2A) brand commerce representative for LLM search recommendation
+一个自包含的交互式网站，把 FDE（Forward Deployed Engineer，前线部署工程师）讲透：教程 + 游戏 + 画像测试三合一。
 
 ---
 
-### [alphaparkinc/genpark-amazon-ppc-ad-campaign-waste-optimizer-skill](https://github.com/alphaparkinc/genpark-amazon-ppc-ad-campaign-waste-optimizer-skill)
+### [BynBang1/easy-crackme](https://github.com/BynBang1/easy-crackme)
 
-🗓 **2026-07-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-30** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-E-commerce PPC ad campaign search-term waste analyzer & bid optimizer
-
----
-
-### [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill)
-
-🗓 **2026-07-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-E-commerce listing research, bullet points & conversion rate optimizer
+Obfuscated Crack Me
 
 ---
 
-### [alphaparkinc/genpark-e-commerce-keyword-seasonality-listing-health-monitor-skill](https://github.com/alphaparkinc/genpark-e-commerce-keyword-seasonality-listing-health-monitor-skill)
+### [Samuels-Development/sd-tablet](https://github.com/Samuels-Development/sd-tablet)
 
-🗓 **2026-07-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-07-30** ｜ ⭐️ **2 stars** ｜ 🗂 **Lua**
 
-24/7 automated monitor for search volume, seasonality & listing health
+An in-game tablet for FiveM, and a companion to sd-phone. Same apps, same accounts, same data, on a bigger screen.
+
+---
+
+### [Barry1003/youth-project](https://github.com/Barry1003/youth-project)
+
+🗓 **2026-07-30** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
+
+---
+
+### [wenjiazhu1980/ham-radio-exam](https://github.com/wenjiazhu1980/ham-radio-exam)
+
+🗓 **2026-07-30** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+业余无线电A类模拟考试与题库：在线刷题、模拟考、知识图谱 | Free China Ham Radio Class A (CRAC) mock exam & practice
 
 ---
 
