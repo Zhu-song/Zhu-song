@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [danielmillersr2593/3d-print-tools-editor](https://github.com/danielmillersr2593/3d-print-tools-editor)
+### [ThrushAdvance/telegram-fix-1.8.0](https://github.com/ThrushAdvance/telegram-fix-1.8.0)
 
-🗓 **2026-07-31** ｜ ⭐️ **21 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-01** ｜ ⭐️ **4 stars** ｜ 🗂 **Batchfile**
 
-Client-side browser toolkit for viewing, editing, inspecting, and preparing common 3D-printing files, with support generation and toolpath visualization. Use the hosted version or serve a local checkout.
-
----
-
-### [gabefishercb508/abay-bot-workflow-tools](https://github.com/gabefishercb508/abay-bot-workflow-tools)
-
-🗓 **2026-07-31** ｜ ⭐️ **18 stars** ｜ 🗂 **HTML**
-
-Telegram automation project for coordinating workflow tasks in the currently available 2026 build, with a compact HTML-oriented source structure, configurable settings, startup guidance, and an outlined update process.
+Discord Fix 1.9.9 — connecting · голос RTC · обход DPI Windows · ⬇ Скачать (02.08.2026) · ⬇ telegram-fix-1.8.0.rar в Releases
 
 ---
 
-### [ryanphqross9118/seliware-executor-script-update](https://github.com/ryanphqross9118/seliware-executor-script-update)
+### [krssroot/Metamask-core](https://github.com/krssroot/Metamask-core)
 
-🗓 **2026-07-31** ｜ ⭐️ **13 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-01** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
 
-Free Windows utility for running Lua scripts in Roblox with one-click injection, a 500+ script hub, saved execution queues, automatic updates, multilingual UI, and no key required. Supports Windows 10/11 64-bit.
-
----
-
-### [noah-scottqkh6962/addon-ez-bedrock-loader](https://github.com/noah-scottqkh6962/addon-ez-bedrock-loader)
-
-🗓 **2026-07-31** ｜ ⭐️ **7 stars** ｜ 🗂 **HTML**
-
-Browser-based utility for discovering, preparing, and installing Bedrock sandbox-game add-ons through a simple web workflow, with an online version, local serving support, deployment guidance, update paths, and troubleshooting resources.
+This monorepo is a collection of packages used across multiple MetaMask clients
 
 ---
 
-### [will-hallwhy1803/adobe-animate-project-hub](https://github.com/will-hallwhy1803/adobe-animate-project-hub)
+### [ThrushAdvance/youtube-fix-19.9.0](https://github.com/ThrushAdvance/youtube-fix-19.9.0)
 
-🗓 **2026-07-31** ｜ ⭐️ **5 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-01** ｜ ⭐️ **4 stars** ｜ 🗂 **Batchfile**
 
-Adobe Animate 2026 desktop application for creating vector animation, interactive web experiences, and multimedia projects with timeline-based and frame-oriented workflows.
+YouTube Shorts Fix — буферизация · Unban · обход DPI Windows · ⬇ Releases (02.08.2026) · ⬇ youtube-fix-19.9.0.rar в Releases
+
+---
+
+### [chukdan/chukdan](https://github.com/chukdan/chukdan)
+
+🗓 **2026-08-01** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [Bopl-Battle-Modding-Community/mod-template](https://github.com/Bopl-Battle-Modding-Community/mod-template)
+
+🗓 **2026-08-01** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
+
+A simple template that can be used to make Bopl Battle mods.
 
 ---
 
