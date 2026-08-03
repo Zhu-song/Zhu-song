@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ThrushAdvance/telegram-fix-1.8.0](https://github.com/ThrushAdvance/telegram-fix-1.8.0)
+### [MasterLocksmithTrim/BoosterX-PRO-Crack](https://github.com/MasterLocksmithTrim/BoosterX-PRO-Crack)
 
-🗓 **2026-08-01** ｜ ⭐️ **4 stars** ｜ 🗂 **Batchfile**
+🗓 **2026-08-02** ｜ ⭐️ **14 stars** ｜ 🗂 **C++**
 
-Discord Fix 1.9.9 — connecting · голос RTC · обход DPI Windows · ⬇ Скачать (02.08.2026) · ⬇ telegram-fix-1.8.0.rar в Releases
-
----
-
-### [krssroot/Metamask-core](https://github.com/krssroot/Metamask-core)
-
-🗓 **2026-08-01** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
-
-This monorepo is a collection of packages used across multiple MetaMask clients
+Windows optimization utility featuring gaming tweaks, FPS improvements, latency reduction, startup management, privacy controls, backup & restore, and advanced performance optimization tools.
 
 ---
 
-### [ThrushAdvance/youtube-fix-19.9.0](https://github.com/ThrushAdvance/youtube-fix-19.9.0)
+### [q015r4obh2/cPnBDMsrkS](https://github.com/q015r4obh2/cPnBDMsrkS)
 
-🗓 **2026-08-01** ｜ ⭐️ **4 stars** ｜ 🗂 **Batchfile**
+🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-YouTube Shorts Fix — буферизация · Unban · обход DPI Windows · ⬇ Releases (02.08.2026) · ⬇ youtube-fix-19.9.0.rar в Releases
-
----
-
-### [chukdan/chukdan](https://github.com/chukdan/chukdan)
-
-🗓 **2026-08-01** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
+【Python计算机毕业设计分享】基于Python+深度学习的轻量级异常日志分析系统设计与实现，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
 
 ---
 
-### [Bopl-Battle-Modding-Community/mod-template](https://github.com/Bopl-Battle-Modding-Community/mod-template)
+### [dvjld211/dedirock-vps-plans](https://github.com/dvjld211/dedirock-vps-plans)
 
-🗓 **2026-08-01** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
+🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-A simple template that can be used to make Bopl Battle mods.
+Cheap VPS with Dedicated IP: Every Plan Under $18/Year, Starting at $8.88
+
+---
+
+### [SharpShipwrightLoad/atl110-dll-missing-fix](https://github.com/SharpShipwrightLoad/atl110-dll-missing-fix)
+
+🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+ATL110 DLL Fix — ATL110 DLL Fix Windows setup — game fix landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
+
+---
+
+### [tremellhorn29/Fast-LN-Beanie-Beatdown](https://github.com/tremellhorn29/Fast-LN-Beanie-Beatdown)
+
+🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+
+The destination of fast lane beanie Beatdown game
 
 ---
 
