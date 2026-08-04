@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [MasterLocksmithTrim/BoosterX-PRO-Crack](https://github.com/MasterLocksmithTrim/BoosterX-PRO-Crack)
+### [livid/exe](https://github.com/livid/exe)
 
-🗓 **2026-08-02** ｜ ⭐️ **14 stars** ｜ 🗂 **C++**
+🗓 **2026-08-03** ｜ ⭐️ **7 stars** ｜ 🗂 **Go**
 
-Windows optimization utility featuring gaming tweaks, FPS improvements, latency reduction, startup management, privacy controls, backup & restore, and advanced performance optimization tools.
-
----
-
-### [q015r4obh2/cPnBDMsrkS](https://github.com/q015r4obh2/cPnBDMsrkS)
-
-🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-【Python计算机毕业设计分享】基于Python+深度学习的轻量级异常日志分析系统设计与实现，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+A personal VM cloud for macOS: Virtualization.framework VMs, Ollama vibecoding agent, Cloudflare Tunnel publishing — one Go binary
 
 ---
 
-### [dvjld211/dedirock-vps-plans](https://github.com/dvjld211/dedirock-vps-plans)
+### [SorcererLocate/Beast-Of-Reincarnation-Trainer](https://github.com/SorcererLocate/Beast-Of-Reincarnation-Trainer)
 
-🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-03** ｜ ⭐️ **5 stars** ｜ 🗂 **C++**
 
-Cheap VPS with Dedicated IP: Every Plan Under $18/Year, Starting at $8.88
-
----
-
-### [SharpShipwrightLoad/atl110-dll-missing-fix](https://github.com/SharpShipwrightLoad/atl110-dll-missing-fix)
-
-🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-ATL110 DLL Fix — ATL110 DLL Fix Windows setup — game fix landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
+Beast of Reincarnation trainer and mod menu for PC — god mode, infinite stamina, infinite FP, one-hit kill, noclip, free camera, SP and resource multipliers. 45+ cheats across 7 tabs, rebindable hotkeys. Steam and Xbox Game Pass supported. Single-player only.
 
 ---
 
-### [tremellhorn29/Fast-LN-Beanie-Beatdown](https://github.com/tremellhorn29/Fast-LN-Beanie-Beatdown)
+### [gokern/null](https://github.com/gokern/null)
 
-🗓 **2026-08-02** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-08-03** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
 
-The destination of fast lane beanie Beatdown game
+Codec-free nullable values for Go: two states, value semantics, no serialization by design
+
+---
+
+### [ronut01/erdos1002-lean](https://github.com/ronut01/erdos1002-lean)
+
+🗓 **2026-08-03** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Lean 4 formalization project for Erdős Problem 1002.
+
+---
+
+### [pichicon/pichi-first-true-repo](https://github.com/pichicon/pichi-first-true-repo)
+
+🗓 **2026-08-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+repot created while watching dalto guide on git
 
 ---
 
