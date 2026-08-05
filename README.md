@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [livid/exe](https://github.com/livid/exe)
+### [Bottomsuclimb/image-metadata-stripper](https://github.com/Bottomsuclimb/image-metadata-stripper)
 
-🗓 **2026-08-03** ｜ ⭐️ **7 stars** ｜ 🗂 **Go**
+🗓 **2026-08-04** ｜ ⭐️ **18 stars** ｜ 🗂 **HTML**
 
-A personal VM cloud for macOS: Virtualization.framework VMs, Ollama vibecoding agent, Cloudflare Tunnel publishing — one Go binary
-
----
-
-### [SorcererLocate/Beast-Of-Reincarnation-Trainer](https://github.com/SorcererLocate/Beast-Of-Reincarnation-Trainer)
-
-🗓 **2026-08-03** ｜ ⭐️ **5 stars** ｜ 🗂 **C++**
-
-Beast of Reincarnation trainer and mod menu for PC — god mode, infinite stamina, infinite FP, one-hit kill, noclip, free camera, SP and resource multipliers. 45+ cheats across 7 tabs, rebindable hotkeys. Steam and Xbox Game Pass supported. Single-player only.
+Strip EXIF, GPS, and other metadata from a photo by re-encoding it in your browser, then download the clean copy. Nothing is uploaded.
 
 ---
 
-### [gokern/null](https://github.com/gokern/null)
+### [Sparkfetch/sparkfetch](https://github.com/Sparkfetch/sparkfetch)
 
-🗓 **2026-08-03** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+🗓 **2026-08-04** ｜ ⭐️ **14 stars** ｜ 🗂 **TypeScript**
 
-Codec-free nullable values for Go: two states, value semantics, no serialization by design
-
----
-
-### [ronut01/erdos1002-lean](https://github.com/ronut01/erdos1002-lean)
-
-🗓 **2026-08-03** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Lean 4 formalization project for Erdős Problem 1002.
+🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.
 
 ---
 
-### [pichicon/pichi-first-true-repo](https://github.com/pichicon/pichi-first-true-repo)
+### [Bottomsuclimb/filename-privacy-checker](https://github.com/Bottomsuclimb/filename-privacy-checker)
 
-🗓 **2026-08-03** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-08-04** ｜ ⭐️ **14 stars** ｜ 🗂 **HTML**
 
-repot created while watching dalto guide on git
+Type or paste a file name to flag the parts that leak private information — dates, locations, names, and IDs — before you upload it.
+
+---
+
+### [Daemonclechisel/face-liveness-detection-explained](https://github.com/Daemonclechisel/face-liveness-detection-explained)
+
+🗓 **2026-08-04** ｜ ⭐️ **14 stars** ｜ 🗂 **未知**
+
+Developer-focused guide to face liveness detection, including active and passive checks, presentation attacks, injection attacks, and integration trade-offs
+
+---
+
+### [Blockficlaim62/exif-metadata-viewer](https://github.com/Blockficlaim62/exif-metadata-viewer)
+
+🗓 **2026-08-04** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
+
+Drop a photo to read the EXIF metadata hidden inside it — GPS location, camera, and timestamp — right in your browser. Nothing is uploaded.
 
 ---
 
