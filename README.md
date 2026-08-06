@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Bottomsuclimb/image-metadata-stripper](https://github.com/Bottomsuclimb/image-metadata-stripper)
+### [joshhhhhan/VISTA](https://github.com/joshhhhhan/VISTA)
 
-🗓 **2026-08-04** ｜ ⭐️ **18 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Strip EXIF, GPS, and other metadata from a photo by re-encoding it in your browser, then download the clean copy. Nothing is uploaded.
-
----
-
-### [Sparkfetch/sparkfetch](https://github.com/Sparkfetch/sparkfetch)
-
-🗓 **2026-08-04** ｜ ⭐️ **14 stars** ｜ 🗂 **TypeScript**
-
-🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.
+暂无描述
 
 ---
 
-### [Bottomsuclimb/filename-privacy-checker](https://github.com/Bottomsuclimb/filename-privacy-checker)
+### [StarWhiteIsBusy/nyx-scanner](https://github.com/StarWhiteIsBusy/nyx-scanner)
 
-🗓 **2026-08-04** ｜ ⭐️ **14 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
 
-Type or paste a file name to flag the parts that leak private information — dates, locations, names, and IDs — before you upload it.
-
----
-
-### [Daemonclechisel/face-liveness-detection-explained](https://github.com/Daemonclechisel/face-liveness-detection-explained)
-
-🗓 **2026-08-04** ｜ ⭐️ **14 stars** ｜ 🗂 **未知**
-
-Developer-focused guide to face liveness detection, including active and passive checks, presentation attacks, injection attacks, and integration trade-offs
+一个支持调用摄像头，本地选择图片或是截图识别的二维码扫描软件 |  A QR code scanning app that supports using the camera, selecting local images, or recognizing screenshots.
 
 ---
 
-### [Blockficlaim62/exif-metadata-viewer](https://github.com/Blockficlaim62/exif-metadata-viewer)
+### [Ki4nb/VSphereRansomwareRecovery](https://github.com/Ki4nb/VSphereRansomwareRecovery)
 
-🗓 **2026-08-04** ｜ ⭐️ **10 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Drop a photo to read the EXIF metadata hidden inside it — GPS location, camera, and timestamp — right in your browser. Nothing is uploaded.
+Recover VMware ESXi VMs after Babuk/.babyk ransomware. The encryptor only destroys the first 512 MiB per file, so 99%+ of each VMDK survives as plaintext. Analysis, IOCs, tools, runbook.
+
+---
+
+### [wayne-232/CMCE30005--YourGroupName-](https://github.com/wayne-232/CMCE30005--YourGroupName-)
+
+🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [fdmpszg/dmit-promo-vps](https://github.com/fdmpszg/dmit-promo-vps)
+
+🗓 **2026-08-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+DMIT 促銷：CN2 GIA 高速 VPS 低至 $36.9/年起，最高 30% 循環折扣 + 10% 賬戶金返還
 
 ---
 
