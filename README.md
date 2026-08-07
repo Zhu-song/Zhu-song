@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [joshhhhhan/VISTA](https://github.com/joshhhhhan/VISTA)
+### [wjx0808/pet-companionship-be](https://github.com/wjx0808/pet-companionship-be)
 
-🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-08-06** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [StarWhiteIsBusy/nyx-scanner](https://github.com/StarWhiteIsBusy/nyx-scanner)
-
-🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
-
-一个支持调用摄像头，本地选择图片或是截图识别的二维码扫描软件 |  A QR code scanning app that supports using the camera, selecting local images, or recognizing screenshots.
+pet-companionship
 
 ---
 
-### [Ki4nb/VSphereRansomwareRecovery](https://github.com/Ki4nb/VSphereRansomwareRecovery)
+### [FormidableCare/OpenMed](https://github.com/FormidableCare/OpenMed)
 
-🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-08-06** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-Recover VMware ESXi VMs after Babuk/.babyk ransomware. The encryptor only destroys the first 512 MiB per file, so 99%+ of each VMDK survives as plaintext. Analysis, IOCs, tools, runbook.
-
----
-
-### [wayne-232/CMCE30005--YourGroupName-](https://github.com/wayne-232/CMCE30005--YourGroupName-)
-
-🗓 **2026-08-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
+Formidable OpenMed AI is a medication terminology interoperability service, mapping medication between hospital systems, pharmacy catalogs, and standardized clinical terminologies such as SNOMED CT and ATC.
 
 ---
 
-### [fdmpszg/dmit-promo-vps](https://github.com/fdmpszg/dmit-promo-vps)
+### [msmorgan/deckmaste.rs](https://github.com/msmorgan/deckmaste.rs)
 
-🗓 **2026-08-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-06** ｜ ⭐️ **3 stars** ｜ 🗂 **Rust**
 
-DMIT 促銷：CN2 GIA 高速 VPS 低至 $36.9/年起，最高 30% 循環折扣 + 10% 賬戶金返還
+A Magic: The Gathering rules engine in Rust
+
+---
+
+### [pato-byepaper/build-your-first-production-app](https://github.com/pato-byepaper/build-your-first-production-app)
+
+🗓 **2026-08-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Learn how to build and deploy production-ready full-stack applications from scratch using Python, FastAPI, PostgreSQL, Docker, modern frontend frameworks, CI/CD, observability, and cloud-native best practices.
+
+---
+
+### [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules)
+
+🗓 **2026-08-06** ｜ ⭐️ **2 stars** ｜ 🗂 **PHP**
+
+A simple structure for modularizing a Laravel project.
 
 ---
 
