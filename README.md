@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [wjx0808/pet-companionship-be](https://github.com/wjx0808/pet-companionship-be)
+### [ZiYu-Huang/the-2nd-GISA_Elite_Award.](https://github.com/ZiYu-Huang/the-2nd-GISA_Elite_Award.)
 
-🗓 **2026-08-06** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-pet-companionship
-
----
-
-### [FormidableCare/OpenMed](https://github.com/FormidableCare/OpenMed)
-
-🗓 **2026-08-06** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-Formidable OpenMed AI is a medication terminology interoperability service, mapping medication between hospital systems, pharmacy catalogs, and standardized clinical terminologies such as SNOMED CT and ATC.
+第二屆菁英選拔會計分網站
 
 ---
 
-### [msmorgan/deckmaste.rs](https://github.com/msmorgan/deckmaste.rs)
+### [EmilioM092611/machine-learning-for-customer-churn-prediction](https://github.com/EmilioM092611/machine-learning-for-customer-churn-prediction)
 
-🗓 **2026-08-06** ｜ ⭐️ **3 stars** ｜ 🗂 **Rust**
+🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **Jupyter Notebook**
 
-A Magic: The Gathering rules engine in Rust
-
----
-
-### [pato-byepaper/build-your-first-production-app](https://github.com/pato-byepaper/build-your-first-production-app)
-
-🗓 **2026-08-06** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Learn how to build and deploy production-ready full-stack applications from scratch using Python, FastAPI, PostgreSQL, Docker, modern frontend frameworks, CI/CD, observability, and cloud-native best practices.
+End-to-end machine learning project for predicting customer churn using Python and Scikit-Learn.
 
 ---
 
-### [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules)
+### [Kensi247-Dev-vibecode/Licnesskey.py](https://github.com/Kensi247-Dev-vibecode/Licnesskey.py)
 
-🗓 **2026-08-06** ｜ ⭐️ **2 stars** ｜ 🗂 **PHP**
+🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-A simple structure for modularizing a Laravel project.
+Tool247 - Kensi Licnesskey
+
+---
+
+### [ozi-prog/Larryjump](https://github.com/ozi-prog/Larryjump)
+
+🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+暂无描述
+
+---
+
+### [kmfaruque615629/hey-30-test](https://github.com/kmfaruque615629/hey-30-test)
+
+🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
 
 ---
 
