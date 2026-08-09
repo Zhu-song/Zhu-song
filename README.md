@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ZiYu-Huang/the-2nd-GISA_Elite_Award.](https://github.com/ZiYu-Huang/the-2nd-GISA_Elite_Award.)
+### [pengliangtian06-commits/voice-studio-macos](https://github.com/pengliangtian06-commits/voice-studio-macos)
 
-🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **Swift**
 
-第二屆菁英選拔會計分網站
-
----
-
-### [EmilioM092611/machine-learning-for-customer-churn-prediction](https://github.com/EmilioM092611/machine-learning-for-customer-churn-prediction)
-
-🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **Jupyter Notebook**
-
-End-to-end machine learning project for predicting customer churn using Python and Scikit-Learn.
+Native macOS Voice Studio for Xiaomi MiMo V2.5 and OpenAI-compatible TTS
 
 ---
 
-### [Kensi247-Dev-vibecode/Licnesskey.py](https://github.com/Kensi247-Dev-vibecode/Licnesskey.py)
+### [meddadaek/agentic_rag](https://github.com/meddadaek/agentic_rag)
 
-🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Tool247 - Kensi Licnesskey
-
----
-
-### [ozi-prog/Larryjump](https://github.com/ozi-prog/Larryjump)
-
-🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [kmfaruque615629/hey-30-test](https://github.com/kmfaruque615629/hey-30-test)
+### [niornda/CV-Yasmine-](https://github.com/niornda/CV-Yasmine-)
 
-🗓 **2026-08-07** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
+
+---
+
+### [lucasferne/freeIGDB](https://github.com/lucasferne/freeIGDB)
+
+🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+O IGDB de jogos grátis
+
+---
+
+### [vikrampasala/randomizer-bar-chart](https://github.com/vikrampasala/randomizer-bar-chart)
+
+🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+A dynamic bar chart visualizer built with HTML, CSS, and JavaScript that generates and animates randomized data for college coursework.
 
 ---
 
