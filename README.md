@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [pengliangtian06-commits/voice-studio-macos](https://github.com/pengliangtian06-commits/voice-studio-macos)
+### [johnclark-lab2093p9/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox--GUI](https://github.com/johnclark-lab2093p9/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox--GUI)
 
-🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **Swift**
-
-Native macOS Voice Studio for Xiaomi MiMo V2.5 and OpenAI-compatible TTS
-
----
-
-### [meddadaek/agentic_rag](https://github.com/meddadaek/agentic_rag)
-
-🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-08-09** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [niornda/CV-Yasmine-](https://github.com/niornda/CV-Yasmine-)
+### [crabs3/zkmtransformers](https://github.com/crabs3/zkmtransformers)
 
-🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+
+see title
+
+---
+
+### [intuljim-cloud/Rjk97](https://github.com/intuljim-cloud/Rjk97)
+
+🗓 **2026-08-09** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [lucasferne/freeIGDB](https://github.com/lucasferne/freeIGDB)
+### [Clyra-AI/vetryn](https://github.com/Clyra-AI/vetryn)
 
-🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-08-09** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
 
-O IGDB de jogos grátis
+Dependabot for AI model dependencies: evidence-backed model upgrade PRs.
 
 ---
 
-### [vikrampasala/randomizer-bar-chart](https://github.com/vikrampasala/randomizer-bar-chart)
+### [ios-saas-dev/lifeinsidebaby-superapp](https://github.com/ios-saas-dev/lifeinsidebaby-superapp)
 
-🗓 **2026-08-08** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-A dynamic bar chart visualizer built with HTML, CSS, and JavaScript that generates and animates randomized data for college coursework.
+AI-powered pregnancy and baby-care super app. Built with SwiftUI, ARKit, and OpenAI to provide maternal guidance, 3D fetus visualization, and postpartum health tracking.
 
 ---
 
