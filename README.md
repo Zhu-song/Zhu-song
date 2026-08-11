@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [johnclark-lab2093p9/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox--GUI](https://github.com/johnclark-lab2093p9/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox--GUI)
+### [Mortalaphelix/Pax-Autocratica-Trainer](https://github.com/Mortalaphelix/Pax-Autocratica-Trainer)
 
-🗓 **2026-08-09** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-08-10** ｜ ⭐️ **7 stars** ｜ 🗂 **C++**
+
+Pax Autocratica trainer and mod menu for PC — god mode, infinite resources, instant build and research, infinite ammo, one-hit kill, max citizen loyalty, unlimited Cores. 50+ cheats across 8 tabs, rebindable hotkeys, read-only mode for Early Access patches. Steam and Epic.
+
+---
+
+### [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
+
+🗓 **2026-08-10** ｜ ⭐️ **6 stars** ｜ 🗂 **C**
+
+Sandbox escape PoC for iOS 26 and 27
+
+---
+
+### [onchainjomo/linkprobe](https://github.com/onchainjomo/linkprobe)
+
+🗓 **2026-08-10** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [crabs3/zkmtransformers](https://github.com/crabs3/zkmtransformers)
+### [HotCode2025/BugsBasters-CuartoTrimestre](https://github.com/HotCode2025/BugsBasters-CuartoTrimestre)
 
-🗓 **2026-08-09** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-08-10** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-see title
+Cuarto trimestre 
 
 ---
 
-### [intuljim-cloud/Rjk97](https://github.com/intuljim-cloud/Rjk97)
+### [AliKaramii786/X4G](https://github.com/AliKaramii786/X4G)
 
-🗓 **2026-08-09** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
-
----
-
-### [Clyra-AI/vetryn](https://github.com/Clyra-AI/vetryn)
-
-🗓 **2026-08-09** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
-
-Dependabot for AI model dependencies: evidence-backed model upgrade PRs.
-
----
-
-### [ios-saas-dev/lifeinsidebaby-superapp](https://github.com/ios-saas-dev/lifeinsidebaby-superapp)
-
-🗓 **2026-08-09** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-AI-powered pregnancy and baby-care super app. Built with SwiftUI, ARKit, and OpenAI to provide maternal guidance, 3D fetus visualization, and postpartum health tracking.
 
 ---
 
