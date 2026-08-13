@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [rdgprof/aula_poo](https://github.com/rdgprof/aula_poo)
+### [RamsesCamas/Mi-Primer-RAG](https://github.com/RamsesCamas/Mi-Primer-RAG)
 
-🗓 **2026-08-11** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Teste de alunos para uso do github
-
----
-
-### [mulgadc/bluebottle](https://github.com/mulgadc/bluebottle)
-
-🗓 **2026-08-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
-
-Shared Utils
-
----
-
-### [oumaima-bh-dev/ecole-gestion](https://github.com/oumaima-bh-dev/ecole-gestion)
-
-🗓 **2026-08-11** ｜ ⭐️ **2 stars** ｜ 🗂 **PHP**
+🗓 **2026-08-12** ｜ ⭐️ **19 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [thisismuhammadessa/Wanderlust-DevSecOps-GitOps-project](https://github.com/thisismuhammadessa/Wanderlust-DevSecOps-GitOps-project)
+### [leon-wright1900v2/adoptme-script-free-2026](https://github.com/leon-wright1900v2/adoptme-script-free-2026)
 
-🗓 **2026-08-11** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-08-12** ｜ ⭐️ **12 stars** ｜ 🗂 **未知**
 
-End-to-end DevSecOps and GitOps project for the Wanderlust application, featuring Jenkins CI/CD, Docker, Kubernetes, Terraform, Trivy, OWASP Dependency-Check, and SonarQube.
+暂无描述
 
 ---
 
-### [mbotezatu/chatgpt-appimage](https://github.com/mbotezatu/chatgpt-appimage)
+### [marcus-millerx95r1/adopt-me-script-free-2026](https://github.com/marcus-millerx95r1/adopt-me-script-free-2026)
 
-🗓 **2026-08-11** ｜ ⭐️ **1 stars** ｜ 🗂 **Shell**
+🗓 **2026-08-12** ｜ ⭐️ **12 stars** ｜ 🗂 **未知**
 
-Unofficial AppImage of the oficial ChatGPT desktop app with Codex.
+暂无描述
+
+---
+
+### [HotCode2025/Print-Estoy-Cansado-Jefe-CuartoSemestre](https://github.com/HotCode2025/Print-Estoy-Cansado-Jefe-CuartoSemestre)
+
+🗓 **2026-08-12** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [devlesss/WorkCanvas_Studio](https://github.com/devlesss/WorkCanvas_Studio)
+
+🗓 **2026-08-12** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+Framework-neutral workflow samples for browser automation and AI agents.
 
 ---
 
