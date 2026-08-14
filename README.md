@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [RamsesCamas/Mi-Primer-RAG](https://github.com/RamsesCamas/Mi-Primer-RAG)
+### [voanhhao3830/SemLT3D](https://github.com/voanhhao3830/SemLT3D)
 
-🗓 **2026-08-12** ｜ ⭐️ **19 stars** ｜ 🗂 **Python**
-
-暂无描述
-
----
-
-### [leon-wright1900v2/adoptme-script-free-2026](https://github.com/leon-wright1900v2/adoptme-script-free-2026)
-
-🗓 **2026-08-12** ｜ ⭐️ **12 stars** ｜ 🗂 **未知**
+🗓 **2026-08-13** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [marcus-millerx95r1/adopt-me-script-free-2026](https://github.com/marcus-millerx95r1/adopt-me-script-free-2026)
+### [Larissaglima12/Projetos-Acad-micos](https://github.com/Larissaglima12/Projetos-Acad-micos)
 
-🗓 **2026-08-12** ｜ ⭐️ **12 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [HotCode2025/Print-Estoy-Cansado-Jefe-CuartoSemestre](https://github.com/HotCode2025/Print-Estoy-Cansado-Jefe-CuartoSemestre)
-
-🗓 **2026-08-12** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [devlesss/WorkCanvas_Studio](https://github.com/devlesss/WorkCanvas_Studio)
+### [mtha8224-svg/taha-movie](https://github.com/mtha8224-svg/taha-movie)
 
-🗓 **2026-08-12** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
 
-Framework-neutral workflow samples for browser automation and AI agents.
+暂无描述
+
+---
+
+### [kimhuxnsr-oss/-hyunsseo-letter1](https://github.com/kimhuxnsr-oss/-hyunsseo-letter1)
+
+🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+暂无描述
+
+---
+
+### [lucasmiguelsilva11-afk/lucas-](https://github.com/lucasmiguelsilva11-afk/lucas-)
+
+🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
 
 ---
 
