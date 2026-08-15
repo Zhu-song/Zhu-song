@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [voanhhao3830/SemLT3D](https://github.com/voanhhao3830/SemLT3D)
+### [beyroot/AD-HD-](https://github.com/beyroot/AD-HD-)
 
-🗓 **2026-08-13** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-暂无描述
-
----
-
-### [Larissaglima12/Projetos-Acad-micos](https://github.com/Larissaglima12/Projetos-Acad-micos)
-
-🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [mtha8224-svg/taha-movie](https://github.com/mtha8224-svg/taha-movie)
+### [diky87688973/fan-llm-corpus-scoring](https://github.com/diky87688973/fan-llm-corpus-scoring)
 
-🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
-
-暂无描述
-
----
-
-### [kimhuxnsr-oss/-hyunsseo-letter1](https://github.com/kimhuxnsr-oss/-hyunsseo-letter1)
-
-🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-08-14** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [lucasmiguelsilva11-afk/lucas-](https://github.com/lucasmiguelsilva11-afk/lucas-)
+### [kol0760/Agefield-High-Rebel-Commander](https://github.com/kol0760/Agefield-High-Rebel-Commander)
 
-🗓 **2026-08-13** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-14** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+🎸 Rebel Commander for Agefield High: Rock the School — Unlimited Health & Stamina, Never Suspected, Freeze Clock, Perfect Lesson Score, Super Speed, Low Gravity, and more. Free, single-player safe.
+
+---
+
+### [MiradoAndreas/electron](https://github.com/MiradoAndreas/electron)
+
+🗓 **2026-08-14** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
+
+---
+
+### [diky87688973/fan-llm-corpus-toolkit](https://github.com/diky87688973/fan-llm-corpus-toolkit)
+
+🗓 **2026-08-14** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
