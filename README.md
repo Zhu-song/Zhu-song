@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [leopod170-design/Neon-hunt](https://github.com/leopod170-design/Neon-hunt)
+### [Javier-ci/MisEjercicios](https://github.com/Javier-ci/MisEjercicios)
 
-🗓 **2026-08-15** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [Ramesh-com/qa-dce8c1ef](https://github.com/Ramesh-com/qa-dce8c1ef)
-
-🗓 **2026-08-15** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-created by the automated round-trip suite
-
----
-
-### [Ramesh-com/qa-100ab999](https://github.com/Ramesh-com/qa-100ab999)
-
-🗓 **2026-08-15** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-created by the automated round-trip suite
-
----
-
-### [thaivanthi2005/ITJobs](https://github.com/thaivanthi2005/ITJobs)
-
-🗓 **2026-08-15** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-08-16** ｜ ⭐️ **1 stars** ｜ 🗂 **Kotlin**
 
 暂无描述
 
 ---
 
-### [totalnightmare/TCGC-Evaluation-System](https://github.com/totalnightmare/TCGC-Evaluation-System)
+### [TheGrandEndeavor/Image-AI](https://github.com/TheGrandEndeavor/Image-AI)
 
-🗓 **2026-08-15** ｜ ⭐️ **1 stars** ｜ 🗂 **PHP**
+🗓 **2026-08-16** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-A simple web-based evaluation system built with HTML, PHP, and MySQL for academic institutions. This system supports semester-based grading with midterm and final examinations.
+Understand how images correlate with numerical data, and manipulate them to progress into image recognition.
+
+---
+
+### [4GeeksAcademy/monkeyjp-CinemaSeatManager-AI](https://github.com/4GeeksAcademy/monkeyjp-CinemaSeatManager-AI)
+
+🗓 **2026-08-16** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
+
+---
+
+### [DrewFriedrich-44/SCAA-Pony-Athletics-2026](https://github.com/DrewFriedrich-44/SCAA-Pony-Athletics-2026)
+
+🗓 **2026-08-16** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+
+Youth Baseball Team in Southern Chesapeake, VA
+
+---
+
+### [Alejandro1412/ionexflow](https://github.com/Alejandro1412/ionexflow)
+
+🗓 **2026-08-16** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+IonexFlow — Visual AI agent workflow orchestration platform (B2B SaaS)
 
 ---
 
