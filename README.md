@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [RobHovhannesyan/RobHovhannesyan](https://github.com/RobHovhannesyan/RobHovhannesyan)
+### [1TDSPY-26/front-2sem-aula-05](https://github.com/1TDSPY-26/front-2sem-aula-05)
 
-🗓 **2026-08-17** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-08-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Github profile README
-
----
-
-### [AlbertoEJ/llm-swarm-loadtest](https://github.com/AlbertoEJ/llm-swarm-loadtest)
-
-🗓 **2026-08-17** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-Mide la capacidad real de un endpoint OpenAI-compatible poniendo N agentes reales a trabajar en paralelo, con proxy de medicion (TTFT, tok/s, 429, cache) y dashboard en vivo
+暂无描述
 
 ---
 
-### [Kifranei/VNDBforAndroid](https://github.com/Kifranei/VNDBforAndroid)
+### [Desenvolvedor-Back-End-Node-T2/M2S04](https://github.com/Desenvolvedor-Back-End-Node-T2/M2S04)
 
-🗓 **2026-08-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Kotlin**
+🗓 **2026-08-18** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
-Unofficial VNDB Android client with Miuix UI
-
----
-
-### [vvfq637/company-directories-platforms](https://github.com/vvfq637/company-directories-platforms)
-
-🗓 **2026-08-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Company Directories Explained: A Practical Guide to Building, Monetizing, and Choosing the Right Software — Setup, Member Management, Pricing Models, and Platform Comparison
+Repositório destinado as aulas da semana 04
 
 ---
 
-### [faape2/directory-templates-comparison](https://github.com/faape2/directory-templates-comparison)
+### [allanatayssa1-creator/barbie-lana-app](https://github.com/allanatayssa1-creator/barbie-lana-app)
 
-🗓 **2026-08-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Directory Templates Explained: How to Pick, Customize, and Launch a Profitable Directory Site — Themes, Features, SEO, and Monetization Compared (With a Full Plan Breakdown)
+暂无描述
+
+---
+
+### [badamasinasiru83-prog/B_Social_AI-Acadamey](https://github.com/badamasinasiru83-prog/B_Social_AI-Acadamey)
+
+🗓 **2026-08-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [emilyons/heroines-of-might-and-magic](https://github.com/emilyons/heroines-of-might-and-magic)
+
+🗓 **2026-08-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Heroines of Might and Magic: A friendly, cozy version of HoMM3
 
 ---
 
