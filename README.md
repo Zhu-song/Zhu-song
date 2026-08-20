@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [1TDSPY-26/front-2sem-aula-05](https://github.com/1TDSPY-26/front-2sem-aula-05)
+### [jdhwz55/cstonecloud-plans-comparison](https://github.com/jdhwz55/cstonecloud-plans-comparison)
 
-🗓 **2026-08-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-08-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+国外云服务器怎么选不踩坑？香港CN2、美国9929住宅IP、英国双ISP到底哪个值——CstoneCloud 全套餐配置、价格、优惠码与适用场景一篇说清（附新手避坑清单）
+
+---
+
+### [Vishalkadam2003/Algorithms-using-Python](https://github.com/Vishalkadam2003/Algorithms-using-Python)
+
+🗓 **2026-08-19** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [Desenvolvedor-Back-End-Node-T2/M2S04](https://github.com/Desenvolvedor-Back-End-Node-T2/M2S04)
+### [salvo1985/Salvo-Autoservice-](https://github.com/salvo1985/Salvo-Autoservice-)
 
-🗓 **2026-08-18** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-08-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Repositório destinado as aulas da semana 04
-
----
-
-### [allanatayssa1-creator/barbie-lana-app](https://github.com/allanatayssa1-creator/barbie-lana-app)
-
-🗓 **2026-08-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-暂无描述
+Autowerkstatt 
 
 ---
 
-### [badamasinasiru83-prog/B_Social_AI-Acadamey](https://github.com/badamasinasiru83-prog/B_Social_AI-Acadamey)
+### [SrDelirios/whisperdesk-studio-pro](https://github.com/SrDelirios/whisperdesk-studio-pro)
 
-🗓 **2026-08-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-19** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-暂无描述
+🎙️ WhisperDesk Studio Pro — Transcripción por voz acelerada en GPU (CUDA) y Actas Oficiales con IA Local (Ollama)
 
 ---
 
-### [emilyons/heroines-of-might-and-magic](https://github.com/emilyons/heroines-of-might-and-magic)
+### [jrsim3/japan-dedicated-servers](https://github.com/jrsim3/japan-dedicated-servers)
 
-🗓 **2026-08-18** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-19** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Heroines of Might and Magic: A friendly, cozy version of HoMM3
+2026日本独立服务器推荐：东京机房怎么选不踩坑？CN2、软银、CIA三种线路谁更值？跨境电商/站群SEO/TikTok运营该选哪款套餐？（附CstoneCloud全配置对比表与最新优惠码）
 
 ---
 
