@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [woojiwon183-dotcom/robot](https://github.com/woojiwon183-dotcom/robot)
+### [karalarotoservis/karalar-nakit-akis](https://github.com/karalarotoservis/karalar-nakit-akis)
 
-🗓 **2026-08-20** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [asralkt-hub/percentage-calculator](https://github.com/asralkt-hub/percentage-calculator)
-
-🗓 **2026-08-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-أداة حساب النسبة المئوية - مجانية وسريعة
-
----
-
-### [ahmadarfabilhadi-tech/UNTUK-SHINDY](https://github.com/ahmadarfabilhadi-tech/UNTUK-SHINDY)
-
-🗓 **2026-08-20** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-21** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [Sh4dowzinha/dendritic-config-nix](https://github.com/Sh4dowzinha/dendritic-config-nix)
+### [MythrilS/agent-ready-checkout](https://github.com/MythrilS/agent-ready-checkout)
 
-🗓 **2026-08-20** ｜ ⭐️ **1 stars** ｜ 🗂 **Nix**
+🗓 **2026-08-21** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+
+Do UCP-verified agent-ready Shopify stores actually work for automated buyers? Measured, not assumed.
+
+---
+
+### [valmir-neo/Projeto-Mario-Broz-Services](https://github.com/valmir-neo/Projeto-Mario-Broz-Services)
+
+🗓 **2026-08-21** ｜ ⭐️ **1 stars** ｜ 🗂 **CSS**
+
+Site desenvolvido como parte do projeto de aprendizado em 
+
+---
+
+### [estebanda2011-debug/papa](https://github.com/estebanda2011-debug/papa)
+
+🗓 **2026-08-21** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [89hs7crmbg-wq/Portfolio-](https://github.com/89hs7crmbg-wq/Portfolio-)
+### [misaf/laravel-email-validation-brevo](https://github.com/misaf/laravel-email-validation-brevo)
 
-🗓 **2026-08-20** ｜ ⭐️ **1 stars** ｜ 🗂 **HTML**
+🗓 **2026-08-21** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Мой сайт портфолио
+暂无描述
 
 ---
 
