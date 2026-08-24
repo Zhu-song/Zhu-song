@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [phoenix12367889899/3x-ui](https://github.com/phoenix12367889899/3x-ui)
+### [KasSahin/Diabetes-Model](https://github.com/KasSahin/Diabetes-Model)
 
-🗓 **2026-08-22** ｜ ⭐️ **1 stars** ｜ 🗂 **Dockerfile**
-
-暂无描述
-
----
-
-### [love-leeseberg191/daily-tracker-0191](https://github.com/love-leeseberg191/daily-tracker-0191)
-
-🗓 **2026-08-22** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-A lightweight space for useful notes and daily experiments.
-
----
-
-### [ab2zl/nobody](https://github.com/ab2zl/nobody)
-
-🗓 **2026-08-22** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [ab2zl/nobdy](https://github.com/ab2zl/nobdy)
+### [AnamolAdhikari/Ninety](https://github.com/AnamolAdhikari/Ninety)
 
-🗓 **2026-08-22** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [Salmanayoob5/mercadao-recruitment-system](https://github.com/Salmanayoob5/mercadao-recruitment-system)
+### [SirMrGary/AutoClickflow](https://github.com/SirMrGary/AutoClickflow)
 
-🗓 **2026-08-22** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **PowerShell**
 
-暂无描述
+Use this to record click flow and\or keyboard input  when needing to use data from a spreadsheet somewhere else. (example  needing to update addresses for all staff in AD or Entra  OR adding EmplyoeeIDs into CRM for each staff
+
+---
+
+### [psa-systems/.github](https://github.com/psa-systems/.github)
+
+🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Always free and open source under MIT license; no dual/EE licensing. Membership includes community access, compiled binaries and Docker images.
+
+---
+
+### [RyckxDev/JAVA-ConsumoAPI-CEP_CRUD](https://github.com/RyckxDev/JAVA-ConsumoAPI-CEP_CRUD)
+
+🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
+
+Aplicação Java de console que consome a API ViaCEP para buscar endereços por CEP, com histórico de consultas em memória.
 
 ---
 
