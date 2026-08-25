@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [KasSahin/Diabetes-Model](https://github.com/KasSahin/Diabetes-Model)
+### [RobertFlexx/romad](https://github.com/RobertFlexx/romad)
 
-🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-08-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+
+romad is the Rust implementation of the nomad-lisp standard.
+
+---
+
+### [zackiles/nr-sib1](https://github.com/zackiles/nr-sib1)
+
+🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **Rust**
+
+Decode 5G NR SIB1 from IQ samples in Rust: PSS/SSS, PBCH polar, Type0-PDCCH, PDSCH LDPC and ASN.1 to a CRC-valid broadcast identity. Licensed terrestrial FR1; not a UE PHY, not LTE, not shared-spectrum.
+
+---
+
+### [lucas266i/acca-generator2](https://github.com/lucas266i/acca-generator2)
+
+🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Generador Intelligente de Accas
+
+---
+
+### [Aharongrimes/The-Ace-List](https://github.com/Aharongrimes/The-Ace-List)
+
+🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [AnamolAdhikari/Ninety](https://github.com/AnamolAdhikari/Ninety)
+### [AdolfoFigueiredo/Specter](https://github.com/AdolfoFigueiredo/Specter)
 
-🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [SirMrGary/AutoClickflow](https://github.com/SirMrGary/AutoClickflow)
-
-🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **PowerShell**
-
-Use this to record click flow and\or keyboard input  when needing to use data from a spreadsheet somewhere else. (example  needing to update addresses for all staff in AD or Entra  OR adding EmplyoeeIDs into CRM for each staff
-
----
-
-### [psa-systems/.github](https://github.com/psa-systems/.github)
-
-🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Always free and open source under MIT license; no dual/EE licensing. Membership includes community access, compiled binaries and Docker images.
-
----
-
-### [RyckxDev/JAVA-ConsumoAPI-CEP_CRUD](https://github.com/RyckxDev/JAVA-ConsumoAPI-CEP_CRUD)
-
-🗓 **2026-08-23** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
-
-Aplicação Java de console que consome a API ViaCEP para buscar endereços por CEP, com histórico de consultas em memória.
+Executable contracts. Ghost backends. Define system behavior once, run a living mock, develop in parallel, and validate the real implementation.
 
 ---
 
