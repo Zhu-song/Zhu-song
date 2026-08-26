@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [RobertFlexx/romad](https://github.com/RobertFlexx/romad)
+### [byRyo/Brawl-Movement](https://github.com/byRyo/Brawl-Movement)
 
-🗓 **2026-08-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+🗓 **2026-08-25** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
 
-romad is the Rust implementation of the nomad-lisp standard.
-
----
-
-### [zackiles/nr-sib1](https://github.com/zackiles/nr-sib1)
-
-🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **Rust**
-
-Decode 5G NR SIB1 from IQ samples in Rust: PSS/SSS, PBCH polar, Type0-PDCCH, PDSCH LDPC and ASN.1 to a CRC-valid broadcast identity. Licensed terrestrial FR1; not a UE PHY, not LTE, not shared-spectrum.
+Undetected movement for v68.279.
 
 ---
 
-### [lucas266i/acca-generator2](https://github.com/lucas266i/acca-generator2)
+### [UrsuleJeanmaire/OI-Contest-Submitter](https://github.com/UrsuleJeanmaire/OI-Contest-Submitter)
 
-🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
-
-Generador Intelligente de Accas
-
----
-
-### [Aharongrimes/The-Ace-List](https://github.com/Aharongrimes/The-Ace-List)
-
-🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
+🗓 **2026-08-25** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
 
 暂无描述
 
 ---
 
-### [AdolfoFigueiredo/Specter](https://github.com/AdolfoFigueiredo/Specter)
+### [fengcanliuxu/deepseek-harmens-electron](https://github.com/fengcanliuxu/deepseek-harmens-electron)
 
-🗓 **2026-08-24** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-25** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
 
-Executable contracts. Ghost backends. Define system behavior once, run a living mock, develop in parallel, and validate the real implementation.
+deepseek-harmens 的electron封装
+
+---
+
+### [naruse1804-commits/naruse1804-commits-food-delivery-app](https://github.com/naruse1804-commits/naruse1804-commits-food-delivery-app)
+
+🗓 **2026-08-25** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [umaryahayatama85-sys/470524_CSC221_RegistrationForm](https://github.com/umaryahayatama85-sys/470524_CSC221_RegistrationForm)
+
+🗓 **2026-08-25** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+CSC221 Practical Assignment 1 – Student Registration Form
 
 ---
 
