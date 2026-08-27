@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [byRyo/Brawl-Movement](https://github.com/byRyo/Brawl-Movement)
+### [rfvtgbyhnu1999/Crypto-Wallet-Finder](https://github.com/rfvtgbyhnu1999/Crypto-Wallet-Finder)
 
-🗓 **2026-08-25** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
-
-Undetected movement for v68.279.
-
----
-
-### [UrsuleJeanmaire/OI-Contest-Submitter](https://github.com/UrsuleJeanmaire/OI-Contest-Submitter)
-
-🗓 **2026-08-25** ｜ ⭐️ **2 stars** ｜ 🗂 **C#**
+🗓 **2026-08-26** ｜ ⭐️ **79 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [fengcanliuxu/deepseek-harmens-electron](https://github.com/fengcanliuxu/deepseek-harmens-electron)
+### [rfvtgbyhnu1999/How-To-Fish-HxxCKMENU](https://github.com/rfvtgbyhnu1999/How-To-Fish-HxxCKMENU)
 
-🗓 **2026-08-25** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
-
-deepseek-harmens 的electron封装
-
----
-
-### [naruse1804-commits/naruse1804-commits-food-delivery-app](https://github.com/naruse1804-commits/naruse1804-commits-food-delivery-app)
-
-🗓 **2026-08-25** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-26** ｜ ⭐️ **62 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [umaryahayatama85-sys/470524_CSC221_RegistrationForm](https://github.com/umaryahayatama85-sys/470524_CSC221_RegistrationForm)
+### [rfvtgbyhnu1999/Roblox-MultiCH3A7](https://github.com/rfvtgbyhnu1999/Roblox-MultiCH3A7)
 
-🗓 **2026-08-25** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-08-26** ｜ ⭐️ **23 stars** ｜ 🗂 **未知**
 
-CSC221 Practical Assignment 1 – Student Registration Form
+ROBLOX Script - Universal
+
+---
+
+### [MacroEchoStrike26/adobe-photoshop-2026-unlocked](https://github.com/MacroEchoStrike26/adobe-photoshop-2026-unlocked)
+
+🗓 **2026-08-26** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
+
+Adobe Photoshop All-In Unlocked Premium features, Neural Filters, and plugins activated by default
+
+---
+
+### [DeckhandPersonify/adobe-photoshop-2026-unlock](https://github.com/DeckhandPersonify/adobe-photoshop-2026-unlock)
+
+🗓 **2026-08-26** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+
+Photoshop All-In Unlocked Premium features, Neural Filters, and plugins activated by default
 
 ---
 
