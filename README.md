@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [rfvtgbyhnu1999/Crypto-Wallet-Finder](https://github.com/rfvtgbyhnu1999/Crypto-Wallet-Finder)
+### [d4ncboz/jailbreak](https://github.com/d4ncboz/jailbreak)
 
-🗓 **2026-08-26** ｜ ⭐️ **79 stars** ｜ 🗂 **未知**
+🗓 **2026-08-27** ｜ ⭐️ **35 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [rfvtgbyhnu1999/How-To-Fish-HxxCKMENU](https://github.com/rfvtgbyhnu1999/How-To-Fish-HxxCKMENU)
-
-🗓 **2026-08-26** ｜ ⭐️ **62 stars** ｜ 🗂 **未知**
-
-暂无描述
+BOZAGENTIC — Sovereign Alignment Research, Jailbreak Taxonomies, CoT Pre-Emption, and Universal Prompt Inversion Framework by D4NNBOZ.
 
 ---
 
-### [rfvtgbyhnu1999/Roblox-MultiCH3A7](https://github.com/rfvtgbyhnu1999/Roblox-MultiCH3A7)
+### [fridge1/llmgateway](https://github.com/fridge1/llmgateway)
 
-🗓 **2026-08-26** ｜ ⭐️ **23 stars** ｜ 🗂 **未知**
+🗓 **2026-08-27** ｜ ⭐️ **13 stars** ｜ 🗂 **TypeScript**
 
-ROBLOX Script - Universal
-
----
-
-### [MacroEchoStrike26/adobe-photoshop-2026-unlocked](https://github.com/MacroEchoStrike26/adobe-photoshop-2026-unlocked)
-
-🗓 **2026-08-26** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
-
-Adobe Photoshop All-In Unlocked Premium features, Neural Filters, and plugins activated by default
+Unified LLM API gateway & commercial platform. Supports OpenAI / Anthropic / Gemini protocols, works with Claude Code, Codex CLI, Cursor, Windsurf. Built-in billing, subscriptions, tenants & admin console. Go + React + PostgreSQL
 
 ---
 
-### [DeckhandPersonify/adobe-photoshop-2026-unlock](https://github.com/DeckhandPersonify/adobe-photoshop-2026-unlock)
+### [mhtsec/nacos-authscope-poc](https://github.com/mhtsec/nacos-authscope-poc)
 
-🗓 **2026-08-26** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+🗓 **2026-08-27** ｜ ⭐️ **11 stars** ｜ 🗂 **Python**
 
-Photoshop All-In Unlocked Premium features, Neural Filters, and plugins activated by default
+Nacos 3.x (3.0.0~3.2.3) auth scope misassignment: unauthenticated admin account creation & full takeover PoC, fixed in 3.2.4
+
+---
+
+### [bayshier/sunxue](https://github.com/bayshier/sunxue)
+
+🗓 **2026-08-27** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
+
+孙学写作法 Skill：源自孙宇晨《我的女友景甜》的极简白描叙事风格（天平开篇/数字锚定/旁观者证词/虚空收束）
+
+---
+
+### [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel)
+
+🗓 **2026-08-27** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
+
+Your private evolving social media assistant, making creation easier.
 
 ---
 
