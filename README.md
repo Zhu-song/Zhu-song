@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [hmoodie-gif/Bsides-ICS-2026](https://github.com/hmoodie-gif/Bsides-ICS-2026)
+### [alphaparkinc/genpark-prompt-guided-video-color-grading-lut-engine-skill](https://github.com/alphaparkinc/genpark-prompt-guided-video-color-grading-lut-engine-skill)
 
-🗓 **2026-08-28** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+🗓 **2026-08-29** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+
+Prompt-guided video color grading & 3D LUT matrix generator (Colorlab.ai style)
+
+---
+
+### [alphaparkinc/genpark-dynamic-browser-session-recording-summarizer-skill](https://github.com/alphaparkinc/genpark-dynamic-browser-session-recording-summarizer-skill)
+
+🗓 **2026-08-29** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+
+Dynamic screen recording summarizer & interactive step extractor (Screenity style)
+
+---
+
+### [aeramos/Ansible](https://github.com/aeramos/Ansible)
+
+🗓 **2026-08-29** ｜ ⭐️ **3 stars** ｜ 🗂 **Shell**
+
+A collection of Ansible roles I created to administer my servers.
+
+---
+
+### [aymericzip/intlayer-htmx-template](https://github.com/aymericzip/intlayer-htmx-template)
+
+🗓 **2026-08-29** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
 
 ---
 
-### [honojs/hono-kun](https://github.com/honojs/hono-kun)
+### [procp039-pixel/whook-control](https://github.com/procp039-pixel/whook-control)
 
-🗓 **2026-08-28** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
-
-WIP
-
----
-
-### [fabricioctelles/jump-skills](https://github.com/fabricioctelles/jump-skills)
-
-🗓 **2026-08-28** ｜ ⭐️ **4 stars** ｜ 🗂 **Shell**
-
-Jump Skill Ninjas are intelligent meta-skills — master orchestrators that route your requests to the most appropriate specialized skill from a curated library. Instead of manually searching through hundreds of individual skills, you simply describe your task and the Ninja Identifies specialized skills and Loads the full skill in context
-
----
-
-### [Agenthon-2026/Agenthon2026-public](https://github.com/Agenthon-2026/Agenthon2026-public)
-
-🗓 **2026-08-28** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-Agenthon 2026 — shared toolkit and starter packages
-
----
-
-### [felixmelanson/crono-vision](https://github.com/felixmelanson/crono-vision)
-
-🗓 **2026-08-28** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-08-29** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
