@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Leoruiz197/1TIAPR-2026](https://github.com/Leoruiz197/1TIAPR-2026)
+### [1TDSPO-26/front-2sem-aula-09](https://github.com/1TDSPO-26/front-2sem-aula-09)
 
-🗓 **2026-09-01** ｜ ⭐️ **18 stars** ｜ 🗂 **未知**
-
-conteudo das aulas da turma 1TIAPR 2026
-
----
-
-### [Anay0305/burn](https://github.com/Anay0305/burn)
-
-🗓 **2026-09-01** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
-
-BURN — live token & cost burn-rate monitor for Claude Code, Codex and OpenCode. Web dashboard + TUI + notifications, all local.
-
----
-
-### [egondo/1tdspr_2026](https://github.com/egondo/1tdspr_2026)
-
-🗓 **2026-09-01** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-Repositorio da turma 1tdspr 2 sem 2026
-
----
-
-### [Theresa-Gao-0529/MSSP607](https://github.com/Theresa-Gao-0529/MSSP607)
-
-🗓 **2026-09-01** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-09-02** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [hasan-ismail/themachine](https://github.com/hasan-ismail/themachine)
+### [Robin-Ascholar/KE-project](https://github.com/Robin-Ascholar/KE-project)
 
-🗓 **2026-09-01** ｜ ⭐️ **2 stars** ｜ 🗂 **Kotlin**
+🗓 **2026-09-02** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-Fully offline Android voice assistant — alarms, timers, reminders and tasks. Whisper + Gemma + Piper, all on-device. No telemetry.
+A course project focused on knowledge graph construction, querying, reasoning, and applications.
+
+---
+
+### [Astrepio/KARNIZ](https://github.com/Astrepio/KARNIZ)
+
+🗓 **2026-09-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+Portable DPI bypass utility for Windows
+
+---
+
+### [ovicide/notepad-rich-presence](https://github.com/ovicide/notepad-rich-presence)
+
+🗓 **2026-09-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Rich Presence status for Discord that tracks your progress on Notepad for windows. Also compatible with Notepad++
+
+---
+
+### [breynard0/pong-os](https://github.com/breynard0/pong-os)
+
+🗓 **2026-09-02** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
+
+OS that does nothing but play Pong
 
 ---
 
