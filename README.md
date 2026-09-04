@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [1TDSPO-26/front-2sem-aula-09](https://github.com/1TDSPO-26/front-2sem-aula-09)
+### [Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill](https://github.com/Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill)
 
-🗓 **2026-09-02** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
+🗓 **2026-09-03** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [Robin-Ascholar/KE-project](https://github.com/Robin-Ascholar/KE-project)
-
-🗓 **2026-09-02** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-A course project focused on knowledge graph construction, querying, reasoning, and applications.
+Multi-step web form fill orchestrator with validation (Playwright / Puppeteer)
 
 ---
 
-### [Astrepio/KARNIZ](https://github.com/Astrepio/KARNIZ)
+### [Alpha-Park/genpark-self-healing-dom-semantic-selector-skill](https://github.com/Alpha-Park/genpark-self-healing-dom-semantic-selector-skill)
 
-🗓 **2026-09-02** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-09-03** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-Portable DPI bypass utility for Windows
-
----
-
-### [ovicide/notepad-rich-presence](https://github.com/ovicide/notepad-rich-presence)
-
-🗓 **2026-09-02** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Rich Presence status for Discord that tracks your progress on Notepad for windows. Also compatible with Notepad++
+Self-healing DOM semantic selector resilient to class mutations (Tabbit / Stagehand)
 
 ---
 
-### [breynard0/pong-os](https://github.com/breynard0/pong-os)
+### [Alpha-Park/genpark-cross-window-persistent-notes-ledger-skill](https://github.com/Alpha-Park/genpark-cross-window-persistent-notes-ledger-skill)
 
-🗓 **2026-09-02** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
+🗓 **2026-09-03** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-OS that does nothing but play Pong
+Cross-window structured persistent notes ledger (Codex Astra)
+
+---
+
+### [alphaparkinc/genpark-multi-step-web-form-fill-orchestrator-skill](https://github.com/alphaparkinc/genpark-multi-step-web-form-fill-orchestrator-skill)
+
+🗓 **2026-09-03** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+
+Multi-step web form fill orchestrator with validation (Playwright / Puppeteer)
+
+---
+
+### [Alpha-Park/genpark-long-horizon-intent-drift-aligner-skill](https://github.com/Alpha-Park/genpark-long-horizon-intent-drift-aligner-skill)
+
+🗓 **2026-09-03** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+
+Long-horizon intent drift aligner & scope creep guard (Codex Astra)
 
 ---
 
