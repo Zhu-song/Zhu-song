@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [PowderVendor/discord-zapret](https://github.com/PowderVendor/discord-zapret)
+### [Victor-Kipruto-Rop/fraud_anomaly_detection](https://github.com/Victor-Kipruto-Rop/fraud_anomaly_detection)
 
-🗓 **2026-09-04** ｜ ⭐️ **50 stars** ｜ 🗂 **Batchfile**
+🗓 **2026-09-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-zapret-discord-youtube 1.10.2a| Как Обойти Блокировку Дискорда В России ?! Фикс ДС Фикс ! 05.09
-
----
-
-### [Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill](https://github.com/Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill)
-
-🗓 **2026-09-04** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
-
-Robotic joint actuator thermal and torque load monitor triggering preventative throttling (DJI / Robomaster)
+暂无描述
 
 ---
 
-### [Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill](https://github.com/Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill)
+### [pgold30/who-gets-the-house](https://github.com/pgold30/who-gets-the-house)
 
-🗓 **2026-09-04** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
 
-Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox)
-
----
-
-### [alphaparkinc/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill](https://github.com/alphaparkinc/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill)
-
-🗓 **2026-09-04** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
-
-Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox)
+Replication package for 'Who Gets the House? Execution Certainty, the Mortgage Recording Tax, and the Design of Transfer Taxes in New York City'
 
 ---
 
-### [Alpha-Park/genpark-cross-chain-bridge-invariant-anomaly-detector-skill](https://github.com/Alpha-Park/genpark-cross-chain-bridge-invariant-anomaly-detector-skill)
+### [MI-TECHDLIN/voiceops](https://github.com/MI-TECHDLIN/voiceops)
 
-🗓 **2026-09-04** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-Cross-chain bridge token reserve invariant auditor & outflow spike monitor (LayerZero / Wormhole)
+暂无描述
+
+---
+
+### [theredcraft0803/TRC-PortableBlocks](https://github.com/theredcraft0803/TRC-PortableBlocks)
+
+🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
+
+Adds /pb command to open any Crafting-Inventory anywhere
+
+---
+
+### [JPS2599/Notes](https://github.com/JPS2599/Notes)
+
+🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
 
 ---
 
