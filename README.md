@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Victor-Kipruto-Rop/fraud_anomaly_detection](https://github.com/Victor-Kipruto-Rop/fraud_anomaly_detection)
+### [ncxcy/A14-A16-iBoot-DFU-PoC](https://github.com/ncxcy/A14-A16-iBoot-DFU-PoC)
 
-🗓 **2026-09-05** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-09-06** ｜ ⭐️ **9 stars** ｜ 🗂 **C**
 
-暂无描述
-
----
-
-### [pgold30/who-gets-the-house](https://github.com/pgold30/who-gets-the-house)
-
-🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **Python**
-
-Replication package for 'Who Gets the House? Execution Certainty, the Mortgage Recording Tax, and the Design of Transfer Taxes in New York City'
+PoC for iBoot DFU race and seprom jump table vulnerabilities on A14 - A16 running iOS 26.0-26.6 (RESEARCH)
 
 ---
 
-### [MI-TECHDLIN/voiceops](https://github.com/MI-TECHDLIN/voiceops)
+### [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)
 
-🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-09-06** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [theredcraft0803/TRC-PortableBlocks](https://github.com/theredcraft0803/TRC-PortableBlocks)
-
-🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **Java**
-
-Adds /pb command to open any Crafting-Inventory anywhere
+Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
 
 ---
 
-### [JPS2599/Notes](https://github.com/JPS2599/Notes)
+### [foulboss98-glitch/Gar-on-](https://github.com/foulboss98-glitch/Gar-on-)
 
-🗓 **2026-09-05** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-09-06** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
 
-暂无描述
+Kapable +243@
+
+---
+
+### [ACHolding/-virtualsdkcatsdk0.1.1-](https://github.com/ACHolding/-virtualsdkcatsdk0.1.1-)
+
+🗓 **2026-09-06** ｜ ⭐️ **1 stars** ｜ 🗂 **Shell**
+
+*. >
+
+---
+
+### [haithamaouati/vConsole](https://github.com/haithamaouati/vConsole)
+
+🗓 **2026-09-06** ｜ ⭐️ **1 stars** ｜ 🗂 **JavaScript**
+
+A lightweight, extendable front-end developer tool for mobile web pages
 
 ---
 
