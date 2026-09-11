@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE)
+### [Whocreated/Stupid-Project-mearm](https://github.com/Whocreated/Stupid-Project-mearm)
 
-🗓 **2026-09-09** ｜ ⭐️ **326 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
 
-⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router
-
----
-
-### [alphaparkinc/genpark-tree-of-thoughts-mcts-evaluator-skill](https://github.com/alphaparkinc/genpark-tree-of-thoughts-mcts-evaluator-skill)
-
-🗓 **2026-09-09** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Tree of Thoughts (ToT) Monte Carlo Tree Search (MCTS) reasoning engine with UCB1 exploration-exploitation balance and state backpropagation.
+暂无描述
 
 ---
 
-### [Alpha-Park/genpark-content-defined-chunking-cdc-skill](https://github.com/Alpha-Park/genpark-content-defined-chunking-cdc-skill)
+### [TheStarNull/comment-translator](https://github.com/TheStarNull/comment-translator)
 
-🗓 **2026-09-09** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
-FastCDC content-defined chunking (CDC) deduplication engine with rolling hash boundary detection and min/max chunk size limits.
-
----
-
-### [alphaparkinc/genpark-ppo-clipped-surrogate-engine-skill](https://github.com/alphaparkinc/genpark-ppo-clipped-surrogate-engine-skill)
-
-🗓 **2026-09-09** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Proximal Policy Optimization (PPO) clipped surrogate objective engine maintaining stable trust-region policy updates and bounding gradient divergence.
+一个专门翻译 **JSDoc** 和代码注释的工具，支持 **JavaScript / TypeScript**（含 `.js`, `.ts`, `.jsx`, `.tsx`, `.mjs`, `.cjs`），通过 **Google Translate API** 进行翻译，输出翻译后的文件。
 
 ---
 
-### [alphaparkinc/genpark-instruction-selection-max-munch-skill](https://github.com/alphaparkinc/genpark-instruction-selection-max-munch-skill)
+### [HonorVanEr/pomodoro-fluent](https://github.com/HonorVanEr/pomodoro-fluent)
 
-🗓 **2026-09-09** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-Tree-matching Maximal Munch instruction selection engine tiling expression ASTs into target ISA instruction streams.
+🍅 Win11 Fluent 风格番茄钟桌面应用 (Electron) — 迷你悬浮窗 / 贴边隐藏 / 托盘后台计时
+
+---
+
+### [niannian-Gzh/datapilot](https://github.com/niannian-Gzh/datapilot)
+
+🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+用自然语言查询、分析项目数据的 AI Agent
+
+---
+
+### [frailbongat/paseo-turn-summary](https://github.com/frailbongat/paseo-turn-summary)
+
+🗓 **2026-09-10** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+
+Paseo plugin: turns a finished pi turn's What to check and Next blocks into timeline rows you can act on.
 
 ---
 
