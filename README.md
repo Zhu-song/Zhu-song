@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Whocreated/Stupid-Project-mearm](https://github.com/Whocreated/Stupid-Project-mearm)
+### [AlexxxLiu/AV-Data-Engine](https://github.com/AlexxxLiu/AV-Data-Engine)
 
-🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-09-11** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
 
 暂无描述
 
 ---
 
-### [TheStarNull/comment-translator](https://github.com/TheStarNull/comment-translator)
+### [Bino5150/AIvengers-wire](https://github.com/Bino5150/AIvengers-wire)
 
-🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-一个专门翻译 **JSDoc** 和代码注释的工具，支持 **JavaScript / TypeScript**（含 `.js`, `.ts`, `.jsx`, `.tsx`, `.mjs`, `.cjs`），通过 **Google Translate API** 进行翻译，输出翻译后的文件。
-
----
-
-### [HonorVanEr/pomodoro-fluent](https://github.com/HonorVanEr/pomodoro-fluent)
-
-🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-🍅 Win11 Fluent 风格番茄钟桌面应用 (Electron) — 迷你悬浮窗 / 贴边隐藏 / 托盘后台计时
+Local machine message board for your AI agents. GUI added  for human participation/oversight. Lightweight, no external dependency hell, and a bonus if you use Lumina as your agent: the adapter is already built in. 
 
 ---
 
-### [niannian-Gzh/datapilot](https://github.com/niannian-Gzh/datapilot)
+### [Torch-ju/0910--](https://github.com/Torch-ju/0910--)
 
-🗓 **2026-09-10** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-11** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-用自然语言查询、分析项目数据的 AI Agent
+暂无描述
 
 ---
 
-### [frailbongat/paseo-turn-summary](https://github.com/frailbongat/paseo-turn-summary)
+### [christossolonos-bit/LunaRiko-Combined](https://github.com/christossolonos-bit/LunaRiko-Combined)
 
-🗓 **2026-09-10** ｜ ⭐️ **1 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Paseo plugin: turns a finished pi turn's What to check and Next blocks into timeline rows you can act on.
+the newest version of Luna and riko combined
+
+---
+
+### [kooa0810-crypto/promptlibV2](https://github.com/kooa0810-crypto/promptlibV2)
+
+🗓 **2026-09-11** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+暂无描述
 
 ---
 
