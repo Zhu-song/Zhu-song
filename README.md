@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [AlexxxLiu/AV-Data-Engine](https://github.com/AlexxxLiu/AV-Data-Engine)
+### [kevincox2/facebook-reporting](https://github.com/kevincox2/facebook-reporting)
 
-🗓 **2026-09-11** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
+🗓 **2026-09-12** ｜ ⭐️ **17 stars** ｜ 🗂 **未知**
+
+Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality
+
+---
+
+### [Monkkim/agent2-new](https://github.com/Monkkim/agent2-new)
+
+🗓 **2026-09-12** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [Bino5150/AIvengers-wire](https://github.com/Bino5150/AIvengers-wire)
+### [varse-lang/varse](https://github.com/varse-lang/varse)
 
-🗓 **2026-09-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-12** ｜ ⭐️ **4 stars** ｜ 🗂 **Assembly**
 
-Local machine message board for your AI agents. GUI added  for human participation/oversight. Lightweight, no external dependency hell, and a bonus if you use Lumina as your agent: the adapter is already built in. 
-
----
-
-### [Torch-ju/0910--](https://github.com/Torch-ju/0910--)
-
-🗓 **2026-09-11** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
+Varse, A fast low level language.
 
 ---
 
-### [christossolonos-bit/LunaRiko-Combined](https://github.com/christossolonos-bit/LunaRiko-Combined)
+### [lordnikky/Roblox-Offset-Guides-for-educational-purposes](https://github.com/lordnikky/Roblox-Offset-Guides-for-educational-purposes)
 
-🗓 **2026-09-11** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-12** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-the newest version of Luna and riko combined
+Roblox Offset Guides, STRICTLY for educational purposes, author does not support roblox exploits and this is made purely for people to see how internal functions work.
 
 ---
 
-### [kooa0810-crypto/promptlibV2](https://github.com/kooa0810-crypto/promptlibV2)
+### [w3rau1/LocalDoors](https://github.com/w3rau1/LocalDoors)
 
-🗓 **2026-09-11** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-09-12** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
 暂无描述
 
