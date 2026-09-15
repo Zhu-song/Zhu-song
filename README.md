@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [mapmoverexcite/Nexora](https://github.com/mapmoverexcite/Nexora)
+### [dx818-Comet51154sect/Limbus-Company-cheat](https://github.com/dx818-Comet51154sect/Limbus-Company-cheat)
 
-🗓 **2026-09-13** ｜ ⭐️ **61 stars** ｜ 🗂 **未知**
+🗓 **2026-09-14** ｜ ⭐️ **10 stars** ｜ 🗂 **C++**
 
-Nexora v2.5 | Multi game utility with FPS Boost, performance optimization and customization for Fortnite, Roblox, Valorant, Rust and CS2
-
----
-
-### [Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon)
-
-🗓 **2026-09-13** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
-
-A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.
+You control 12 Sinners who travel through a dystopian city on a strange bus called Mephistopheles. Their mission is to find valuable Golden Boughs while exploring dangerous places and fighting monsters and other enemies.
 
 ---
 
-### [atdt/amt-tools](https://github.com/atdt/amt-tools)
+### [jsyzlbw/PhD-Yang](https://github.com/jsyzlbw/PhD-Yang)
 
-🗓 **2026-09-13** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-14** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
 
-Configure and use Intel AMT: mutual TLS, power control, SOL, and KVM
-
----
-
-### [andrewmanasias10-commits/Vanty-web](https://github.com/andrewmanasias10-commits/Vanty-web)
-
-🗓 **2026-09-13** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
-
-Plataforma web oficial y panel de administración para centros de terapia y neuropsicología, optimizada para la gestión de terapias de Análisis Conductual Aplicado (ABA).
+The details about Wuhan University University Yang Jingyuan Incident
 
 ---
 
-### [sam044/quantum-noise-detective](https://github.com/sam044/quantum-noise-detective)
+### [FLModel/flm](https://github.com/FLModel/flm)
 
-🗓 **2026-09-13** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-14** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
 
-Interactive single-qubit noise diagnosis with physics simulation, PyTorch and TensorFlow models, and a conventional baseline.
+Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome.
+
+---
+
+### [kennethreitz/fetch.py](https://github.com/kennethreitz/fetch.py)
+
+🗓 **2026-09-14** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+Requests energy for when the dependency is the problem.
+
+---
+
+### [JavierArizaRiwi/DE-JAVA-A-SPRINGBOOT](https://github.com/JavierArizaRiwi/DE-JAVA-A-SPRINGBOOT)
+
+🗓 **2026-09-14** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+暂无描述
 
 ---
 
