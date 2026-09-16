@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [dx818-Comet51154sect/Limbus-Company-cheat](https://github.com/dx818-Comet51154sect/Limbus-Company-cheat)
+### [xuzeyu91/lol_web](https://github.com/xuzeyu91/lol_web)
 
-🗓 **2026-09-14** ｜ ⭐️ **10 stars** ｜ 🗂 **C++**
+🗓 **2026-09-15** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-You control 12 Sinners who travel through a dystopian city on a strange bus called Mephistopheles. Their mission is to find valuable Golden Boughs while exploring dangerous places and fighting monsters and other enemies.
-
----
-
-### [jsyzlbw/PhD-Yang](https://github.com/jsyzlbw/PhD-Yang)
-
-🗓 **2026-09-14** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
-
-The details about Wuhan University University Yang Jingyuan Incident
+网页版lol，仅供娱乐
 
 ---
 
-### [FLModel/flm](https://github.com/FLModel/flm)
+### [RickCreator87/AURORA](https://github.com/RickCreator87/AURORA)
 
-🗓 **2026-09-14** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
-
-Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome.
-
----
-
-### [kennethreitz/fetch.py](https://github.com/kennethreitz/fetch.py)
-
-🗓 **2026-09-14** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-Requests energy for when the dependency is the problem.
-
----
-
-### [JavierArizaRiwi/DE-JAVA-A-SPRINGBOOT](https://github.com/JavierArizaRiwi/DE-JAVA-A-SPRINGBOOT)
-
-🗓 **2026-09-14** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
+
+---
+
+### [RomTEM519/Python-Senior-Work](https://github.com/RomTEM519/Python-Senior-Work)
+
+🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
+
+暂无描述
+
+---
+
+### [2439810550/AgentTSC](https://github.com/2439810550/AgentTSC)
+
+🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [imzacksong/hermes-filebox](https://github.com/imzacksong/hermes-filebox)
+
+🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Explorer-style file browser for Hermes Desktop: tabs, previews, edit ops, 3D viewer, LAN sharing
 
 ---
 
