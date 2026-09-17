@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [xuzeyu91/lol_web](https://github.com/xuzeyu91/lol_web)
+### [lianchengwu/vectordb-gui](https://github.com/lianchengwu/vectordb-gui)
 
-🗓 **2026-09-15** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-09-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
 
-网页版lol，仅供娱乐
+基于 Wails v3 +  Go  + Vue Tailwind CSS 构建的现代化腾讯云向量数据库桌面客户端。
 
 ---
 
-### [RickCreator87/AURORA](https://github.com/RickCreator87/AURORA)
+### [boryzoo/china-historical-visual-resources](https://github.com/boryzoo/china-historical-visual-resources)
 
-🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-16** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+中国历史影像资料索引：精选摄影、馆藏与专题，提供中文导览、分类和资料示例。
+
+---
+
+### [calvin-apx/book_basement](https://github.com/calvin-apx/book_basement)
+
+🗓 **2026-09-16** ｜ ⭐️ **2 stars** ｜ 🗂 **PHP**
+
+Book Basement web application built with Laravel
+
+---
+
+### [revfactory/sf-novel](https://github.com/revfactory/sf-novel)
+
+🗓 **2026-09-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+한국어 SF 소설 구상·집필·퇴고를 위한 Codex 하네스
+
+---
+
+### [BloStudio/agy-chatgpt-bridge](https://github.com/BloStudio/agy-chatgpt-bridge)
+
+🗓 **2026-09-16** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
 
 暂无描述
-
----
-
-### [RomTEM519/Python-Senior-Work](https://github.com/RomTEM519/Python-Senior-Work)
-
-🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
-
-暂无描述
-
----
-
-### [2439810550/AgentTSC](https://github.com/2439810550/AgentTSC)
-
-🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
-
----
-
-### [imzacksong/hermes-filebox](https://github.com/imzacksong/hermes-filebox)
-
-🗓 **2026-09-15** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-Explorer-style file browser for Hermes Desktop: tabs, previews, edit ops, 3D viewer, LAN sharing
 
 ---
 
