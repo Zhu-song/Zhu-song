@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [lianchengwu/vectordb-gui](https://github.com/lianchengwu/vectordb-gui)
+### [adonaipinheiro/USPExample](https://github.com/adonaipinheiro/USPExample)
 
-🗓 **2026-09-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+🗓 **2026-09-17** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
 
-基于 Wails v3 +  Go  + Vue Tailwind CSS 构建的现代化腾讯云向量数据库桌面客户端。
-
----
-
-### [boryzoo/china-historical-visual-resources](https://github.com/boryzoo/china-historical-visual-resources)
-
-🗓 **2026-09-16** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
-
-中国历史影像资料索引：精选摄影、馆藏与专题，提供中文导览、分类和资料示例。
+Repositório feito em aula USP
 
 ---
 
-### [calvin-apx/book_basement](https://github.com/calvin-apx/book_basement)
+### [vinilana/live-jev](https://github.com/vinilana/live-jev)
 
-🗓 **2026-09-16** ｜ ⭐️ **2 stars** ｜ 🗂 **PHP**
+🗓 **2026-09-17** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-Book Basement web application built with Laravel
-
----
-
-### [revfactory/sf-novel](https://github.com/revfactory/sf-novel)
-
-🗓 **2026-09-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-한국어 SF 소설 구상·집필·퇴고를 위한 Codex 하네스
+2D autonomous car simulation in the browser, driven by TypeSafe's Jev decision model
 
 ---
 
-### [BloStudio/agy-chatgpt-bridge](https://github.com/BloStudio/agy-chatgpt-bridge)
+### [siliconkernel/vllm-jev-decison](https://github.com/siliconkernel/vllm-jev-decison)
 
-🗓 **2026-09-16** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-17** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-暂无描述
+Classification-only typed decisions for vLLM: finite-schema candidate scoring, probabilities, and abstention. No generative fallback.
+
+---
+
+### [compozy/yoshi](https://github.com/compozy/yoshi)
+
+🗓 **2026-09-17** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+
+Context-pruning proxy for Claude Code and Codex: Jev judges which history is still needed, measured not claimed. POC here now, heading soon into https://github.com/compozy/compozy
+
+---
+
+### [JNSEC-OpenSource-Community/jnu-cs-lab-report-typst](https://github.com/JNSEC-OpenSource-Community/jnu-cs-lab-report-typst)
+
+🗓 **2026-09-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+江南大学人工智能与计算机学院实验报告 Typst 模板
 
 ---
 
