@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [adonaipinheiro/USPExample](https://github.com/adonaipinheiro/USPExample)
+### [OnlyDev321/campus-match](https://github.com/OnlyDev321/campus-match)
 
-🗓 **2026-09-17** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-18** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-Repositório feito em aula USP
-
----
-
-### [vinilana/live-jev](https://github.com/vinilana/live-jev)
-
-🗓 **2026-09-17** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
-
-2D autonomous car simulation in the browser, driven by TypeSafe's Jev decision model
+A campus platform for discovering, creating, and managing study groups and university projects.
 
 ---
 
-### [siliconkernel/vllm-jev-decison](https://github.com/siliconkernel/vllm-jev-decison)
+### [PatryckDiasDelfes/sem_sufoco](https://github.com/PatryckDiasDelfes/sem_sufoco)
 
-🗓 **2026-09-17** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Classification-only typed decisions for vLLM: finite-schema candidate scoring, probabilities, and abstention. No generative fallback.
-
----
-
-### [compozy/yoshi](https://github.com/compozy/yoshi)
-
-🗓 **2026-09-17** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-Context-pruning proxy for Claude Code and Codex: Jev judges which history is still needed, measured not claimed. POC here now, heading soon into https://github.com/compozy/compozy
+Aplicativo mobile em Flutter para controlar receitas e despesas. O app deve permitir cadastrar lançamentos financeiros, consultar movimentações, filtrar dados por mês, acompanhar o saldo total e identificar situações em que as despesas superam as receitas.
 
 ---
 
-### [JNSEC-OpenSource-Community/jnu-cs-lab-report-typst](https://github.com/JNSEC-OpenSource-Community/jnu-cs-lab-report-typst)
+### [appthin/dsh-skills-manager-plus](https://github.com/appthin/dsh-skills-manager-plus)
 
-🗓 **2026-09-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
 
-江南大学人工智能与计算机学院实验报告 Typst 模板
+在 DeepSeek Harness 设置界面的左侧边栏新增「技能与命令」页面， 可直接查看、启用/停用、编辑、删除与添加技能，还能把常用的提示词保存为命令， 在输入框输入 `/` 即可快速调用。Adds a *Skills & Commands* page to the left sidebar of the Settings screen, where you can view, enable/disable, edit, delete and add skills, and save frequent prompts as `/commands` that you invoke by typing `/`.
+
+---
+
+### [eSagraAI/SecretsVault](https://github.com/eSagraAI/SecretsVault)
+
+🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+
+Local-first secrets and permissions broker for AI agents .
+
+---
+
+### [jackn11/infinity-think-mode](https://github.com/jackn11/infinity-think-mode)
+
+🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+
+Claude Code plugin: Claude thinks forever and never answers.
 
 ---
 
