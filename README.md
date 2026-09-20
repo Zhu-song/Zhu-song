@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [OnlyDev321/campus-match](https://github.com/OnlyDev321/campus-match)
+### [lucaslab1997/facebook-reporting](https://github.com/lucaslab1997/facebook-reporting)
 
-🗓 **2026-09-18** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-19** ｜ ⭐️ **23 stars** ｜ 🗂 **未知**
 
-A campus platform for discovering, creating, and managing study groups and university projects.
-
----
-
-### [PatryckDiasDelfes/sem_sufoco](https://github.com/PatryckDiasDelfes/sem_sufoco)
-
-🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-Aplicativo mobile em Flutter para controlar receitas e despesas. O app deve permitir cadastrar lançamentos financeiros, consultar movimentações, filtrar dados por mês, acompanhar o saldo total e identificar situações em que as despesas superam as receitas.
+Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
 
 ---
 
-### [appthin/dsh-skills-manager-plus](https://github.com/appthin/dsh-skills-manager-plus)
+### [Krishita17/soundkey-flipperzero](https://github.com/Krishita17/soundkey-flipperzero)
 
-🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-在 DeepSeek Harness 设置界面的左侧边栏新增「技能与命令」页面， 可直接查看、启用/停用、编辑、删除与添加技能，还能把常用的提示词保存为命令， 在输入框输入 `/` 即可快速调用。Adds a *Skills & Commands* page to the left sidebar of the Settings screen, where you can view, enable/disable, edit, delete and add skills, and save frequent prompts as `/commands` that you invoke by typing `/`.
-
----
-
-### [eSagraAI/SecretsVault](https://github.com/eSagraAI/SecretsVault)
-
-🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
-
-Local-first secrets and permissions broker for AI agents .
+🔊 SoundKey — accessibility-first audio interface for Flipper Zero. Spoken and tonal feedback, sound-cue navigation, and simplified controls so blind and low-vision users can use the device. Sole contributor: Krishita Sanjay Choksi.
 
 ---
 
-### [jackn11/infinity-think-mode](https://github.com/jackn11/infinity-think-mode)
+### [5758703/campus-twin](https://github.com/5758703/campus-twin)
 
-🗓 **2026-09-18** ｜ ⭐️ **2 stars** ｜ 🗂 **Shell**
+🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Vue**
 
-Claude Code plugin: Claude thinks forever and never answers.
+青禾校园数字孪生VueDemo
+
+---
+
+### [ktutnik/vitals](https://github.com/ktutnik/vitals)
+
+🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Swift**
+
+A macOS daemon that records which app drained your battery and where your data went, as plain text you own.
+
+---
+
+### [Krishita17/leak-scan](https://github.com/Krishita17/leak-scan)
+
+🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+🛡️ LeakScan — passive personal wireless-footprint auditor for Flipper Zero. See what your own devices broadcast and how trackable you are. Never transmits. Sole contributor: Krishita Sanjay Choksi.
 
 ---
 
