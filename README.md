@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [lucaslab1997/facebook-reporting](https://github.com/lucaslab1997/facebook-reporting)
+### [james-olavai/olav-growth](https://github.com/james-olavai/olav-growth)
 
-🗓 **2026-09-19** ｜ ⭐️ **23 stars** ｜ 🗂 **未知**
+🗓 **2026-09-20** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instagram moderation workflows.
-
----
-
-### [Krishita17/soundkey-flipperzero](https://github.com/Krishita17/soundkey-flipperzero)
-
-🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-🔊 SoundKey — accessibility-first audio interface for Flipper Zero. Spoken and tonal feedback, sound-cue navigation, and simplified controls so blind and low-vision users can use the device. Sole contributor: Krishita Sanjay Choksi.
+Agentic Marketing & Content Growth Engine with Single Source of Truth (SOT)
 
 ---
 
-### [5758703/campus-twin](https://github.com/5758703/campus-twin)
+### [madkoding/HowToLiveBetter-CL](https://github.com/madkoding/HowToLiveBetter-CL)
 
-🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Vue**
+🗓 **2026-09-20** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-青禾校园数字孪生VueDemo
-
----
-
-### [ktutnik/vitals](https://github.com/ktutnik/vitals)
-
-🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Swift**
-
-A macOS daemon that records which app drained your battery and where your data went, as plain text you own.
+Guía de la vida rentable · Chile — adaptación chilena de HowToLiveBetter: 568 recomendaciones con costo, beneficio, grado de evidencia y fuente oficial. Incluye la skill universal para adaptar guías de este tipo a otro país.
 
 ---
 
-### [Krishita17/leak-scan](https://github.com/Krishita17/leak-scan)
+### [66hhh/lenghaizhuxin-game](https://github.com/66hhh/lenghaizhuxin-game)
 
-🗓 **2026-09-19** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-20** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
 
-🛡️ LeakScan — passive personal wireless-footprint auditor for Flipper Zero. See what your own devices broadcast and how trackable you are. Never transmits. Sole contributor: Krishita Sanjay Choksi.
+冷海筑新：北境转型｜3–4人合作式气候治理网页游戏，基于哥本哈根与奥斯陆城市实践。A cooperative climate-governance browser game.
+
+---
+
+### [Larryzpl123/smart-schedule](https://github.com/Larryzpl123/smart-schedule)
+
+🗓 **2026-09-20** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+暂无描述
+
+---
+
+### [kyegomez/open-jev](https://github.com/kyegomez/open-jev)
+
+🗓 **2026-09-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch
 
 ---
 
