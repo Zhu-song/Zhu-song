@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [james-olavai/olav-growth](https://github.com/james-olavai/olav-growth)
+### [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo)
 
-🗓 **2026-09-20** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Agentic Marketing & Content Growth Engine with Single Source of Truth (SOT)
-
----
-
-### [madkoding/HowToLiveBetter-CL](https://github.com/madkoding/HowToLiveBetter-CL)
-
-🗓 **2026-09-20** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Guía de la vida rentable · Chile — adaptación chilena de HowToLiveBetter: 568 recomendaciones con costo, beneficio, grado de evidencia y fuente oficial. Incluye la skill universal para adaptar guías de este tipo a otro país.
+Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.
 
 ---
 
-### [66hhh/lenghaizhuxin-game](https://github.com/66hhh/lenghaizhuxin-game)
+### [1weell/DKC2Recomp-Switch](https://github.com/1weell/DKC2Recomp-Switch)
 
-🗓 **2026-09-20** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
+🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
 
-冷海筑新：北境转型｜3–4人合作式气候治理网页游戏，基于哥本哈根与奥斯陆城市实践。A cooperative climate-governance browser game.
+Nintendo Switch port of DKC2Recomp with 16:9 presentation and SDL/libnx host support.
 
 ---
 
-### [Larryzpl123/smart-schedule](https://github.com/Larryzpl123/smart-schedule)
+### [fakie-dev/booking-stable-filter-scroll](https://github.com/fakie-dev/booking-stable-filter-scroll)
 
-🗓 **2026-09-20** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Fix Booking.com filter scroll jumps. A small userscript that keeps the filter sidebar stable while Booking updates it.
+
+---
+
+### [Xch4rt/my-cross](https://github.com/Xch4rt/my-cross)
+
+🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
 
 暂无描述
 
 ---
 
-### [kyegomez/open-jev](https://github.com/kyegomez/open-jev)
+### [StellarFoundry/stellar-devkit](https://github.com/StellarFoundry/stellar-devkit)
 
-🗓 **2026-09-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
 
-an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch
+StellarFoundry DevKit: developer infrastructure toolkit for Stellar and Soroban (RPC, XDR/SCVal inspection, fixtures, analysis, CLI).
 
 ---
 
