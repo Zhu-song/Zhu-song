@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo)
+### [joinboatwrightcheer/graveyard-keeper-2-modkit](https://github.com/joinboatwrightcheer/graveyard-keeper-2-modkit)
 
-🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-09-22** ｜ ⭐️ **32 stars** ｜ 🗂 **未知**
 
-Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.
-
----
-
-### [1weell/DKC2Recomp-Switch](https://github.com/1weell/DKC2Recomp-Switch)
-
-🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **C**
-
-Nintendo Switch port of DKC2Recomp with 16:9 presentation and SDL/libnx host support.
+39-module cheat/trainer for Graveyard Keeper 2 — crafting and resources, zombie automation, combat tools, town progression and world utilities.
 
 ---
 
-### [fakie-dev/booking-stable-filter-scroll](https://github.com/fakie-dev/booking-stable-filter-scroll)
+### [NKWBTB/SomaLoopMotion](https://github.com/NKWBTB/SomaLoopMotion)
 
-🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-09-22** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-Fix Booking.com filter scroll jumps. A small userscript that keeps the filter sidebar stable while Booking updates it.
+Standalone Python tools for viewing motion recordings, aligning video, segmenting motion events, exporting clips, and clustering.
 
 ---
 
-### [Xch4rt/my-cross](https://github.com/Xch4rt/my-cross)
+### [navthings/base](https://github.com/navthings/base)
 
-🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Go**
+🗓 **2026-09-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
+
+small fast base model trainer for tpu's
+
+---
+
+### [yordanzd/Subtitle-downloader](https://github.com/yordanzd/Subtitle-downloader)
+
+🗓 **2026-09-22** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Aplicacion web para buscar y descargar subtitulos de peliculas y series usando la API REST de OpenSubtitles
+
+---
+
+### [buqiuFeng/canghai-api](https://github.com/buqiuFeng/canghai-api)
+
+🗓 **2026-09-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
 
 暂无描述
-
----
-
-### [StellarFoundry/stellar-devkit](https://github.com/StellarFoundry/stellar-devkit)
-
-🗓 **2026-09-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
-
-StellarFoundry DevKit: developer infrastructure toolkit for Stellar and Soroban (RPC, XDR/SCVal inspection, fixtures, analysis, CLI).
 
 ---
 
