@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [joinboatwrightcheer/graveyard-keeper-2-modkit](https://github.com/joinboatwrightcheer/graveyard-keeper-2-modkit)
+### [dukunhost11/no-ai-slop](https://github.com/dukunhost11/no-ai-slop)
 
-🗓 **2026-09-22** ｜ ⭐️ **32 stars** ｜ 🗂 **未知**
+🗓 **2026-09-23** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
 
-39-module cheat/trainer for Graveyard Keeper 2 — crafting and resources, zombie automation, combat tools, town progression and world utilities.
-
----
-
-### [NKWBTB/SomaLoopMotion](https://github.com/NKWBTB/SomaLoopMotion)
-
-🗓 **2026-09-22** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Standalone Python tools for viewing motion recordings, aligning video, segmenting motion events, exporting clips, and clustering.
+tools canggih di buat oleh i putu darma putra, bagi yang ingin membuat katu undangan pernikahan yang futuristik , moderen dan profesional , cobain sebelum berbayar
 
 ---
 
-### [navthings/base](https://github.com/navthings/base)
+### [majidmanzarpour/blender-game-skills](https://github.com/majidmanzarpour/blender-game-skills)
 
-🗓 **2026-09-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-small fast base model trainer for tpu's
-
----
-
-### [yordanzd/Subtitle-downloader](https://github.com/yordanzd/Subtitle-downloader)
-
-🗓 **2026-09-22** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-Aplicacion web para buscar y descargar subtitulos de peliculas y series usando la API REST de OpenSubtitles
+Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.
 
 ---
 
-### [buqiuFeng/canghai-api](https://github.com/buqiuFeng/canghai-api)
+### [LiStudioorg/linuxandroid](https://github.com/LiStudioorg/linuxandroid)
 
-🗓 **2026-09-22** ｜ ⭐️ **2 stars** ｜ 🗂 **Rust**
+🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Kotlin**
 
-暂无描述
+在 Android 上免 Root 运行 Debian、Ubuntu、Alpine 等 Linux 发行版，纯命令行，无需图形界面。
+
+---
+
+### [heranhe/microduck-lab-cloud](https://github.com/heranhe/microduck-lab-cloud)
+
+🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+Cloud-ready reinforcement learning, interactive simulation and behavior suite for MicroDuck biped robots
+
+---
+
+### [bsmagalhaes/rendra-design-system](https://github.com/bsmagalhaes/rendra-design-system)
+
+🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+
+Design system completo e boilerplate React: tokens, 3 templates, 4 paletas, 40+ componentes mobile-first, AppShell configurável, telas base, Storybook e testes de layout.
 
 ---
 
