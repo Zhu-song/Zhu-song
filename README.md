@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [dukunhost11/no-ai-slop](https://github.com/dukunhost11/no-ai-slop)
+### [vladik2132/konf-upr](https://github.com/vladik2132/konf-upr)
 
-🗓 **2026-09-23** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-09-24** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-tools canggih di buat oleh i putu darma putra, bagi yang ingin membuat katu undangan pernikahan yang futuristik , moderen dan profesional , cobain sebelum berbayar
-
----
-
-### [majidmanzarpour/blender-game-skills](https://github.com/majidmanzarpour/blender-game-skills)
-
-🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.
+暂无描述
 
 ---
 
-### [LiStudioorg/linuxandroid](https://github.com/LiStudioorg/linuxandroid)
+### [Joah83/rfr27-newmember-5](https://github.com/Joah83/rfr27-newmember-5)
 
-🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Kotlin**
+🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-在 Android 上免 Root 运行 Debian、Ubuntu、Alpine 等 Linux 发行版，纯命令行，无需图形界面。
-
----
-
-### [heranhe/microduck-lab-cloud](https://github.com/heranhe/microduck-lab-cloud)
-
-🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-Cloud-ready reinforcement learning, interactive simulation and behavior suite for MicroDuck biped robots
+暂无描述
 
 ---
 
-### [bsmagalhaes/rendra-design-system](https://github.com/bsmagalhaes/rendra-design-system)
+### [burakefearslanturk/weibull-guvenilirlik-analizi](https://github.com/burakefearslanturk/weibull-guvenilirlik-analizi)
 
-🗓 **2026-09-23** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-Design system completo e boilerplate React: tokens, 3 templates, 4 paletas, 40+ componentes mobile-first, AppShell configurável, telas base, Storybook e testes de layout.
+Weibull dağılımı ile MTBF hesaplama ve önleyici bakım periyodu önerisi
+
+---
+
+### [burakefearslanturk/is-atolyesi-benzetilmis-tavlama](https://github.com/burakefearslanturk/is-atolyesi-benzetilmis-tavlama)
+
+🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Benzetilmiş tavlama ile job-shop çizelgeleme - FT06 benchmark doğrulaması, Giffler-Thompson dispatch kuralları ve kritik yol analizi
+
+---
+
+### [hasancrty/-Shift-scheduling-milp](https://github.com/hasancrty/-Shift-scheduling-milp)
+
+🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+MILP-based personnel shift scheduling optimizer built with PuLP/CBC — coverage, rest-time, fairness and preference constraints, with Excel/Gantt reporting.
 
 ---
 
