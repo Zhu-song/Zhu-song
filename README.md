@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [vladik2132/konf-upr](https://github.com/vladik2132/konf-upr)
+### [underworldhistory1-ctrl/minimax-h3-higgsfield](https://github.com/underworldhistory1-ctrl/minimax-h3-higgsfield)
 
-🗓 **2026-09-24** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-09-25** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+MiniMax H3 video studio for Windows and Linux: text, frames, named references, native audio, render options, and a creator-friendly UI.
+
+---
+
+### [DeLuca21/Bezel](https://github.com/DeLuca21/Bezel)
+
+🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+A Caelestia-inspired shell for GNOME: one rounded frame, your own bars and docks, and drawers that join the desktop.
+
+---
+
+### [AxwellMz/lab1-acondicionamiento-alta-impedancia](https://github.com/AxwellMz/lab1-acondicionamiento-alta-impedancia)
+
+🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+
+Lab 1 · Instrumentación Biomédica III (UNMSM): simulación de electrodo de pH con ESP32 y buffer de alta impedancia TL084 (JFET) vs. LM324 (bipolar)
+
+---
+
+### [chris1111/VoodooHDA-Bootloader-Injector](https://github.com/chris1111/VoodooHDA-Bootloader-Injector)
+
+🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
 暂无描述
 
 ---
 
-### [Joah83/rfr27-newmember-5](https://github.com/Joah83/rfr27-newmember-5)
+### [adaltofadergs/2026_2_GarantiaQualiadeDeSoftware](https://github.com/adaltofadergs/2026_2_GarantiaQualiadeDeSoftware)
 
-🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
-暂无描述
-
----
-
-### [burakefearslanturk/weibull-guvenilirlik-analizi](https://github.com/burakefearslanturk/weibull-guvenilirlik-analizi)
-
-🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Weibull dağılımı ile MTBF hesaplama ve önleyici bakım periyodu önerisi
-
----
-
-### [burakefearslanturk/is-atolyesi-benzetilmis-tavlama](https://github.com/burakefearslanturk/is-atolyesi-benzetilmis-tavlama)
-
-🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-Benzetilmiş tavlama ile job-shop çizelgeleme - FT06 benchmark doğrulaması, Giffler-Thompson dispatch kuralları ve kritik yol analizi
-
----
-
-### [hasancrty/-Shift-scheduling-milp](https://github.com/hasancrty/-Shift-scheduling-milp)
-
-🗓 **2026-09-24** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
-
-MILP-based personnel shift scheduling optimizer built with PuLP/CBC — coverage, rest-time, fairness and preference constraints, with Excel/Gantt reporting.
+Repositório com os códigos desenvolvidos na UC Garantia da Qualidade de Software 2026/2
 
 ---
 
