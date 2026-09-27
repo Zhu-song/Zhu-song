@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [underworldhistory1-ctrl/minimax-h3-higgsfield](https://github.com/underworldhistory1-ctrl/minimax-h3-higgsfield)
+### [joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)
 
-🗓 **2026-09-25** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-09-26** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
 
-MiniMax H3 video studio for Windows and Linux: text, frames, named references, native audio, render options, and a creator-friendly UI.
-
----
-
-### [DeLuca21/Bezel](https://github.com/DeLuca21/Bezel)
-
-🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-A Caelestia-inspired shell for GNOME: one rounded frame, your own bars and docks, and drawers that join the desktop.
+Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos
 
 ---
 
-### [AxwellMz/lab1-acondicionamiento-alta-impedancia](https://github.com/AxwellMz/lab1-acondicionamiento-alta-impedancia)
+### [0xtbug/Recat](https://github.com/0xtbug/Recat)
 
-🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-09-26** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
 
-Lab 1 · Instrumentación Biomédica III (UNMSM): simulación de electrodo de pH con ESP32 y buffer de alta impedancia TL084 (JFET) vs. LM324 (bipolar)
+A local workspace for security findings. Review findings from Hermes or other agents, inspect evidence, and export reports. Recat supports Web, Smart contract, and Other assets, including mobile, desktop, networks, and hardware.
 
 ---
 
-### [chris1111/VoodooHDA-Bootloader-Injector](https://github.com/chris1111/VoodooHDA-Bootloader-Injector)
+### [be73978-byte/Reaction-Cam](https://github.com/be73978-byte/Reaction-Cam)
 
-🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-09-26** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+Tired of stiff video calls? I built a hands-free AI app that turns your body language into instant on-screen memes. Just facepalm, and the perfect reaction overlays onto your Zoom or Discord feed!
+
+---
+
+### [stasspasjuk-rgb/KazkaDownloader](https://github.com/stasspasjuk-rgb/KazkaDownloader)
+
+🗓 **2026-09-26** ｜ ⭐️ **2 stars** ｜ 🗂 **TeX**
 
 暂无描述
 
 ---
 
-### [adaltofadergs/2026_2_GarantiaQualiadeDeSoftware](https://github.com/adaltofadergs/2026_2_GarantiaQualiadeDeSoftware)
+### [Bedrock-Phanatics/Bifrost](https://github.com/Bedrock-Phanatics/Bifrost)
 
-🗓 **2026-09-25** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-09-26** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-Repositório com os códigos desenvolvidos na UC Garantia da Qualidade de Software 2026/2
+A next-generation Minecraft Bedrock reverse proxy built in Zig for maximum performance and scalability.
 
 ---
 
