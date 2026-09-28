@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [joeseesun/opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)
+### [enwecklerpro/enwecklerpro](https://github.com/enwecklerpro/enwecklerpro)
 
-🗓 **2026-09-26** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+🗓 **2026-09-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
 
-Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos
-
----
-
-### [0xtbug/Recat](https://github.com/0xtbug/Recat)
-
-🗓 **2026-09-26** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
-
-A local workspace for security findings. Review findings from Hermes or other agents, inspect evidence, and export reports. Recat supports Web, Smart contract, and Other assets, including mobile, desktop, networks, and hardware.
+Profile README
 
 ---
 
-### [be73978-byte/Reaction-Cam](https://github.com/be73978-byte/Reaction-Cam)
+### [enwecklerpro/omnitrade](https://github.com/enwecklerpro/omnitrade)
 
-🗓 **2026-09-26** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-09-27** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-Tired of stiff video calls? I built a hands-free AI app that turns your body language into instant on-screen memes. Just facepalm, and the perfect reaction overlays onto your Zoom or Discord feed!
+Multi-tenant procure-to-pay application on SAP BTP: SAP CAP, CDS, OData V4, HANA Cloud, XSUAA, Approuter, React; approval workflow, five roles, audit log, AI assistant
 
 ---
 
-### [stasspasjuk-rgb/KazkaDownloader](https://github.com/stasspasjuk-rgb/KazkaDownloader)
+### [52liulian/EduToolbox](https://github.com/52liulian/EduToolbox)
 
-🗓 **2026-09-26** ｜ ⭐️ **2 stars** ｜ 🗂 **TeX**
+🗓 **2026-09-27** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+1000+ 免费教育工具导航 + 85 个浏览器本地运行的自研小工具（评语/点名/倒计时/抽题/奖状...）
+
+---
+
+### [ragipmullamusa-ui/stonecut-cashbook-showcase](https://github.com/ragipmullamusa-ui/stonecut-cashbook-showcase)
+
+🗓 **2026-09-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [Bedrock-Phanatics/Bifrost](https://github.com/Bedrock-Phanatics/Bifrost)
+### [ragipmullamusa-ui/darbna-showcase](https://github.com/ragipmullamusa-ui/darbna-showcase)
 
-🗓 **2026-09-26** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-09-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-A next-generation Minecraft Bedrock reverse proxy built in Zig for maximum performance and scalability.
+暂无描述
 
 ---
 
