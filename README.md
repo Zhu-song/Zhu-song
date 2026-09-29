@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [enwecklerpro/enwecklerpro](https://github.com/enwecklerpro/enwecklerpro)
+### [Alpha-Park/genpark-meta-muse-multimodal-episodic-resonance-mcp](https://github.com/Alpha-Park/genpark-meta-muse-multimodal-episodic-resonance-mcp)
 
-🗓 **2026-09-27** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Profile README
-
----
-
-### [enwecklerpro/omnitrade](https://github.com/enwecklerpro/omnitrade)
-
-🗓 **2026-09-27** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-Multi-tenant procure-to-pay application on SAP BTP: SAP CAP, CDS, OData V4, HANA Cloud, XSUAA, Approuter, React; approval workflow, five roles, audit log, AI assistant
+Multimodal sensory grounding (Meta Ray-Ban audio/vision) integrated with long-term episodic life memory graphs and empathetic emotional resonance (Muse).
 
 ---
 
-### [52liulian/EduToolbox](https://github.com/52liulian/EduToolbox)
+### [Alpha-Park/genpark-agent-hallucination-fact-verifier-skill](https://github.com/Alpha-Park/genpark-agent-hallucination-fact-verifier-skill)
 
-🗓 **2026-09-27** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-1000+ 免费教育工具导航 + 85 个浏览器本地运行的自研小工具（评语/点名/倒计时/抽题/奖状...）
-
----
-
-### [ragipmullamusa-ui/stonecut-cashbook-showcase](https://github.com/ragipmullamusa-ui/stonecut-cashbook-showcase)
-
-🗓 **2026-09-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-暂无描述
+Atomic claim decomposition and cross-context fact verification engine detecting ungrounded claims, numerical contradictions, and hallucinated entities against reference knowledge.
 
 ---
 
-### [ragipmullamusa-ui/darbna-showcase](https://github.com/ragipmullamusa-ui/darbna-showcase)
+### [alphaparkinc/genpark-agent-hallucination-fact-verifier-skill](https://github.com/alphaparkinc/genpark-agent-hallucination-fact-verifier-skill)
 
-🗓 **2026-09-27** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-暂无描述
+Atomic claim decomposition and cross-context fact verification engine detecting ungrounded claims, numerical contradictions, and hallucinated entities against reference knowledge.
+
+---
+
+### [alphaparkinc/genpark-meta-muse-multimodal-episodic-resonance-mcp](https://github.com/alphaparkinc/genpark-meta-muse-multimodal-episodic-resonance-mcp)
+
+🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Multimodal sensory grounding (Meta Ray-Ban audio/vision) integrated with long-term episodic life memory graphs and empathetic emotional resonance (Muse).
+
+---
+
+### [Alpha-Park/genpark-agent-multimodal-document-table-extractor-skill](https://github.com/Alpha-Park/genpark-agent-multimodal-document-table-extractor-skill)
+
+🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Heuristic multi-column document and tabular markdown extractor converting ASCII/OCR text dumps, aligned spacing, and CSV/TSV into clean GitHub Flavored Markdown and typed JSON.
 
 ---
 
