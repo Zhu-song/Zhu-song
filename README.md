@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Alpha-Park/genpark-meta-muse-multimodal-episodic-resonance-mcp](https://github.com/Alpha-Park/genpark-meta-muse-multimodal-episodic-resonance-mcp)
+### [pinkoctopusdesign/Discord-Server-Booster-Nitro](https://github.com/pinkoctopusdesign/Discord-Server-Booster-Nitro)
 
-🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-09-29** ｜ ⭐️ **251 stars** ｜ 🗂 **未知**
 
-Multimodal sensory grounding (Meta Ray-Ban audio/vision) integrated with long-term episodic life memory graphs and empathetic emotional resonance (Muse).
-
----
-
-### [Alpha-Park/genpark-agent-hallucination-fact-verifier-skill](https://github.com/Alpha-Park/genpark-agent-hallucination-fact-verifier-skill)
-
-🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Atomic claim decomposition and cross-context fact verification engine detecting ungrounded claims, numerical contradictions, and hallucinated entities against reference knowledge.
+Discord Server Booster Client is an automated management utility designed to streamline the process of applying Discord Nitro server boosts across multiple accounts or bot tokens to increase target server boost tiers automatically.
 
 ---
 
-### [alphaparkinc/genpark-agent-hallucination-fact-verifier-skill](https://github.com/alphaparkinc/genpark-agent-hallucination-fact-verifier-skill)
+### [deepseek-ai/DeepEP-Ascend](https://github.com/deepseek-ai/DeepEP-Ascend)
 
-🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-09-29** ｜ ⭐️ **37 stars** ｜ 🗂 **C++**
 
-Atomic claim decomposition and cross-context fact verification engine detecting ungrounded claims, numerical contradictions, and hallucinated entities against reference knowledge.
-
----
-
-### [alphaparkinc/genpark-meta-muse-multimodal-episodic-resonance-mcp](https://github.com/alphaparkinc/genpark-meta-muse-multimodal-episodic-resonance-mcp)
-
-🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Multimodal sensory grounding (Meta Ray-Ban audio/vision) integrated with long-term episodic life memory graphs and empathetic emotional resonance (Muse).
+A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.
 
 ---
 
-### [Alpha-Park/genpark-agent-multimodal-document-table-extractor-skill](https://github.com/Alpha-Park/genpark-agent-multimodal-document-table-extractor-skill)
+### [DataArkPlatform/DataArkClient](https://github.com/DataArkPlatform/DataArkClient)
 
-🗓 **2026-09-28** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-09-29** ｜ ⭐️ **7 stars** ｜ 🗂 **TypeScript**
 
-Heuristic multi-column document and tabular markdown extractor converting ASCII/OCR text dumps, aligned spacing, and CSV/TSV into clean GitHub Flavored Markdown and typed JSON.
+语料方舟平台
+
+---
+
+### [blendi-remade/dioramas](https://github.com/blendi-remade/dioramas)
+
+🗓 **2026-09-29** ｜ ⭐️ **7 stars** ｜ 🗂 **JavaScript**
+
+A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.
+
+---
+
+### [renatogroffe/arquitetura-integracoes-2026-09](https://github.com/renatogroffe/arquitetura-integracoes-2026-09)
+
+🗓 **2026-09-29** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+
+Diagrama com um exemplo de Arquitetura de Referência para um cenário de integrações. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel, Inteligência Artificial...
 
 ---
 
