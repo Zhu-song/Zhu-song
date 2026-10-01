@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [pinkoctopusdesign/Discord-Server-Booster-Nitro](https://github.com/pinkoctopusdesign/Discord-Server-Booster-Nitro)
+### [sam-mhq1995q2/Medusa-LoL-Universal-Software](https://github.com/sam-mhq1995q2/Medusa-LoL-Universal-Software)
 
-🗓 **2026-09-29** ｜ ⭐️ **251 stars** ｜ 🗂 **未知**
+🗓 **2026-09-30** ｜ ⭐️ **32 stars** ｜ 🗂 **未知**
 
-Discord Server Booster Client is an automated management utility designed to streamline the process of applying Discord Nitro server boosts across multiple accounts or bot tokens to increase target server boost tiers automatically.
-
----
-
-### [deepseek-ai/DeepEP-Ascend](https://github.com/deepseek-ai/DeepEP-Ascend)
-
-🗓 **2026-09-29** ｜ ⭐️ **37 stars** ｜ 🗂 **C++**
-
-A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.
+Medusa League Of Legends Universal Software - This is an awesome program that allows you to use a large number of private cheats, as well as the ability to use a full‑fledged skinchanger
 
 ---
 
-### [DataArkPlatform/DataArkClient](https://github.com/DataArkPlatform/DataArkClient)
+### [ChameleonBoil6/tf3-modkit](https://github.com/ChameleonBoil6/tf3-modkit)
 
-🗓 **2026-09-29** ｜ ⭐️ **7 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-09-30** ｜ ⭐️ **25 stars** ｜ 🗂 **未知**
 
-语料方舟平台
-
----
-
-### [blendi-remade/dioramas](https://github.com/blendi-remade/dioramas)
-
-🗓 **2026-09-29** ｜ ⭐️ **7 stars** ｜ 🗂 **JavaScript**
-
-A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.
+40-module trainer/cheat for Transport Fever 3 — economy, towns, industries, vehicles and world tools
 
 ---
 
-### [renatogroffe/arquitetura-integracoes-2026-09](https://github.com/renatogroffe/arquitetura-integracoes-2026-09)
+### [alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill](https://github.com/alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill)
 
-🗓 **2026-09-29** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+🗓 **2026-09-30** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Diagrama com um exemplo de Arquitetura de Referência para um cenário de integrações. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel, Inteligência Artificial...
+GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discovery & campaign attribution.
+
+---
+
+### [Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill](https://github.com/Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill)
+
+🗓 **2026-09-30** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discovery & campaign attribution.
+
+---
+
+### [jaturapornchai/jarvisdemo001](https://github.com/jaturapornchai/jarvisdemo001)
+
+🗓 **2026-09-30** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
+
+暂无描述
 
 ---
 
