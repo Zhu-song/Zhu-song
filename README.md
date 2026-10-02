@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [sam-mhq1995q2/Medusa-LoL-Universal-Software](https://github.com/sam-mhq1995q2/Medusa-LoL-Universal-Software)
+### [theghostonline/Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)
 
-🗓 **2026-09-30** ｜ ⭐️ **32 stars** ｜ 🗂 **未知**
+🗓 **2026-10-01** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
 
-Medusa League Of Legends Universal Software - This is an awesome program that allows you to use a large number of private cheats, as well as the ability to use a full‑fledged skinchanger
-
----
-
-### [ChameleonBoil6/tf3-modkit](https://github.com/ChameleonBoil6/tf3-modkit)
-
-🗓 **2026-09-30** ｜ ⭐️ **25 stars** ｜ 🗂 **未知**
-
-40-module trainer/cheat for Transport Fever 3 — economy, towns, industries, vehicles and world tools
+Nuvio for PlayStation 5 - the Nuvio TV interface as a PS5 app with a native 4K HDR player
 
 ---
 
-### [alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill](https://github.com/alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill)
+### [ikeige-coder/eXCore](https://github.com/ikeige-coder/eXCore)
 
-🗓 **2026-09-30** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discovery & campaign attribution.
-
----
-
-### [Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill](https://github.com/Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill)
-
-🗓 **2026-09-30** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discovery & campaign attribution.
+暂无描述
 
 ---
 
-### [jaturapornchai/jarvisdemo001](https://github.com/jaturapornchai/jarvisdemo001)
+### [lpeixin/app-pocket](https://github.com/lpeixin/app-pocket)
 
-🗓 **2026-09-30** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
+🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
+
+A fast, high-density SwiftUI launcher for macOS with smart categories, drag-and-drop, and live app monitoring.
+
+---
+
+### [tarikhagustia/pixel-hq](https://github.com/tarikhagustia/pixel-hq)
+
+🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+
+A cozy, Stardew-style pixel-art virtual office for small dev teams (1–10 people) — Gather.town Alternative proximity voice, chat and meetings, running entirely in the browser.
+
+---
+
+### [URI-Code/campushub](https://github.com/URI-Code/campushub)
+
+🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **Kotlin**
 
 暂无描述
 
