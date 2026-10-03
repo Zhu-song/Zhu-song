@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [theghostonline/Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)
+### [perkel666/MegaCapybara](https://github.com/perkel666/MegaCapybara)
 
-🗓 **2026-10-01** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
+🗓 **2026-10-02** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-Nuvio for PlayStation 5 - the Nuvio TV interface as a PS5 app with a native 4K HDR player
-
----
-
-### [ikeige-coder/eXCore](https://github.com/ikeige-coder/eXCore)
-
-🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-暂无描述
+The fastest inference engine for Qwen3.8-27B on the NVIDIA RTX 5090: up to 500 tokens/s for one agent and up to 2,000 tokens/s for many, contexts up to 1M tokens, and a launcher that shows what every setting costs. Windows and Linux.
 
 ---
 
-### [lpeixin/app-pocket](https://github.com/lpeixin/app-pocket)
+### [PeterWarrington/XP-Code](https://github.com/PeterWarrington/XP-Code)
 
-🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
+🗓 **2026-10-02** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
 
-A fast, high-density SwiftUI launcher for macOS with smart categories, drag-and-drop, and live app monitoring.
-
----
-
-### [tarikhagustia/pixel-hq](https://github.com/tarikhagustia/pixel-hq)
-
-🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
-
-A cozy, Stardew-style pixel-art virtual office for small dev teams (1–10 people) — Gather.town Alternative proximity voice, chat and meetings, running entirely in the browser.
+A VS Code-style editor in under 200kb and compatible with Windows XP.
 
 ---
 
-### [URI-Code/campushub](https://github.com/URI-Code/campushub)
+### [madisonrickert/jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate)
 
-🗓 **2026-10-01** ｜ ⭐️ **3 stars** ｜ 🗂 **Kotlin**
+🗓 **2026-10-02** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
 
-暂无描述
+A Claude Code mod that uses TypeSafe's Jev to decide auto mode tool calls. 2x faster than the built-in classifier on the calls it decides.
+
+---
+
+### [Web-Project-UMKM/demo-repository](https://github.com/Web-Project-UMKM/demo-repository)
+
+🗓 **2026-10-02** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
+
+A code repository designed to show the best GitHub has to offer.
+
+---
+
+### [thaw-app/Floe](https://github.com/thaw-app/Floe)
+
+🗓 **2026-10-02** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
+
+The open source launcher for macOS
 
 ---
 
