@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [erickdavestech/ps5-dualsense-overlay](https://github.com/erickdavestech/ps5-dualsense-overlay)
+### [bpinheiroms/open-apuracao-brazil](https://github.com/bpinheiroms/open-apuracao-brazil)
 
-🗓 **2026-10-03** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
-
-On-screen DualSense controller overlay for a PS5 running homebrew. GPL-3.0 derivative of Common FPS for PS5.
-
----
-
-### [amamiYukikaze/ambient-music-nonstop](https://github.com/amamiYukikaze/ambient-music-nonstop)
-
-🗓 **2026-10-03** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-栖声 · 本地 AI 音乐、持续曲库与环境声。Windows / NVIDIA CUDA.
-
----
-
-### [yi-yezhiqiu/jizhang-app](https://github.com/yi-yezhiqiu/jizhang-app)
-
-🗓 **2026-10-03** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
-
-离线记账 App：收支流水、月度统计、攒钱目标与可支配金额，数据只存在本机（只适配安卓系统）
-
----
-
-### [kk1992ishere-droid/turn-anything-cu](https://github.com/kk1992ishere-droid/turn-anything-cu)
-
-🗓 **2026-10-03** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-CCU (Claude Computer Use): let Claude Code use your Mac via ChatGPT's Computer Use, set up in one sentence. 让 Claude Code 动手用你的 Mac。
-
----
-
-### [Ritvik-G/adf](https://github.com/Ritvik-G/adf)
-
-🗓 **2026-10-03** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-10-04** ｜ ⭐️ **9 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
+
+---
+
+### [jdx/jactionlint](https://github.com/jdx/jactionlint)
+
+🗓 **2026-10-04** ｜ ⭐️ **4 stars** ｜ 🗂 **Go**
+
+:octocat: Static checker for GitHub Actions workflow files
+
+---
+
+### [HardHeadHackerHead/valheim-mod-manager](https://github.com/HardHeadHackerHead/valheim-mod-manager)
+
+🗓 **2026-10-04** ｜ ⭐️ **3 stars** ｜ 🗂 **C#**
+
+In-game Valheim mod manager (BepInEx): browse, install and update mods from GitHub repos. Press F7.
+
+---
+
+### [agnavebrendon8-debug/OUR_FABLAB](https://github.com/agnavebrendon8-debug/OUR_FABLAB)
+
+🗓 **2026-10-04** ｜ ⭐️ **3 stars** ｜ 🗂 **CSS**
+
+暂无描述
+
+---
+
+### [lukeyeh/http-fiber](https://github.com/lukeyeh/http-fiber)
+
+🗓 **2026-10-04** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+
+A small HTTP/1.1 server that serves each connection in a Gloop fiber
 
 ---
 
