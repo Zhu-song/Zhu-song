@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [bpinheiroms/open-apuracao-brazil](https://github.com/bpinheiroms/open-apuracao-brazil)
+### [0xgetz/tokenharbor-bulk-creator](https://github.com/0xgetz/tokenharbor-bulk-creator)
 
-🗓 **2026-10-04** ｜ ⭐️ **9 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-10-05** ｜ ⭐️ **17 stars** ｜ 🗂 **JavaScript**
 
-暂无描述
-
----
-
-### [jdx/jactionlint](https://github.com/jdx/jactionlint)
-
-🗓 **2026-10-04** ｜ ⭐️ **4 stars** ｜ 🗂 **Go**
-
-:octocat: Static checker for GitHub Actions workflow files
+Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable inboxes. Playwright-driven, MIT, no CI.
 
 ---
 
-### [HardHeadHackerHead/valheim-mod-manager](https://github.com/HardHeadHackerHead/valheim-mod-manager)
+### [alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill)
 
-🗓 **2026-10-04** ｜ ⭐️ **3 stars** ｜ 🗂 **C#**
+🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-In-game Valheim mod manager (BepInEx): browse, install and update mods from GitHub repos. Press F7.
-
----
-
-### [agnavebrendon8-debug/OUR_FABLAB](https://github.com/agnavebrendon8-debug/OUR_FABLAB)
-
-🗓 **2026-10-04** ｜ ⭐️ **3 stars** ｜ 🗂 **CSS**
-
-暂无描述
+Enterprise Multi-Speaker Meeting Action Item Extractor & WeChat Work Task Dispatcher. Analyzes conversational meeting transcripts from Tencent Meeting, Zoom, and Teams, extracts explicit commitments, dates, and assignees, performs Eisenhower urgency-importance matrix prioritization, and formats collaborative task cards.
 
 ---
 
-### [lukeyeh/http-fiber](https://github.com/lukeyeh/http-fiber)
+### [Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)
 
-🗓 **2026-10-04** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-A small HTTP/1.1 server that serves each connection in a Gloop fiber
+Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
+
+---
+
+### [Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill](https://github.com/Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill)
+
+🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts
+
+---
+
+### [alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)
+
+🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
 
 ---
 
