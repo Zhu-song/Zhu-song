@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [0xgetz/tokenharbor-bulk-creator](https://github.com/0xgetz/tokenharbor-bulk-creator)
+### [HestSI/docs](https://github.com/HestSI/docs)
 
-🗓 **2026-10-05** ｜ ⭐️ **17 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-10-06** ｜ ⭐️ **22 stars** ｜ 🗂 **未知**
 
-Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable inboxes. Playwright-driven, MIT, no CI.
-
----
-
-### [alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill)
-
-🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Enterprise Multi-Speaker Meeting Action Item Extractor & WeChat Work Task Dispatcher. Analyzes conversational meeting transcripts from Tencent Meeting, Zoom, and Teams, extracts explicit commitments, dates, and assignees, performs Eisenhower urgency-importance matrix prioritization, and formats collaborative task cards.
+Documentation for Hest, perpetuals with Super Intelligence. Published at docs.hest.si
 
 ---
 
-### [Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/Alpha-Park/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)
+### [TekRantGaming/earthworm-jim-hd-recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled)
 
-🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-06** ｜ ⭐️ **10 stars** ｜ 🗂 **C++**
 
-Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
-
----
-
-### [Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill](https://github.com/Alpha-Park/genpark-multimodal-video-clip-semantic-segmentation-skill)
-
-🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts
+Native PC port of Earthworm Jim HD (Xbox Live Arcade) via static recompilation, with the TRG launcher
 
 ---
 
-### [alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill](https://github.com/alphaparkinc/genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill)
+### [soumatheusgomes/framework-5p](https://github.com/soumatheusgomes/framework-5p)
 
-🗓 **2026-10-05** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-06** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
 
-Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns
+Framework 5P: cinco passos para a oferta ideal e para escala. Workflow e prompt guiado para usar com IA.
+
+---
+
+### [mingfeng87/Fractional-De-Giorgi-Conjecture-N-4](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-N-4)
+
+🗓 **2026-10-06** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+Through AI training, our team proved all remaining cases of the fractional De Giorgi conjecture in dimension 4:  0<s<1/2 and  1/2<s<1.
+
+---
+
+### [vitoriazoche/PurpleMap](https://github.com/vitoriazoche/PurpleMap)
+
+🗓 **2026-10-06** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
+
+Role os dados, aprenda techs e complete 3 trilhas para virar referência.
 
 ---
 
