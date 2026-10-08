@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [HestSI/docs](https://github.com/HestSI/docs)
+### [just-be-dev/effect-cloudflare-foldkit-template](https://github.com/just-be-dev/effect-cloudflare-foldkit-template)
 
-🗓 **2026-10-06** ｜ ⭐️ **22 stars** ｜ 🗂 **未知**
+🗓 **2026-10-07** ｜ ⭐️ **10 stars** ｜ 🗂 **TypeScript**
 
-Documentation for Hest, perpetuals with Super Intelligence. Published at docs.hest.si
-
----
-
-### [TekRantGaming/earthworm-jim-hd-recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled)
-
-🗓 **2026-10-06** ｜ ⭐️ **10 stars** ｜ 🗂 **C++**
-
-Native PC port of Earthworm Jim HD (Xbox Live Arcade) via static recompilation, with the TRG launcher
+Reusable organization, tooling, and guardrails for Effect 4, Foldkit, Bun/mise, and Alchemy 2 on Cloudflare
 
 ---
 
-### [soumatheusgomes/framework-5p](https://github.com/soumatheusgomes/framework-5p)
+### [maow318/simhubforum](https://github.com/maow318/simhubforum)
 
-🗓 **2026-10-06** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+🗓 **2026-10-07** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
 
-Framework 5P: cinco passos para a oferta ideal e para escala. Workflow e prompt guiado para usar com IA.
-
----
-
-### [mingfeng87/Fractional-De-Giorgi-Conjecture-N-4](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-N-4)
-
-🗓 **2026-10-06** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-Through AI training, our team proved all remaining cases of the fractional De Giorgi conjecture in dimension 4:  0<s<1/2 and  1/2<s<1.
+simhub全家桶下载
 
 ---
 
-### [vitoriazoche/PurpleMap](https://github.com/vitoriazoche/PurpleMap)
+### [cporter202/viralwave-studio-guide](https://github.com/cporter202/viralwave-studio-guide)
 
-🗓 **2026-10-06** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-07** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
 
-Role os dados, aprenda techs e complete 3 trilhas para virar referência.
+The complete guide to ViralWave Studio: put your social media content on autopilot. Setup walkthrough, features, brand voice, review workflow, AI agent integrations, plans, and FAQ.
+
+---
+
+### [sanguneo/rabbitholeguard](https://github.com/sanguneo/rabbitholeguard)
+
+🗓 **2026-10-07** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+AI 코딩 에이전트 목표 이탈·무한 루프 방지 및 원래 작업 복귀 표준 스킬
+
+---
+
+### [revfactory/showreel](https://github.com/revfactory/showreel)
+
+🗓 **2026-10-07** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+Claude Code skill that produces Korean motion-graphics videos end to end: brief, research, script, ElevenLabs narration, music, images, deterministic HTML render, mix and automated QA.
 
 ---
 
