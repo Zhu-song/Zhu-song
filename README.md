@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [just-be-dev/effect-cloudflare-foldkit-template](https://github.com/just-be-dev/effect-cloudflare-foldkit-template)
+### [VanquisherFoyer/cs2](https://github.com/VanquisherFoyer/cs2)
 
-🗓 **2026-10-07** ｜ ⭐️ **10 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-08** ｜ ⭐️ **20 stars** ｜ 🗂 **HTML**
 
-Reusable organization, tooling, and guardrails for Effect 4, Foldkit, Bun/mise, and Alchemy 2 on Cloudflare
-
----
-
-### [maow318/simhubforum](https://github.com/maow318/simhubforum)
-
-🗓 **2026-10-07** ｜ ⭐️ **10 stars** ｜ 🗂 **未知**
-
-simhub全家桶下载
+🔥 CS2-Skin-Changer-2026
 
 ---
 
-### [cporter202/viralwave-studio-guide](https://github.com/cporter202/viralwave-studio-guide)
+### [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX)
 
-🗓 **2026-10-07** ｜ ⭐️ **8 stars** ｜ 🗂 **未知**
+🗓 **2026-10-08** ｜ ⭐️ **13 stars** ｜ 🗂 **Go**
 
-The complete guide to ViralWave Studio: put your social media content on autopilot. Setup walkthrough, features, brand voice, review workflow, AI agent integrations, plans, and FAQ.
-
----
-
-### [sanguneo/rabbitholeguard](https://github.com/sanguneo/rabbitholeguard)
-
-🗓 **2026-10-07** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-AI 코딩 에이전트 목표 이탈·무한 루프 방지 및 원래 작업 복귀 표준 스킬
+Autumn-27/ARTEX 二开
 
 ---
 
-### [revfactory/showreel](https://github.com/revfactory/showreel)
+### [shu-admin/paper_reading_skill](https://github.com/shu-admin/paper_reading_skill)
 
-🗓 **2026-10-07** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-10-08** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-Claude Code skill that produces Korean motion-graphics videos end to end: brief, research, script, ElevenLabs narration, music, images, deterministic HTML render, mix and automated QA.
+暂无描述
+
+---
+
+### [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity)
+
+🗓 **2026-10-08** ｜ ⭐️ **6 stars** ｜ 🗂 **C#**
+
+Inverse kinematics solvers and joint constraints for Unity.
+
+---
+
+### [fairdataihub/bunny-s3-r2-backup](https://github.com/fairdataihub/bunny-s3-r2-backup)
+
+🗓 **2026-10-08** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+
+Automate backup of you bunny s3 compatible container to aws/s3 or cloudflare r2
 
 ---
 
