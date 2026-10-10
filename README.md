@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [VanquisherFoyer/cs2](https://github.com/VanquisherFoyer/cs2)
+### [updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected)
 
-🗓 **2026-10-08** ｜ ⭐️ **20 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-09** ｜ ⭐️ **61 stars** ｜ 🗂 **未知**
 
-🔥 CS2-Skin-Changer-2026
-
----
-
-### [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX)
-
-🗓 **2026-10-08** ｜ ⭐️ **13 stars** ｜ 🗂 **Go**
-
-Autumn-27/ARTEX 二开
+Wuthering Waves Multihack
 
 ---
 
-### [shu-admin/paper_reading_skill](https://github.com/shu-admin/paper_reading_skill)
+### [Shapefiupgrade/PUBG-Scripts-External-2026-UD](https://github.com/Shapefiupgrade/PUBG-Scripts-External-2026-UD)
 
-🗓 **2026-10-08** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+🗓 **2026-10-09** ｜ ⭐️ **61 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity)
-
-🗓 **2026-10-08** ｜ ⭐️ **6 stars** ｜ 🗂 **C#**
-
-Inverse kinematics solvers and joint constraints for Unity.
+A powerful private PUBG cheat featuring an advanced aimbot, full ESP for players and loot, and real-time radar. Enhance your gameplay with user-friendly settings and improved visibility options
 
 ---
 
-### [fairdataihub/bunny-s3-r2-backup](https://github.com/fairdataihub/bunny-s3-r2-backup)
+### [closofdev/tts-testings](https://github.com/closofdev/tts-testings)
 
-🗓 **2026-10-08** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-09** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
-Automate backup of you bunny s3 compatible container to aws/s3 or cloudflare r2
+Tested AI Voice, turning text into voice
+
+---
+
+### [Blackfrost-AI/GLM-5.3-DWM32-A2.2-Recipe](https://github.com/Blackfrost-AI/GLM-5.3-DWM32-A2.2-Recipe)
+
+🗓 **2026-10-09** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+Apache-2.0 exact-method recipe for non-Flash GLM-5.3 BF16 DWM32 alpha 2.2
+
+---
+
+### [yftu/mcd-triple-target](https://github.com/yftu/mcd-triple-target)
+
+🗓 **2026-10-09** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+基于麦当劳官方 MCP 的三目标配餐优化 Skill（热量/蛋白质/预算），含 MCP 响应解包与 toon 解析完整实现
 
 ---
 
