@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected)
+### [Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill](https://github.com/Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill)
 
-🗓 **2026-10-09** ｜ ⭐️ **61 stars** ｜ 🗂 **未知**
+🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Wuthering Waves Multihack
-
----
-
-### [Shapefiupgrade/PUBG-Scripts-External-2026-UD](https://github.com/Shapefiupgrade/PUBG-Scripts-External-2026-UD)
-
-🗓 **2026-10-09** ｜ ⭐️ **61 stars** ｜ 🗂 **未知**
-
-A powerful private PUBG cheat featuring an advanced aimbot, full ESP for players and loot, and real-time radar. Enhance your gameplay with user-friendly settings and improved visibility options
+Tracks multi-step reasoning chains, supports branching hypotheses, and prunes dead-end thought paths
 
 ---
 
-### [closofdev/tts-testings](https://github.com/closofdev/tts-testings)
+### [alphaparkinc/genpark-cross-app-event-trigger-and-state-machine-orchestrator-skill](https://github.com/alphaparkinc/genpark-cross-app-event-trigger-and-state-machine-orchestrator-skill)
 
-🗓 **2026-10-09** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Tested AI Voice, turning text into voice
-
----
-
-### [Blackfrost-AI/GLM-5.3-DWM32-A2.2-Recipe](https://github.com/Blackfrost-AI/GLM-5.3-DWM32-A2.2-Recipe)
-
-🗓 **2026-10-09** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-Apache-2.0 exact-method recipe for non-Flash GLM-5.3 BF16 DWM32 alpha 2.2
+Evaluates incoming webhook events and advances deterministic cross-app workflow states
 
 ---
 
-### [yftu/mcd-triple-target](https://github.com/yftu/mcd-triple-target)
+### [alphaparkinc/genpark-automated-social-engagement-and-brand-audit-engine-skill](https://github.com/alphaparkinc/genpark-automated-social-engagement-and-brand-audit-engine-skill)
 
-🗓 **2026-10-09** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-基于麦当劳官方 MCP 的三目标配餐优化 Skill（热量/蛋白质/预算），含 MCP 响应解包与 toon 解析完整实现
+Audits brand social metrics, engagement velocity, and identifies content gaps automatically
+
+---
+
+### [alphaparkinc/genpark-mcp-tool-description-injection-and-exfiltration-scanner-skill](https://github.com/alphaparkinc/genpark-mcp-tool-description-injection-and-exfiltration-scanner-skill)
+
+🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Scans MCP tool schemas and descriptions for prompt injection, tool shadowing, and data exfiltration vectors
+
+---
+
+### [alphaparkinc/genpark-dynamic-landing-page-personalization-and-ab-optimizer-skill](https://github.com/alphaparkinc/genpark-dynamic-landing-page-personalization-and-ab-optimizer-skill)
+
+🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Dynamically tailors hero copy, social proof, and CTA variants based on visitor UTM referrer and ICP segment
 
 ---
 
