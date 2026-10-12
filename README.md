@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill](https://github.com/Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill)
+### [BasinShaperKiln/rtd](https://github.com/BasinShaperKiln/rtd)
 
-🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-11** ｜ ⭐️ **50 stars** ｜ 🗂 **HTML**
 
-Tracks multi-step reasoning chains, supports branching hypotheses, and prunes dead-end thought paths
-
----
-
-### [alphaparkinc/genpark-cross-app-event-trigger-and-state-machine-orchestrator-skill](https://github.com/alphaparkinc/genpark-cross-app-event-trigger-and-state-machine-orchestrator-skill)
-
-🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Evaluates incoming webhook events and advances deterministic cross-app workflow states
+🔥 pubg-cheats-hacks 🔥
 
 ---
 
-### [alphaparkinc/genpark-automated-social-engagement-and-brand-audit-engine-skill](https://github.com/alphaparkinc/genpark-automated-social-engagement-and-brand-audit-engine-skill)
+### [RimArchitect/rdd](https://github.com/RimArchitect/rdd)
 
-🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-11** ｜ ⭐️ **50 stars** ｜ 🗂 **HTML**
 
-Audits brand social metrics, engagement velocity, and identifies content gaps automatically
-
----
-
-### [alphaparkinc/genpark-mcp-tool-description-injection-and-exfiltration-scanner-skill](https://github.com/alphaparkinc/genpark-mcp-tool-description-injection-and-exfiltration-scanner-skill)
-
-🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Scans MCP tool schemas and descriptions for prompt injection, tool shadowing, and data exfiltration vectors
+🔥 pubg-cheats-mod-menu 🔥
 
 ---
 
-### [alphaparkinc/genpark-dynamic-landing-page-personalization-and-ab-optimizer-skill](https://github.com/alphaparkinc/genpark-dynamic-landing-page-personalization-and-ab-optimizer-skill)
+### [erbi112211-boop/aveva-marine-dev-skill](https://github.com/erbi112211-boop/aveva-marine-dev-skill)
 
-🗓 **2026-10-10** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-11** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Dynamically tailors hero copy, social proof, and CTA variants based on visitor UTM referrer and ICP segment
+AVEVA Marine (PDMS) 12.1 SP4 二次开发全栈知识库技能:17 卷穷举命令参考+审计工具+端到端模板 | Full-stack dev knowledge base for AVEVA Marine customization (PML/.NET/marAPI/Vitesse)
+
+---
+
+### [a-samy-consultancy/claude-code-setup-kit](https://github.com/a-samy-consultancy/claude-code-setup-kit)
+
+🗓 **2026-10-11** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+
+Turn Claude Code into a disciplined build team in 10 minutes. One file, any project. Built by Abdo Samy.
+
+---
+
+### [zrdep/alienzinhos](https://github.com/zrdep/alienzinhos)
+
+🗓 **2026-10-11** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
+
+Avatares de alien em pixel art gerados a partir de qualquer texto
 
 ---
 
