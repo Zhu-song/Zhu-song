@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [BasinShaperKiln/rtd](https://github.com/BasinShaperKiln/rtd)
+### [ns2250225/guangzhou](https://github.com/ns2250225/guangzhou)
 
-🗓 **2026-10-11** ｜ ⭐️ **50 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-12** ｜ ⭐️ **27 stars** ｜ 🗂 **JavaScript**
 
-🔥 pubg-cheats-hacks 🔥
-
----
-
-### [RimArchitect/rdd](https://github.com/RimArchitect/rdd)
-
-🗓 **2026-10-11** ｜ ⭐️ **50 stars** ｜ 🗂 **HTML**
-
-🔥 pubg-cheats-mod-menu 🔥
+广州旅游观光小游戏
 
 ---
 
-### [erbi112211-boop/aveva-marine-dev-skill](https://github.com/erbi112211-boop/aveva-marine-dev-skill)
+### [JuniverseLi/minidance](https://github.com/JuniverseLi/minidance)
 
-🗓 **2026-10-11** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-12** ｜ ⭐️ **21 stars** ｜ 🗂 **Python**
 
-AVEVA Marine (PDMS) 12.1 SP4 二次开发全栈知识库技能:17 卷穷举命令参考+审计工具+端到端模板 | Full-stack dev knowledge base for AVEVA Marine customization (PML/.NET/marAPI/Vitesse)
-
----
-
-### [a-samy-consultancy/claude-code-setup-kit](https://github.com/a-samy-consultancy/claude-code-setup-kit)
-
-🗓 **2026-10-11** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
-
-Turn Claude Code into a disciplined build team in 10 minutes. One file, any project. Built by Abdo Samy.
+Train a small text-to-video model from scratch on nature scenery (WIP)
 
 ---
 
-### [zrdep/alienzinhos](https://github.com/zrdep/alienzinhos)
+### [youyinchenxi/mcd-tablemate](https://github.com/youyinchenxi/mcd-tablemate)
 
-🗓 **2026-10-11** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-12** ｜ ⭐️ **12 stars** ｜ 🗂 **Python**
 
-Avatares de alien em pixel art gerados a partir de qualquer texto
+麦桌搭子：协调2–6人的口味和预算，用麦当劳MCP核验整单价格，改单后重新规划。
+
+---
+
+### [Jonhline/OpenGT4](https://github.com/Jonhline/OpenGT4)
+
+🗓 **2026-10-12** ｜ ⭐️ **7 stars** ｜ 🗂 **C**
+
+Unofficial native PC port of Gran Turismo 4, reimplemented in C. Bring your own disc.
+
+---
+
+### [maitheduy/MakesLectures](https://github.com/maitheduy/MakesLectures)
+
+🗓 **2026-10-12** ｜ ⭐️ **5 stars** ｜ 🗂 **HTML**
+
+暂无描述
 
 ---
 
