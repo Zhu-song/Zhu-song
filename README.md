@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ns2250225/guangzhou](https://github.com/ns2250225/guangzhou)
+### [yxhpy/qwen3.8-flash-next-local-deploy](https://github.com/yxhpy/qwen3.8-flash-next-local-deploy)
 
-🗓 **2026-10-12** ｜ ⭐️ **27 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-10-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
 
-广州旅游观光小游戏
-
----
-
-### [JuniverseLi/minidance](https://github.com/JuniverseLi/minidance)
-
-🗓 **2026-10-12** ｜ ⭐️ **21 stars** ｜ 🗂 **Python**
-
-Train a small text-to-video model from scratch on nature scenery (WIP)
+Qwen3.8-Flash-Next (125B MoE) 单卡 16G 本地部署实测：Strata + GSQ-RCO IQ3_XXS，Ubuntu 24.04
 
 ---
 
-### [youyinchenxi/mcd-tablemate](https://github.com/youyinchenxi/mcd-tablemate)
+### [sudarshanregmi/MontageFlow](https://github.com/sudarshanregmi/MontageFlow)
 
-🗓 **2026-10-12** ｜ ⭐️ **12 stars** ｜ 🗂 **Python**
+🗓 **2026-10-13** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-麦桌搭子：协调2–6人的口味和预算，用麦当劳MCP核验整单价格，改单后重新规划。
-
----
-
-### [Jonhline/OpenGT4](https://github.com/Jonhline/OpenGT4)
-
-🗓 **2026-10-12** ｜ ⭐️ **7 stars** ｜ 🗂 **C**
-
-Unofficial native PC port of Gran Turismo 4, reimplemented in C. Bring your own disc.
+Code for arXiv 2610.14507 preprint: "MontageFlow: Physically Valid High Fidelity EEG Generation"
 
 ---
 
-### [maitheduy/MakesLectures](https://github.com/maitheduy/MakesLectures)
+### [jonghaepark/c-slerp](https://github.com/jonghaepark/c-slerp)
 
-🗓 **2026-10-12** ｜ ⭐️ **5 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-13** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-暂无描述
+Hyperspherical Contrastive Representations Unlock Planning and Exploration
+
+---
+
+### [jch497/mcd-group-meal-captain](https://github.com/jch497/mcd-group-meal-captain)
+
+🗓 **2026-10-13** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+
+基于麦当劳 MCP（beType=6 企业团餐）的团餐决策 Skill：阶梯折扣临界补差寻优 + 助餐服务硬约束校验。标准库零依赖，含 14 个测试与离线演示。
+
+---
+
+### [devbluen/audio-cast](https://github.com/devbluen/audio-cast)
+
+🗓 **2026-10-13** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+
+Make adding music to your SA:MP server easier.
 
 ---
 
