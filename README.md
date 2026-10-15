@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [yxhpy/qwen3.8-flash-next-local-deploy](https://github.com/yxhpy/qwen3.8-flash-next-local-deploy)
+### [GhostParakeet/deadlock-tool](https://github.com/GhostParakeet/deadlock-tool)
 
-🗓 **2026-10-13** ｜ ⭐️ **9 stars** ｜ 🗂 **未知**
+🗓 **2026-10-14** ｜ ⭐️ **84 stars** ｜ 🗂 **未知**
 
-Qwen3.8-Flash-Next (125B MoE) 单卡 16G 本地部署实测：Strata + GSQ-RCO IQ3_XXS，Ubuntu 24.04
-
----
-
-### [sudarshanregmi/MontageFlow](https://github.com/sudarshanregmi/MontageFlow)
-
-🗓 **2026-10-13** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-Code for arXiv 2610.14507 preprint: "MontageFlow: Physically Valid High Fidelity EEG Generation"
+Bypassing deadlocks without vacating threads in concurrent systems
 
 ---
 
-### [jonghaepark/c-slerp](https://github.com/jonghaepark/c-slerp)
+### [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)
 
-🗓 **2026-10-13** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-10-14** ｜ ⭐️ **15 stars** ｜ 🗂 **C++**
 
-Hyperspherical Contrastive Representations Unlock Planning and Exploration
-
----
-
-### [jch497/mcd-group-meal-captain](https://github.com/jch497/mcd-group-meal-captain)
-
-🗓 **2026-10-13** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
-
-基于麦当劳 MCP（beType=6 企业团餐）的团餐决策 Skill：阶梯折扣临界补差寻优 + 助餐服务硬约束校验。标准库零依赖，含 14 个测试与离线演示。
+Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
 
 ---
 
-### [devbluen/audio-cast](https://github.com/devbluen/audio-cast)
+### [adrian-perry-22/claude-code-free-usage](https://github.com/adrian-perry-22/claude-code-free-usage)
 
-🗓 **2026-10-13** ｜ ⭐️ **2 stars** ｜ 🗂 **C++**
+🗓 **2026-10-14** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
 
-Make adding music to your SA:MP server easier.
+nofficial Claude Code toolkit — explore Anthropic API routing, load balancing patterns, and multi-key orchestration. Educational project for API architecture research.
+
+---
+
+### [adrigordon-81/chatgpt-codex-free-api-pool](https://github.com/adrigordon-81/chatgpt-codex-free-api-pool)
+
+🗓 **2026-10-14** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
+
+ChatGPT session architecture lab — distributed session pooling patterns, cookie management strategies, and web auth flow analysis. Browser security research.
+
+---
+
+### [adamallen769/codex-bypass-free](https://github.com/adamallen769/codex-bypass-free)
+
+🗓 **2026-10-14** ｜ ⭐️ **11 stars** ｜ 🗂 **C++**
+
+OpenAI API proxy playground — reverse engineering enterprise SSO flows, token management patterns, and distributed quota allocation. For API integration research.
 
 ---
 
