@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [GhostParakeet/deadlock-tool](https://github.com/GhostParakeet/deadlock-tool)
+### [bisimulationn/ssasem](https://github.com/bisimulationn/ssasem)
 
-🗓 **2026-10-14** ｜ ⭐️ **84 stars** ｜ 🗂 **未知**
+🗓 **2026-10-15** ｜ ⭐️ **7 stars** ｜ 🗂 **Lean**
 
-Bypassing deadlocks without vacating threads in concurrent systems
-
----
-
-### [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)
-
-🗓 **2026-10-14** ｜ ⭐️ **15 stars** ｜ 🗂 **C++**
-
-Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
+SSA operational semantics + metatheory mechanised in Lean 4 with a provably sound interpreter
 
 ---
 
-### [adrian-perry-22/claude-code-free-usage](https://github.com/adrian-perry-22/claude-code-free-usage)
+### [SatyPardus/wowdecomp15595](https://github.com/SatyPardus/wowdecomp15595)
 
-🗓 **2026-10-14** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
+🗓 **2026-10-15** ｜ ⭐️ **4 stars** ｜ 🗂 **C++**
 
-nofficial Claude Code toolkit — explore Anthropic API routing, load balancing patterns, and multi-key orchestration. Educational project for API architecture research.
-
----
-
-### [adrigordon-81/chatgpt-codex-free-api-pool](https://github.com/adrigordon-81/chatgpt-codex-free-api-pool)
-
-🗓 **2026-10-14** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
-
-ChatGPT session architecture lab — distributed session pooling patterns, cookie management strategies, and web auth flow analysis. Browser security research.
+暂无描述
 
 ---
 
-### [adamallen769/codex-bypass-free](https://github.com/adamallen769/codex-bypass-free)
+### [0xgetz/ptero-bulk-9router](https://github.com/0xgetz/ptero-bulk-9router)
 
-🗓 **2026-10-14** ｜ ⭐️ **11 stars** ｜ 🗂 **C++**
+🗓 **2026-10-15** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-OpenAI API proxy playground — reverse engineering enterprise SSO flows, token management patterns, and distributed quota allocation. For API integration research.
+Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.
+
+---
+
+### [cmu-l3/reuF2F](https://github.com/cmu-l3/reuF2F)
+
+🗓 **2026-10-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Lean**
+
+ReuF2F: Benchmarking coding agents on formalized undergraduate research problems
+
+---
+
+### [hamidah-midah/fortofoliomuslimah](https://github.com/hamidah-midah/fortofoliomuslimah)
+
+🗓 **2026-10-15** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+
+baru pertama kali belajar html
 
 ---
 
