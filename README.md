@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [bisimulationn/ssasem](https://github.com/bisimulationn/ssasem)
+### [yimingy72/shen-scan](https://github.com/yimingy72/shen-scan)
 
-🗓 **2026-10-15** ｜ ⭐️ **7 stars** ｜ 🗂 **Lean**
+🗓 **2026-10-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Go**
 
-SSA operational semantics + metatheory mechanised in Lean 4 with a provably sound interpreter
+SHEN：基于 Go 和阿里云抢占式实例的分布式 TCP 全端口扫描与 HTTP 指纹识别平台
 
 ---
 
-### [SatyPardus/wowdecomp15595](https://github.com/SatyPardus/wowdecomp15595)
+### [tinoy12346789/eq-visualizer](https://github.com/tinoy12346789/eq-visualizer)
 
-🗓 **2026-10-15** ｜ ⭐️ **4 stars** ｜ 🗂 **C++**
+🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Swift**
+
+Native macOS audio visualizer for everything your Mac plays: Spotify, browsers, games. Nine live interfaces (spectrum, radial, oscilloscope, spectrogram, vectorscope, ridgeline and more), tunable FFT and render quality, plus a built-in performance monitor and benchmark. Pure Swift, one file, no dependencies. Nothing is recorded.
+
+---
+
+### [JukisYuri/Group4_Test](https://github.com/JukisYuri/Group4_Test)
+
+🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
 暂无描述
 
 ---
 
-### [0xgetz/ptero-bulk-9router](https://github.com/0xgetz/ptero-bulk-9router)
+### [brunotridapalli/altasmetalurgica-amostra](https://github.com/brunotridapalli/altasmetalurgica-amostra)
 
-🗓 **2026-10-15** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
-Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.
-
----
-
-### [cmu-l3/reuF2F](https://github.com/cmu-l3/reuF2F)
-
-🗓 **2026-10-15** ｜ ⭐️ **3 stars** ｜ 🗂 **Lean**
-
-ReuF2F: Benchmarking coding agents on formalized undergraduate research problems
+Site criado por mim utilizando inteligencia artifical. Apresentando um pouco do meu trabalho.
 
 ---
 
-### [hamidah-midah/fortofoliomuslimah](https://github.com/hamidah-midah/fortofoliomuslimah)
+### [kane0204/CodeLens](https://github.com/kane0204/CodeLens)
 
-🗓 **2026-10-15** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
 
-baru pertama kali belajar html
+面向编程初学者的引导式代码学习平台
 
 ---
 
