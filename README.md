@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [yimingy72/shen-scan](https://github.com/yimingy72/shen-scan)
+### [abstractpbc/abstract](https://github.com/abstractpbc/abstract)
 
-🗓 **2026-10-16** ｜ ⭐️ **3 stars** ｜ 🗂 **Go**
+🗓 **2026-10-17** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
 
-SHEN：基于 Go 和阿里云抢占式实例的分布式 TCP 全端口扫描与 HTTP 指纹识别平台
-
----
-
-### [tinoy12346789/eq-visualizer](https://github.com/tinoy12346789/eq-visualizer)
-
-🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **Swift**
-
-Native macOS audio visualizer for everything your Mac plays: Spotify, browsers, games. Nine live interfaces (spectrum, radial, oscilloscope, spectrogram, vectorscope, ridgeline and more), tunable FFT and render quality, plus a built-in performance monitor and benchmark. Pure Swift, one file, no dependencies. Nothing is recorded.
+Robot policy harness: evals, supervised execution, approval chain, embodiment adapter, CLI
 
 ---
 
-### [JukisYuri/Group4_Test](https://github.com/JukisYuri/Group4_Test)
+### [Yowlry/Fourier-Signal-Synthesizer](https://github.com/Yowlry/Fourier-Signal-Synthesizer)
 
-🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-10-17** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
 
-暂无描述
-
----
-
-### [brunotridapalli/altasmetalurgica-amostra](https://github.com/brunotridapalli/altasmetalurgica-amostra)
-
-🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
-
-Site criado por mim utilizando inteligencia artifical. Apresentando um pouco do meu trabalho.
+Interactive phase interference & stacked spectrum analysis. Sum individual harmonic sine waves to observe time-domain synthesis and frequency domain overlay.
 
 ---
 
-### [kane0204/CodeLens](https://github.com/kane0204/CodeLens)
+### [haoyudai410-rgb/OCS-DeepseekAI](https://github.com/haoyudai410-rgb/OCS-DeepseekAI)
 
-🗓 **2026-10-16** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+🗓 **2026-10-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
 
-面向编程初学者的引导式代码学习平台
+本地小服务：给 OCS 题库插件提供 AI 答题接口。联网搜资料 + DeepSeek 两遍独立作答互校，不一致自动终审，结果本地缓存。纯 Python 标准库，零依赖。
+
+---
+
+### [ftnick/pinpurity](https://github.com/ftnick/pinpurity)
+
+🗓 **2026-10-17** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
+
+Prevent as much AI content on pinterest
+
+---
+
+### [eggadventures/Moonberrysourcreamapple](https://github.com/eggadventures/Moonberrysourcreamapple)
+
+🗓 **2026-10-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+
+Dandycusfictkin
 
 ---
 
