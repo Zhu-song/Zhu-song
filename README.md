@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [abstractpbc/abstract](https://github.com/abstractpbc/abstract)
+### [soniciso1/ps5-linux-loader](https://github.com/soniciso1/ps5-linux-loader)
 
-🗓 **2026-10-17** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-10-18** ｜ ⭐️ **40 stars** ｜ 🗂 **C**
 
-Robot policy harness: evals, supervised execution, approval chain, embodiment adapter, CLI
-
----
-
-### [Yowlry/Fourier-Signal-Synthesizer](https://github.com/Yowlry/Fourier-Signal-Synthesizer)
-
-🗓 **2026-10-17** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
-
-Interactive phase interference & stacked spectrum analysis. Sum individual harmonic sine waves to observe time-domain synthesis and frequency domain overlay.
+Run Linux on PS5 - with 13.60 support including PS5 Pro (fork of ps5-linux/ps5-linux-loader)
 
 ---
 
-### [haoyudai410-rgb/OCS-DeepseekAI](https://github.com/haoyudai410-rgb/OCS-DeepseekAI)
+### [0xgetz/n33-bulk-9router](https://github.com/0xgetz/n33-bulk-9router)
 
-🗓 **2026-10-17** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-10-18** ｜ ⭐️ **9 stars** ｜ 🗂 **JavaScript**
 
-本地小服务：给 OCS 题库插件提供 AI 答题接口。联网搜资料 + DeepSeek 两遍独立作答互校，不一致自动终审，结果本地缓存。纯 Python 标准库，零依赖。
-
----
-
-### [ftnick/pinpurity](https://github.com/ftnick/pinpurity)
-
-🗓 **2026-10-17** ｜ ⭐️ **2 stars** ｜ 🗂 **JavaScript**
-
-Prevent as much AI content on pinterest
+Zero-dependency Node toolkit: bulk-create n33.ai accounts, harvest session cookies and serve the 10 free models through 9Router as an OpenAI-compatible provider.
 
 ---
 
-### [eggadventures/Moonberrysourcreamapple](https://github.com/eggadventures/Moonberrysourcreamapple)
+### [soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny)
 
-🗓 **2026-10-17** ｜ ⭐️ **1 stars** ｜ 🗂 **未知**
+🗓 **2026-10-18** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
-Dandycusfictkin
+Local video editing through conversation. Created by Matheus Gomes.
+
+---
+
+### [juans-collab/infamous-2-recomp](https://github.com/juans-collab/infamous-2-recomp)
+
+🗓 **2026-10-18** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+Experimental native Windows recompilation research for inFAMOUS 2 (BCUS98125). Not playable. No game files.
+
+---
+
+### [BTWData/pagina-luxan-](https://github.com/BTWData/pagina-luxan-)
+
+🗓 **2026-10-18** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
 
 ---
 
