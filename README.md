@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [soniciso1/ps5-linux-loader](https://github.com/soniciso1/ps5-linux-loader)
+### [ZB10/mcd-macro-coach](https://github.com/ZB10/mcd-macro-coach)
 
-🗓 **2026-10-18** ｜ ⭐️ **40 stars** ｜ 🗂 **C**
+🗓 **2026-10-19** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Run Linux on PS5 - with 13.60 support including PS5 Pro (fork of ps5-linux/ps5-linux-loader)
-
----
-
-### [0xgetz/n33-bulk-9router](https://github.com/0xgetz/n33-bulk-9router)
-
-🗓 **2026-10-18** ｜ ⭐️ **9 stars** ｜ 🗂 **JavaScript**
-
-Zero-dependency Node toolkit: bulk-create n33.ai accounts, harvest session cookies and serve the 10 free models through 9Router as an OpenAI-compatible provider.
+mcd-macro-coach
 
 ---
 
-### [soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny)
+### [Alpha-Park/genpark-tri-state-circuit-breaker-router-skill](https://github.com/Alpha-Park/genpark-tri-state-circuit-breaker-router-skill)
 
-🗓 **2026-10-18** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+🗓 **2026-10-19** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Local video editing through conversation. Created by Matheus Gomes.
-
----
-
-### [juans-collab/infamous-2-recomp](https://github.com/juans-collab/infamous-2-recomp)
-
-🗓 **2026-10-18** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-Experimental native Windows recompilation research for inFAMOUS 2 (BCUS98125). Not playable. No game files.
+Tri-state circuit breaker router managing LLM provider failure cascades, sliding error windows, and half-open probes
 
 ---
 
-### [BTWData/pagina-luxan-](https://github.com/BTWData/pagina-luxan-)
+### [alphaparkinc/genpark-tri-state-circuit-breaker-router-skill](https://github.com/alphaparkinc/genpark-tri-state-circuit-breaker-router-skill)
 
-🗓 **2026-10-18** ｜ ⭐️ **3 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-19** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-暂无描述
+Tri-state circuit breaker router managing LLM provider failure cascades, sliding error windows, and half-open probes
+
+---
+
+### [Tonysk8cr/ProyectoImplementacionManzanilloUH](https://github.com/Tonysk8cr/ProyectoImplementacionManzanilloUH)
+
+🗓 **2026-10-19** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+Repository for the Software Dev course
+
+---
+
+### [Mac-apk/Mac.apk](https://github.com/Mac-apk/Mac.apk)
+
+🗓 **2026-10-19** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+Mac.apk Android apps. Native Mac performance.
 
 ---
 
