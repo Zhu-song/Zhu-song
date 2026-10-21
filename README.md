@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ZB10/mcd-macro-coach](https://github.com/ZB10/mcd-macro-coach)
+### [DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github)
 
-🗓 **2026-10-19** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-20** ｜ ⭐️ **102 stars** ｜ 🗂 **未知**
 
-mcd-macro-coach
-
----
-
-### [Alpha-Park/genpark-tri-state-circuit-breaker-router-skill](https://github.com/Alpha-Park/genpark-tri-state-circuit-breaker-router-skill)
-
-🗓 **2026-10-19** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Tri-state circuit breaker router managing LLM provider failure cascades, sliding error windows, and half-open probes
+DLSS 5 Swapper brings DLSS 5 installation and configuration into one desktop application, so you don't have to manage every game modification by hand. It can detect games from supported libraries, work with manually added game folders, and provide different installation routes depending on the game and its rendering setup.
 
 ---
 
-### [alphaparkinc/genpark-tri-state-circuit-breaker-router-skill](https://github.com/alphaparkinc/genpark-tri-state-circuit-breaker-router-skill)
+### [ZiyuanDu/deepinfer-unpacked](https://github.com/ZiyuanDu/deepinfer-unpacked)
 
-🗓 **2026-10-19** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-20** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
 
-Tri-state circuit breaker router managing LLM provider failure cascades, sliding error windows, and half-open probes
-
----
-
-### [Tonysk8cr/ProyectoImplementacionManzanilloUH](https://github.com/Tonysk8cr/ProyectoImplementacionManzanilloUH)
-
-🗓 **2026-10-19** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-Repository for the Software Dev course
+Bringing thousands of learners together to unpack DeepInfer through peer-reviewed explanations, documentation, and hands-on examples.
 
 ---
 
-### [Mac-apk/Mac.apk](https://github.com/Mac-apk/Mac.apk)
+### [ilAoC/mcd-gacha-collector](https://github.com/ilAoC/mcd-gacha-collector)
 
-🗓 **2026-10-19** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-10-20** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
 
-Mac.apk Android apps. Native Mac performance.
+麦卡收藏家 · 基于麦当劳中国 MCP 的卡牌收集 Skill + 网页版（麦当劳程序员创意开发大赛参赛作品）
+
+---
+
+### [H0nGzA1/agents-view](https://github.com/H0nGzA1/agents-view)
+
+🗓 **2026-10-20** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+Live local tree view of your AI coding agent sessions — Claude Code, Codex, OpenCode, omp, pi
+
+---
+
+### [2k16lyfe/tv-home](https://github.com/2k16lyfe/tv-home)
+
+🗓 **2026-10-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+
+暂无描述
 
 ---
 
