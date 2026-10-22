@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github)
+### [yanstd888/node2mint](https://github.com/yanstd888/node2mint)
 
-🗓 **2026-10-20** ｜ ⭐️ **102 stars** ｜ 🗂 **未知**
+🗓 **2026-10-21** ｜ ⭐️ **7 stars** ｜ 🗂 **TypeScript**
 
-DLSS 5 Swapper brings DLSS 5 installation and configuration into one desktop application, so you don't have to manage every game modification by hand. It can detect games from supported libraries, work with manually added game folders, and provide different installation routes depending on the game and its rendering setup.
-
----
-
-### [ZiyuanDu/deepinfer-unpacked](https://github.com/ZiyuanDu/deepinfer-unpacked)
-
-🗓 **2026-10-20** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
-
-Bringing thousands of learners together to unpack DeepInfer through peer-reviewed explanations, documentation, and hands-on examples.
+Self-hosted AI marketplace, token billing engine, and OpenAI-compatible API gateway with atomic balances, provider failover, and affiliate commission system.
 
 ---
 
-### [ilAoC/mcd-gacha-collector](https://github.com/ilAoC/mcd-gacha-collector)
+### [biyan113/magpie-widget](https://github.com/biyan113/magpie-widget)
 
-🗓 **2026-10-20** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+🗓 **2026-10-21** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
 
-麦卡收藏家 · 基于麦当劳中国 MCP 的卡牌收集 Skill + 网页版（麦当劳程序员创意开发大赛参赛作品）
-
----
-
-### [H0nGzA1/agents-view](https://github.com/H0nGzA1/agents-view)
-
-🗓 **2026-10-20** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-Live local tree view of your AI coding agent sessions — Claude Code, Codex, OpenCode, omp, pi
+原生 macOS AI 用量仪表盘与桌面小组件。只读连接 Magpie。
 
 ---
 
-### [2k16lyfe/tv-home](https://github.com/2k16lyfe/tv-home)
+### [albertoqueiroz333-cyber/rockstar-stats](https://github.com/albertoqueiroz333-cyber/rockstar-stats)
 
-🗓 **2026-10-20** ｜ ⭐️ **2 stars** ｜ 🗂 **Java**
+🗓 **2026-10-21** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
 
-暂无描述
+O Rockstar-Stats é uma aplicação web desenvolvida para coletar e exibir estatísticas de jogadores do ecossistema GTA. O projeto consiste em uma pesquisa realizada através da inserção de dados via formulário no site do projeto, armazenando e processando essas informações de forma persistente.
+
+---
+
+### [paulohkerasz/passaocontrole](https://github.com/paulohkerasz/passaocontrole)
+
+🗓 **2026-10-21** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
+
+"Passa o Controle!" é uma plataforma desktop desenvolvida em C# que transforma a experiência de jogar com amigos em um desafio colaborativo. O aplicativo introduz uma dinâmica de troca periódica de jogos combinada com metas de engajamento em tempo real.
+
+---
+
+### [Videodr0me/MiSTer_Ongo_Isolated](https://github.com/Videodr0me/MiSTer_Ongo_Isolated)
+
+🗓 **2026-10-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+
+Arcade-only Ongo database adapter for MiSTer: separate _Ongo menu, shared ROM folders, normal Update All.
 
 ---
 
