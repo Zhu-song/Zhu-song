@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [yanstd888/node2mint](https://github.com/yanstd888/node2mint)
+### [alphaparkinc/genpark-personal-agent-blood-urea-nitrogen-creatinine-hydration-skill](https://github.com/alphaparkinc/genpark-personal-agent-blood-urea-nitrogen-creatinine-hydration-skill)
 
-🗓 **2026-10-21** ｜ ⭐️ **7 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Self-hosted AI marketplace, token billing engine, and OpenAI-compatible API gateway with atomic balances, provider failover, and affiliate commission system.
-
----
-
-### [biyan113/magpie-widget](https://github.com/biyan113/magpie-widget)
-
-🗓 **2026-10-21** ｜ ⭐️ **3 stars** ｜ 🗂 **Swift**
-
-原生 macOS AI 用量仪表盘与桌面小组件。只读连接 Magpie。
+Blood Urea Nitrogen (BUN) & Creatinine Hydration Status Sentinel Skill for GenPark (https://www.genpark.ai)
 
 ---
 
-### [albertoqueiroz333-cyber/rockstar-stats](https://github.com/albertoqueiroz333-cyber/rockstar-stats)
+### [alphaparkinc/genpark-vector-index-sharding-and-approximate-knn-router-skill](https://github.com/alphaparkinc/genpark-vector-index-sharding-and-approximate-knn-router-skill)
 
-🗓 **2026-10-21** ｜ ⭐️ **3 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-O Rockstar-Stats é uma aplicação web desenvolvida para coletar e exibir estatísticas de jogadores do ecossistema GTA. O projeto consiste em uma pesquisa realizada através da inserção de dados via formulário no site do projeto, armazenando e processando essas informações de forma persistente.
-
----
-
-### [paulohkerasz/passaocontrole](https://github.com/paulohkerasz/passaocontrole)
-
-🗓 **2026-10-21** ｜ ⭐️ **2 stars** ｜ 🗂 **未知**
-
-"Passa o Controle!" é uma plataforma desktop desenvolvida em C# que transforma a experiência de jogar com amigos em um desafio colaborativo. O aplicativo introduz uma dinâmica de troca periódica de jogos combinada com metas de engajamento em tempo real.
+Routes high-dimensional embedding search queries across partitioned vector index shards via centroid hashing | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
 
 ---
 
-### [Videodr0me/MiSTer_Ongo_Isolated](https://github.com/Videodr0me/MiSTer_Ongo_Isolated)
+### [Alpha-Park/genpark-vector-index-sharding-and-approximate-knn-router-skill](https://github.com/Alpha-Park/genpark-vector-index-sharding-and-approximate-knn-router-skill)
 
-🗓 **2026-10-21** ｜ ⭐️ **2 stars** ｜ 🗂 **Python**
+🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Arcade-only Ongo database adapter for MiSTer: separate _Ongo menu, shared ROM folders, normal Update All.
+Routes high-dimensional embedding search queries across partitioned vector index shards via centroid hashing | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+
+---
+
+### [alphaparkinc/genpark-prompt-injection-dual-llm-canary-verifier-skill](https://github.com/alphaparkinc/genpark-prompt-injection-dual-llm-canary-verifier-skill)
+
+🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Verifies untrusted user prompt payloads against adversarial injection attacks using canary tokens and delimiter containment | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+
+---
+
+### [Alpha-Park/genpark-prompt-injection-dual-llm-canary-verifier-skill](https://github.com/Alpha-Park/genpark-prompt-injection-dual-llm-canary-verifier-skill)
+
+🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Verifies untrusted user prompt payloads against adversarial injection attacks using canary tokens and delimiter containment | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
 
 ---
 
