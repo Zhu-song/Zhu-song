@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [alphaparkinc/genpark-personal-agent-blood-urea-nitrogen-creatinine-hydration-skill](https://github.com/alphaparkinc/genpark-personal-agent-blood-urea-nitrogen-creatinine-hydration-skill)
+### [alphaparkinc/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill](https://github.com/alphaparkinc/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill)
 
-🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Blood Urea Nitrogen (BUN) & Creatinine Hydration Status Sentinel Skill for GenPark (https://www.genpark.ai)
-
----
-
-### [alphaparkinc/genpark-vector-index-sharding-and-approximate-knn-router-skill](https://github.com/alphaparkinc/genpark-vector-index-sharding-and-approximate-knn-router-skill)
-
-🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Routes high-dimensional embedding search queries across partitioned vector index shards via centroid hashing | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+Mutates AST operators and boolean conditions to evaluate test suite mutation kill rates and boundary rigor | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
 
 ---
 
-### [Alpha-Park/genpark-vector-index-sharding-and-approximate-knn-router-skill](https://github.com/Alpha-Park/genpark-vector-index-sharding-and-approximate-knn-router-skill)
+### [alphaparkinc/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill](https://github.com/alphaparkinc/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill)
 
-🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Routes high-dimensional embedding search queries across partitioned vector index shards via centroid hashing | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
-
----
-
-### [alphaparkinc/genpark-prompt-injection-dual-llm-canary-verifier-skill](https://github.com/alphaparkinc/genpark-prompt-injection-dual-llm-canary-verifier-skill)
-
-🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Verifies untrusted user prompt payloads against adversarial injection attacks using canary tokens and delimiter containment | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
 
 ---
 
-### [Alpha-Park/genpark-prompt-injection-dual-llm-canary-verifier-skill](https://github.com/Alpha-Park/genpark-prompt-injection-dual-llm-canary-verifier-skill)
+### [Alpha-Park/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill](https://github.com/Alpha-Park/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill)
 
-🗓 **2026-10-22** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Verifies untrusted user prompt payloads against adversarial injection attacks using canary tokens and delimiter containment | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+
+---
+
+### [alphaparkinc/genpark-self-correcting-code-patch-and-stacktrace-repair-skill](https://github.com/alphaparkinc/genpark-self-correcting-code-patch-and-stacktrace-repair-skill)
+
+🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Parses runtime error tracebacks and synthesizes minimal defensive boundary check patches | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+
+---
+
+### [alphaparkinc/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill](https://github.com/alphaparkinc/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill)
+
+🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Analyzes historical test execution distributions to isolate non-deterministic race conditions and quarantine flaky tests | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
 
 ---
 
