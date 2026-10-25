@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [alphaparkinc/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill](https://github.com/alphaparkinc/genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill)
+### [breakbrawlerheart/pixeluxe-ai](https://github.com/breakbrawlerheart/pixeluxe-ai)
 
-🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-24** ｜ ⭐️ **100 stars** ｜ 🗂 **未知**
 
-Mutates AST operators and boolean conditions to evaluate test suite mutation kill rates and boundary rigor | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
-
----
-
-### [alphaparkinc/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill](https://github.com/alphaparkinc/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill)
-
-🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep shadow, magenta light, confident framing — instead of generic model output.
 
 ---
 
-### [Alpha-Park/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill](https://github.com/Alpha-Park/genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill)
+### [aideveloper-web/Free-Deepseek](https://github.com/aideveloper-web/Free-Deepseek)
 
-🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-24** ｜ ⭐️ **94 stars** ｜ 🗂 **未知**
 
-Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
-
----
-
-### [alphaparkinc/genpark-self-correcting-code-patch-and-stacktrace-repair-skill](https://github.com/alphaparkinc/genpark-self-correcting-code-patch-and-stacktrace-repair-skill)
-
-🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Parses runtime error tracebacks and synthesizes minimal defensive boundary check patches | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.
 
 ---
 
-### [alphaparkinc/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill](https://github.com/alphaparkinc/genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill)
+### [Alpha-Park/genpark-realtime-voice-cross-talk-suppressor-skill](https://github.com/Alpha-Park/genpark-realtime-voice-cross-talk-suppressor-skill)
 
-🗓 **2026-10-23** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-24** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Analyzes historical test execution distributions to isolate non-deterministic race conditions and quarantine flaky tests | GenPark: https://www.genpark.ai | LinkedIn: https://www.llinkedin.com/company/92955550
+Full-duplex voice agent echo suppressor distinguishing user barge-in from speaker playback acoustic feedback
+
+---
+
+### [Alpha-Park/genpark-agentic-pricing-discount-waterfall-auditor-skill](https://github.com/Alpha-Park/genpark-agentic-pricing-discount-waterfall-auditor-skill)
+
+🗓 **2026-10-24** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+B2B enterprise CPQ revenue auditor decomposing gross-to-net waterfall discounts and margin leakages
+
+---
+
+### [Alpha-Park/genpark-agent-semantic-cache-query-matcher-skill](https://github.com/Alpha-Park/genpark-agent-semantic-cache-query-matcher-skill)
+
+🗓 **2026-10-24** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Fast semantic query cache with fuzzy term similarity and canonical intent hashing to avoid duplicate LLM invocations and cache prompt responses safely
 
 ---
 
