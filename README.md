@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [l0l-tools/Leauge-Of-Legends-Cheats](https://github.com/l0l-tools/Leauge-Of-Legends-Cheats)
+### [alphaparkinc/genpark-ctrip-itinerary-dag-optimizer-skill](https://github.com/alphaparkinc/genpark-ctrip-itinerary-dag-optimizer-skill)
 
-🗓 **2026-10-25** ｜ ⭐️ **22 stars** ｜ 🗂 **HTML**
+🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-🎯 league-of-legends-cheats-lol-mod-menu-with-hacks-and-cheat 🎯
-
----
-
-### [VenTheZone/pullstack](https://github.com/VenTheZone/pullstack)
-
-🗓 **2026-10-25** ｜ ⭐️ **3 stars** ｜ 🗂 **Shell**
-
-Universal agent skill: compare another project (a repo, or a packaged app with no repo) with yours and port its best features. Licence-aware, read-only, gVisor-sandboxed.
+GenPark Ctrip Itinerary DAG Optimizer - Plans multi-day travel schedules using TSP graph heuristics with fatigue decay and opening hour constraints.
 
 ---
 
-### [felipehez/NebulaViewer](https://github.com/felipehez/NebulaViewer)
+### [alphaparkinc/genpark-ctrip-flight-fare-volatility-forecaster-skill](https://github.com/alphaparkinc/genpark-ctrip-flight-fare-volatility-forecaster-skill)
 
-🗓 **2026-10-25** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-Interactive GPU simulator and volume renderer for star-forming nebulae (NVIDIA Warp): ionization fronts, pillars, bubbles and bipolar nebulae, live.
-
----
-
-### [JUSTRobot-hub/otpal](https://github.com/JUSTRobot-hub/otpal)
-
-🗓 **2026-10-25** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
-
-Private, offline 2FA authenticator for Windows. Import your Google Authenticator accounts once and keep them encrypted on your own PC. No cloud, no account.
+GenPark Ctrip Flight Fare Volatility Forecaster - Predicts airline dynamic ticket fare fluctuations and outputs optimal Buy-Now vs Wait-and-Freeze recommendations.
 
 ---
 
-### [pavja2/smbc-source-oct-2026](https://github.com/pavja2/smbc-source-oct-2026)
+### [Alpha-Park/genpark-ctrip-destination-crowd-density-router-skill](https://github.com/Alpha-Park/genpark-ctrip-destination-crowd-density-router-skill)
 
-🗓 **2026-10-25** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-From the October stealmybitcoin.com challenge. Thanks for playing and see you next time :) 
+GenPark Ctrip Destination Crowd Density Router - Optimizes real-time attraction visitor dispersion and queueing wait times using queuing theory and dynamic heatmap routing.
+
+---
+
+### [alphaparkinc/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill](https://github.com/alphaparkinc/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill)
+
+🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+GenPark Ctrip Hotel Corporate Policy Compliance Auditor - Automates enterprise travel policy validation, rate parity audits, and carbon ESG compliance.
+
+---
+
+### [Alpha-Park/genpark-ctrip-crossborder-visa-entry-rules-engine-skill](https://github.com/Alpha-Park/genpark-ctrip-crossborder-visa-entry-rules-engine-skill)
+
+🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+GenPark Ctrip Cross-Border Visa & Entry Rules Engine - Evaluates passport nationality, transit visa waivers (TWOV), and rolling stay duration rules for multi-hop international journeys.
 
 ---
 
