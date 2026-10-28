@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [alphaparkinc/genpark-ctrip-itinerary-dag-optimizer-skill](https://github.com/alphaparkinc/genpark-ctrip-itinerary-dag-optimizer-skill)
+### [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one)
 
-🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-27** ｜ ⭐️ **190 stars** ｜ 🗂 **TypeScript**
 
-GenPark Ctrip Itinerary DAG Optimizer - Plans multi-day travel schedules using TSP graph heuristics with fatigue decay and opening hour constraints.
-
----
-
-### [alphaparkinc/genpark-ctrip-flight-fare-volatility-forecaster-skill](https://github.com/alphaparkinc/genpark-ctrip-flight-fare-volatility-forecaster-skill)
-
-🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-GenPark Ctrip Flight Fare Volatility Forecaster - Predicts airline dynamic ticket fare fluctuations and outputs optimal Buy-Now vs Wait-and-Freeze recommendations.
+Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu
 
 ---
 
-### [Alpha-Park/genpark-ctrip-destination-crowd-density-router-skill](https://github.com/Alpha-Park/genpark-ctrip-destination-crowd-density-router-skill)
+### [biyan113/cua-cli](https://github.com/biyan113/cua-cli)
 
-🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-27** ｜ ⭐️ **7 stars** ｜ 🗂 **Swift**
 
-GenPark Ctrip Destination Crowd Density Router - Optimizes real-time attraction visitor dispersion and queueing wait times using queuing theory and dynamic heatmap routing.
-
----
-
-### [alphaparkinc/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill](https://github.com/alphaparkinc/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill)
-
-🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-GenPark Ctrip Hotel Corporate Policy Compliance Auditor - Automates enterprise travel policy validation, rate parity audits, and carbon ESG compliance.
+把 Codex 原版 computer-use 运行时做成一个普通命令行工具。
 
 ---
 
-### [Alpha-Park/genpark-ctrip-crossborder-visa-entry-rules-engine-skill](https://github.com/Alpha-Park/genpark-ctrip-crossborder-visa-entry-rules-engine-skill)
+### [TomWang-NPU/MeCo-Hi](https://github.com/TomWang-NPU/MeCo-Hi)
 
-🗓 **2026-10-26** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-10-27** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
-GenPark Ctrip Cross-Border Visa & Entry Rules Engine - Evaluates passport nationality, transit visa waivers (TWOV), and rolling stay duration rules for multi-hop international journeys.
+MeCo-Hi: Enhancing LLM-Empowered Multi-Robot Collaboration via Hierarchical Similarity
+
+---
+
+### [kannarozzi/Riflesso-X](https://github.com/kannarozzi/Riflesso-X)
+
+🗓 **2026-10-27** ｜ ⭐️ **4 stars** ｜ 🗂 **Rust**
+
+Mirror your iPhone, iPad or Mac to a Windows PC over AirPlay. Free, open source, up to 4K.
+
+---
+
+### [rikyrism/Partello](https://github.com/rikyrism/Partello)
+
+🗓 **2026-10-27** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+
+Watch YouTube together, in sync. Self-hostable watch parties with live chat, voice & camera (WebRTC), and a developer API.
 
 ---
 
