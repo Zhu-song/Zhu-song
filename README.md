@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one)
+### [BH-Gong/IMM-SafeAngel](https://github.com/BH-Gong/IMM-SafeAngel)
 
-🗓 **2026-10-27** ｜ ⭐️ **190 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-28** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu
-
----
-
-### [biyan113/cua-cli](https://github.com/biyan113/cua-cli)
-
-🗓 **2026-10-27** ｜ ⭐️ **7 stars** ｜ 🗂 **Swift**
-
-把 Codex 原版 computer-use 运行时做成一个普通命令行工具。
+Industrial noise classification model training and inference code
 
 ---
 
-### [TomWang-NPU/MeCo-Hi](https://github.com/TomWang-NPU/MeCo-Hi)
+### [Guo-HT/SportFitSync](https://github.com/Guo-HT/SportFitSync)
 
-🗓 **2026-10-27** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+🗓 **2026-10-28** ｜ ⭐️ **6 stars** ｜ 🗂 **Kotlin**
 
-MeCo-Hi: Enhancing LLM-Empowered Multi-Robot Collaboration via Hierarchical Similarity
-
----
-
-### [kannarozzi/Riflesso-X](https://github.com/kannarozzi/Riflesso-X)
-
-🗓 **2026-10-27** ｜ ⭐️ **4 stars** ｜ 🗂 **Rust**
-
-Mirror your iPhone, iPad or Mac to a Windows PC over AirPlay. Free, open source, up to 4K.
+安卓端运动数据多端同步APP
 
 ---
 
-### [rikyrism/Partello](https://github.com/rikyrism/Partello)
+### [chartergroup/topopt](https://github.com/chartergroup/topopt)
 
-🗓 **2026-10-27** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-28** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
-Watch YouTube together, in sync. Self-hostable watch parties with live chat, voice & camera (WebRTC), and a developer API.
+Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter printable STL out.
+
+---
+
+### [tianxiao123456/DeepseekHarness-on-Phone](https://github.com/tianxiao123456/DeepseekHarness-on-Phone)
+
+🗓 **2026-10-28** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
+
+该项目可以在手机上调用deepseek harness的历史记录并继续对话，支持局域网/公网链接。 
+
+---
+
+### [jaturapornchai/smlaiaccountuat01](https://github.com/jaturapornchai/smlaiaccountuat01)
+
+🗓 **2026-10-28** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
 
 ---
 
