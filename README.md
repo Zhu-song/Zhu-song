@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [BH-Gong/IMM-SafeAngel](https://github.com/BH-Gong/IMM-SafeAngel)
+### [u762tuvwx/drag-drive-script-exec-hub](https://github.com/u762tuvwx/drag-drive-script-exec-hub)
 
-🗓 **2026-10-28** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+🗓 **2026-10-29** ｜ ⭐️ **29 stars** ｜ 🗂 **HTML**
 
-Industrial noise classification model training and inference code
-
----
-
-### [Guo-HT/SportFitSync](https://github.com/Guo-HT/SportFitSync)
-
-🗓 **2026-10-28** ｜ ⭐️ **6 stars** ｜ 🗂 **Kotlin**
-
-安卓端运动数据多端同步APP
+A 2026 in-browser companion utility for a Roblox drag racing game, delivered as a userscript or console injection with fast toggles for core gameplay helpers and persistent settings.
 
 ---
 
-### [chartergroup/topopt](https://github.com/chartergroup/topopt)
+### [atuinsh/herdr-atuin-threads](https://github.com/atuinsh/herdr-atuin-threads)
 
-🗓 **2026-10-28** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+🗓 **2026-10-29** ｜ ⭐️ **10 stars** ｜ 🗂 **JavaScript**
 
-Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter printable STL out.
-
----
-
-### [tianxiao123456/DeepseekHarness-on-Phone](https://github.com/tianxiao123456/DeepseekHarness-on-Phone)
-
-🗓 **2026-10-28** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
-
-该项目可以在手机上调用deepseek harness的历史记录并继续对话，支持局域网/公网链接。 
+Herdr mod: Atuin threads for the shown space, resumed in a new tab on click
 
 ---
 
-### [jaturapornchai/smlaiaccountuat01](https://github.com/jaturapornchai/smlaiaccountuat01)
+### [Annan-lyn/fudan-exam-paper](https://github.com/Annan-lyn/fudan-exam-paper)
 
-🗓 **2026-10-28** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-10-29** ｜ ⭐️ **8 stars** ｜ 🗂 **HTML**
 
-暂无描述
+复旦大学期中期末往年卷，按科目和老师整理｜仅供学习交流，版权归原作者
+
+---
+
+### [Alpha-Park/genpark-agent-prd-spec-synthesizer-skill](https://github.com/Alpha-Park/genpark-agent-prd-spec-synthesizer-skill)
+
+🗓 **2026-10-29** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Enterprise PRD and technical specification synthesizer generating structured user stories, acceptance criteria, edge cases, and API contracts
+
+---
+
+### [Alpha-Park/genpark-agent-deep-research-fact-checker-skill](https://github.com/Alpha-Park/genpark-agent-deep-research-fact-checker-skill)
+
+🗓 **2026-10-29** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Multi-source research fact-checking and cross-referencing validator detecting hallucinations, corroborating claims, and scoring evidence confidence
 
 ---
 
