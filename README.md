@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [SPIRAME/Emudhroll](https://github.com/SPIRAME/Emudhroll)
+### [alphaparkinc/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill](https://github.com/alphaparkinc/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill)
 
-🗓 **2026-10-31** ｜ ⭐️ **14 stars** ｜ 🗂 **Python**
+🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-unenroll
-
----
-
-### [alphaparkinc/genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill)
-
-🗓 **2026-10-31** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+Personal agent CIE S 026 melanopic equivalent daylight illuminance (melanopic EDI) quantifier, intrinsically photosensitive retinal ganglion cell (ipRGC) modeler, and solar zeitgeber scheduler.
 
 ---
 
-### [Alpha-Park/genpark-agentic-commerce-warehouse-slotting-cross-dock-flow-through-skill](https://github.com/Alpha-Park/genpark-agentic-commerce-warehouse-slotting-cross-dock-flow-through-skill)
+### [Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill](https://github.com/Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill)
 
-🗓 **2026-10-31** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
-
----
-
-### [alphaparkinc/genpark-agentic-commerce-merchant-chargeback-prevention-alert-ethoca-verifi-skill](https://github.com/alphaparkinc/genpark-agentic-commerce-merchant-chargeback-prevention-alert-ethoca-verifi-skill)
-
-🗓 **2026-10-31** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+Personal agent Flow-Mediated Dilation (FMD) brachial shear stress modeler, endothelial nitric oxide bioavailability indexer, and estimated Pulse Wave Velocity (ePWV) calculator.
 
 ---
 
-### [Alpha-Park/genpark-personal-agent-cardiac-baroreflex-sensitivity-brs-skill](https://github.com/Alpha-Park/genpark-personal-agent-cardiac-baroreflex-sensitivity-brs-skill)
+### [Alpha-Park/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill](https://github.com/Alpha-Park/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill)
 
-🗓 **2026-10-31** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
 
-GenPark high-grade production skill - https://www.genpark.ai | https://www.linkedin.com/company/92955550
+Personal agent CIE S 026 melanopic equivalent daylight illuminance (melanopic EDI) quantifier, intrinsically photosensitive retinal ganglion cell (ipRGC) modeler, and solar zeitgeber scheduler.
+
+---
+
+### [alphaparkinc/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill](https://github.com/alphaparkinc/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill)
+
+🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Personal agent Nedergaard glymphatic brain clearance modeler, slow-wave sleep (SWS) interstitial volume expansion quantifier, and nocturnal sleep position optimizer.
+
+---
+
+### [Alpha-Park/genpark-personal-agent-metabolic-flexibility-respiratory-quotient-skill](https://github.com/Alpha-Park/genpark-personal-agent-metabolic-flexibility-respiratory-quotient-skill)
+
+🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Personal agent indirect calorimetry Respiratory Exchange Ratio (RER) partitioner, substrate oxidation modeler (fat vs carbohydrate grams/min), and metabolic switch evaluator.
 
 ---
 
