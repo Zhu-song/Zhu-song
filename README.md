@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [alphaparkinc/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill](https://github.com/alphaparkinc/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill)
+### [shanselman/gputaskman](https://github.com/shanselman/gputaskman)
 
-🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-02** ｜ ⭐️ **15 stars** ｜ 🗂 **Python**
 
-Personal agent CIE S 026 melanopic equivalent daylight illuminance (melanopic EDI) quantifier, intrinsically photosensitive retinal ganglion cell (ipRGC) modeler, and solar zeitgeber scheduler.
-
----
-
-### [Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill](https://github.com/Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill)
-
-🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Personal agent Flow-Mediated Dilation (FMD) brachial shear stress modeler, endothelial nitric oxide bioavailability indexer, and estimated Pulse Wave Velocity (ePWV) calculator.
+An htop for what's inside your NVIDIA GPU on Windows: process memory, engine activity, and LLM weights/KV-cache introspection
 
 ---
 
-### [Alpha-Park/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill](https://github.com/Alpha-Park/genpark-personal-agent-circadian-ocular-lux-luxmeter-entrainment-skill)
+### [deanyool/tallybar](https://github.com/deanyool/tallybar)
 
-🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-02** ｜ ⭐️ **10 stars** ｜ 🗂 **Swift**
 
-Personal agent CIE S 026 melanopic equivalent daylight illuminance (melanopic EDI) quantifier, intrinsically photosensitive retinal ganglion cell (ipRGC) modeler, and solar zeitgeber scheduler.
-
----
-
-### [alphaparkinc/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill](https://github.com/alphaparkinc/genpark-personal-agent-glymphatic-clearance-aquaporin4-sleep-skill)
-
-🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Personal agent Nedergaard glymphatic brain clearance modeler, slow-wave sleep (SWS) interstitial volume expansion quantifier, and nocturnal sleep position optimizer.
+A free, local-only macOS menu bar time tracker for freelancers, with per-client rates and PDF invoices.
 
 ---
 
-### [Alpha-Park/genpark-personal-agent-metabolic-flexibility-respiratory-quotient-skill](https://github.com/Alpha-Park/genpark-personal-agent-metabolic-flexibility-respiratory-quotient-skill)
+### [baonguyen-agilityio/bobix](https://github.com/baonguyen-agilityio/bobix)
 
-🗓 **2026-11-01** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-02** ｜ ⭐️ **8 stars** ｜ 🗂 **JavaScript**
 
-Personal agent indirect calorimetry Respiratory Exchange Ratio (RER) partitioner, substrate oxidation modeler (fat vs carbohydrate grams/min), and metabolic switch evaluator.
+暂无描述
+
+---
+
+### [Alpha-Park/genpark-personal-agent-cerebral-tissue-oxygenation-nirs-rso2-skill](https://github.com/Alpha-Park/genpark-personal-agent-cerebral-tissue-oxygenation-nirs-rso2-skill)
+
+🗓 **2026-11-02** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Deterministic personal agent skill for monitoring frontal cerebral regional tissue oxygenation (rSO2), fractional tissue oxygen extraction (FTOE), and cognitive endurance.
+
+---
+
+### [Alpha-Park/genpark-personal-agent-oculomotor-saccadic-main-sequence-velocity-skill](https://github.com/Alpha-Park/genpark-personal-agent-oculomotor-saccadic-main-sequence-velocity-skill)
+
+🗓 **2026-11-02** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Deterministic personal agent skill for calculating Oculomotor Saccadic Main Sequence peak velocity saturation, reaction latency, antisaccade directional error rate, and frontal executive inhibitory control.
 
 ---
 
