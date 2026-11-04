@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [shanselman/gputaskman](https://github.com/shanselman/gputaskman)
+### [PersonalitySpirit/Music-Downloader-Spotify](https://github.com/PersonalitySpirit/Music-Downloader-Spotify)
 
-🗓 **2026-11-02** ｜ ⭐️ **15 stars** ｜ 🗂 **Python**
+🗓 **2026-11-03** ｜ ⭐️ **52 stars** ｜ 🗂 **Python**
 
-An htop for what's inside your NVIDIA GPU on Windows: process memory, engine activity, and LLM weights/KV-cache introspection
-
----
-
-### [deanyool/tallybar](https://github.com/deanyool/tallybar)
-
-🗓 **2026-11-02** ｜ ⭐️ **10 stars** ｜ 🗂 **Swift**
-
-A free, local-only macOS menu bar time tracker for freelancers, with per-client rates and PDF invoices.
+Designed for avid music listeners, this Spotify mod enables direct downloads of songs and unlimited skips. Users can take full advantage of all premium functionalities without any associated fees
 
 ---
 
-### [baonguyen-agilityio/bobix](https://github.com/baonguyen-agilityio/bobix)
+### [MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026](https://github.com/MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026)
 
-🗓 **2026-11-02** ｜ ⭐️ **8 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-03** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
+
+DaVinci Resolve Studio is Blackmagic Design’s professional software suite combining video editing, color correction, visual effects (Fusion), and audio post-production (Fairlight) into a single ecosystem.
+
+---
+
+### [acnekot/frauddb](https://github.com/acnekot/frauddb)
+
+🗓 **2026-11-03** ｜ ⭐️ **8 stars** ｜ 🗂 **JavaScript**
 
 暂无描述
 
 ---
 
-### [Alpha-Park/genpark-personal-agent-cerebral-tissue-oxygenation-nirs-rso2-skill](https://github.com/Alpha-Park/genpark-personal-agent-cerebral-tissue-oxygenation-nirs-rso2-skill)
+### [cryptoresetlife/canvas-onekey](https://github.com/cryptoresetlife/canvas-onekey)
 
-🗓 **2026-11-02** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-03** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
 
-Deterministic personal agent skill for monitoring frontal cerebral regional tissue oxygenation (rSO2), fractional tissue oxygen extraction (FTOE), and cognitive endurance.
+画布一键包：自检显卡、按显卡推荐并下载模型（MiniMax H3 / Qwen-Image 2.1 / MOSS），在本机运行无限画布做 AI 图片和视频。免费、非商业。
 
 ---
 
-### [Alpha-Park/genpark-personal-agent-oculomotor-saccadic-main-sequence-velocity-skill](https://github.com/Alpha-Park/genpark-personal-agent-oculomotor-saccadic-main-sequence-velocity-skill)
+### [iampedii/herdr-redline](https://github.com/iampedii/herdr-redline)
 
-🗓 **2026-11-02** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+🗓 **2026-11-03** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
 
-Deterministic personal agent skill for calculating Oculomotor Saccadic Main Sequence peak velocity saturation, reaction latency, antisaccade directional error rate, and frontal executive inhibitory control.
+Redline: code review inside the Herdr app. Review GitLab MRs and GitHub PRs in a git worktree next to an AI agent: inline comments, pending reviews, council AI findings, pipelines, approve and merge.
 
 ---
 
