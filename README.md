@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [PersonalitySpirit/Music-Downloader-Spotify](https://github.com/PersonalitySpirit/Music-Downloader-Spotify)
+### [0xSero/youtube-translate-skill](https://github.com/0xSero/youtube-translate-skill)
 
-🗓 **2026-11-03** ｜ ⭐️ **52 stars** ｜ 🗂 **Python**
-
-Designed for avid music listeners, this Spotify mod enables direct downloads of songs and unlimited skips. Users can take full advantage of all premium functionalities without any associated fees
-
----
-
-### [MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026](https://github.com/MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026)
-
-🗓 **2026-11-03** ｜ ⭐️ **15 stars** ｜ 🗂 **未知**
-
-DaVinci Resolve Studio is Blackmagic Design’s professional software suite combining video editing, color correction, visual effects (Fusion), and audio post-production (Fairlight) into a single ecosystem.
-
----
-
-### [acnekot/frauddb](https://github.com/acnekot/frauddb)
-
-🗓 **2026-11-03** ｜ ⭐️ **8 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-04** ｜ ⭐️ **15 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [cryptoresetlife/canvas-onekey](https://github.com/cryptoresetlife/canvas-onekey)
+### [Mr-Ochobot/Hikvision-CCTV-POC](https://github.com/Mr-Ochobot/Hikvision-CCTV-POC)
 
-🗓 **2026-11-03** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-04** ｜ ⭐️ **10 stars** ｜ 🗂 **Python**
 
-画布一键包：自检显卡、按显卡推荐并下载模型（MiniMax H3 / Qwen-Image 2.1 / MOSS），在本机运行无限画布做 AI 图片和视频。免费、非商业。
+This project is a single-target proof of concept (PoC) for assessing exposure to CVE-2017-7921, an authentication-bypass vulnerability affecting certain Hikvision IP camera and NVR firmware.  The script attempts to retrieve a device configuration file and, when the returned data matches the format implemented in this PoC, decrypts and parses it to 
 
 ---
 
-### [iampedii/herdr-redline](https://github.com/iampedii/herdr-redline)
+### [GrapheneCt/DMR](https://github.com/GrapheneCt/DMR)
 
-🗓 **2026-11-03** ｜ ⭐️ **6 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-04** ｜ ⭐️ **6 stars** ｜ 🗂 **C**
 
-Redline: code review inside the Herdr app. Review GitLab MRs and GitHub PRs in a git worktree next to an AI agent: inline comments, pending reviews, council AI findings, pipelines, approve and merge.
+Download more RAM to your PS Vita
+
+---
+
+### [JasOnbu1/aptos-shelby-wallet-faucet](https://github.com/JasOnbu1/aptos-shelby-wallet-faucet)
+
+🗓 **2026-11-04** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+
+Auto generate Aptos wallets and request Shelby testnet faucet funds
+
+---
+
+### [JasOnbu1/autoislandsol](https://github.com/JasOnbu1/autoislandsol)
+
+🗓 **2026-11-04** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+
+IslandsOnSol farming bot and local wallet/account helper scripts. Personal credentials excluded.
 
 ---
 
