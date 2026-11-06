@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [0xSero/youtube-translate-skill](https://github.com/0xSero/youtube-translate-skill)
+### [Neomanbeta/CF-Trace-Scan](https://github.com/Neomanbeta/CF-Trace-Scan)
 
-🗓 **2026-11-04** ｜ ⭐️ **15 stars** ｜ 🗂 **Python**
+🗓 **2026-11-05** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
 
-暂无描述
-
----
-
-### [Mr-Ochobot/Hikvision-CCTV-POC](https://github.com/Mr-Ochobot/Hikvision-CCTV-POC)
-
-🗓 **2026-11-04** ｜ ⭐️ **10 stars** ｜ 🗂 **Python**
-
-This project is a single-target proof of concept (PoC) for assessing exposure to CVE-2017-7921, an authentication-bypass vulnerability affecting certain Hikvision IP camera and NVR firmware.  The script attempts to retrieve a device configuration file and, when the returned data matches the format implemented in this PoC, decrypts and parses it to 
+移动ISP的CFIP过滤工具
 
 ---
 
-### [GrapheneCt/DMR](https://github.com/GrapheneCt/DMR)
+### [aritabryan/copyover](https://github.com/aritabryan/copyover)
 
-🗓 **2026-11-04** ｜ ⭐️ **6 stars** ｜ 🗂 **C**
+🗓 **2026-11-05** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
-Download more RAM to your PS Vita
-
----
-
-### [JasOnbu1/aptos-shelby-wallet-faucet](https://github.com/JasOnbu1/aptos-shelby-wallet-faucet)
-
-🗓 **2026-11-04** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
-
-Auto generate Aptos wallets and request Shelby testnet faucet funds
+Your clipboard on every device: iPhone, Android, Windows and Linux, over your local network
 
 ---
 
-### [JasOnbu1/autoislandsol](https://github.com/JasOnbu1/autoislandsol)
+### [moonoops/dsh-super-agent-droy](https://github.com/moonoops/dsh-super-agent-droy)
 
-🗓 **2026-11-04** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+🗓 **2026-11-05** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
 
-IslandsOnSol farming bot and local wallet/account helper scripts. Personal credentials excluded.
+SuperAgentDroy: A local-first personal SuperAgent for DeepSeek Harness with Core4 identity, Hindsight dual-bank memory, and multi-role Workers.
+
+---
+
+### [Youcxf/Localfill](https://github.com/Youcxf/Localfill)
+
+🗓 **2026-11-05** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
+
+a free open-source tool to automate / copytrade across tradovate accounts  on your own computer
+
+---
+
+### [xzlynnoffcial/gopay-merchant-scraper](https://github.com/xzlynnoffcial/gopay-merchant-scraper)
+
+🗓 **2026-11-05** ｜ ⭐️ **4 stars** ｜ 🗂 **JavaScript**
+
+Standalone GoPay Merchant / GoBiz Scraper & Dynamic QRIS SDK (0% Fee, Pure Node.js)
 
 ---
 
