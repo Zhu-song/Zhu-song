@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Neomanbeta/CF-Trace-Scan](https://github.com/Neomanbeta/CF-Trace-Scan)
+### [nico-bohlinger/xmimic](https://github.com/nico-bohlinger/xmimic)
 
-🗓 **2026-11-05** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
+🗓 **2026-11-06** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
 
-移动ISP的CFIP过滤工具
-
----
-
-### [aritabryan/copyover](https://github.com/aritabryan/copyover)
-
-🗓 **2026-11-05** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
-
-Your clipboard on every device: iPhone, Android, Windows and Linux, over your local network
+Whole-body motion tracking for the Unitree G1 in under a minute. BlinkMimic's world-model trainer rebuilt in JAX, 3.5x faster on four H100s.
 
 ---
 
-### [moonoops/dsh-super-agent-droy](https://github.com/moonoops/dsh-super-agent-droy)
+### [codera5789/ruangkumpul](https://github.com/codera5789/ruangkumpul)
 
-🗓 **2026-11-05** ｜ ⭐️ **4 stars** ｜ 🗂 **TypeScript**
+🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
 
-SuperAgentDroy: A local-first personal SuperAgent for DeepSeek Harness with Core4 identity, Hindsight dual-bank memory, and multi-role Workers.
-
----
-
-### [Youcxf/Localfill](https://github.com/Youcxf/Localfill)
-
-🗓 **2026-11-05** ｜ ⭐️ **4 stars** ｜ 🗂 **Python**
-
-a free open-source tool to automate / copytrade across tradovate accounts  on your own computer
+One Platform. Endless Possibilities. — All-in-One Digital Super App untuk Indonesia: tools gratis, ruang pengetahuan, komunitas, event, karier, dan produktivitas dalam satu akun.
 
 ---
 
-### [xzlynnoffcial/gopay-merchant-scraper](https://github.com/xzlynnoffcial/gopay-merchant-scraper)
+### [SamG-Coder/solstice](https://github.com/SamG-Coder/solstice)
 
-🗓 **2026-11-05** ｜ ⭐️ **4 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **Rust**
 
-Standalone GoPay Merchant / GoBiz Scraper & Dynamic QRIS SDK (0% Fee, Pure Node.js)
+Nanite and Lumen style rendering in the browser: virtualized geometry and dynamic global illumination in Rust and WebGPU
+
+---
+
+### [BTr-RJ/RoadRashTrilogy_Recomp](https://github.com/BTr-RJ/RoadRashTrilogy_Recomp)
+
+🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **C++**
+
+Native Windows x64 Road Rash trilogy launcher and ROM-free local-build installer. Original game files required; initial public test 0.50.
+
+---
+
+### [djyde/mygo-lizhi](https://github.com/djyde/mygo-lizhi)
+
+🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+
+MyGo Music 插件：收听 nj-lizhi/song 收录的李志专辑与现场
 
 ---
 
