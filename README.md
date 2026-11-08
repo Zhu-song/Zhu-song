@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [nico-bohlinger/xmimic](https://github.com/nico-bohlinger/xmimic)
+### [CruelBearCompress/Avid-Media-Composer-Professional-Video-Editor](https://github.com/CruelBearCompress/Avid-Media-Composer-Professional-Video-Editor)
 
-🗓 **2026-11-06** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
+🗓 **2026-11-07** ｜ ⭐️ **17 stars** ｜ 🗂 **未知**
 
-Whole-body motion tracking for the Unitree G1 in under a minute. BlinkMimic's world-model trainer rebuilt in JAX, 3.5x faster on four H100s.
-
----
-
-### [codera5789/ruangkumpul](https://github.com/codera5789/ruangkumpul)
-
-🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **TypeScript**
-
-One Platform. Endless Possibilities. — All-in-One Digital Super App untuk Indonesia: tools gratis, ruang pengetahuan, komunitas, event, karier, dan produktivitas dalam satu akun.
+Avid Media Composer for Windows — the complete professional build with every module enabled: timeline editing, effects, and export, no edition limits after install. 
 
 ---
 
-### [SamG-Coder/solstice](https://github.com/SamG-Coder/solstice)
+### [oceanpacificpeace/lichii-shader-sync](https://github.com/oceanpacificpeace/lichii-shader-sync)
 
-🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **Rust**
+🗓 **2026-11-07** ｜ ⭐️ **12 stars** ｜ 🗂 **Go**
 
-Nanite and Lumen style rendering in the browser: virtualized geometry and dynamic global illumination in Rust and WebGPU
-
----
-
-### [BTr-RJ/RoadRashTrilogy_Recomp](https://github.com/BTr-RJ/RoadRashTrilogy_Recomp)
-
-🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **C++**
-
-Native Windows x64 Road Rash trilogy launcher and ROM-free local-build installer. Original game files required; initial public test 0.50.
+暂无描述
 
 ---
 
-### [djyde/mygo-lizhi](https://github.com/djyde/mygo-lizhi)
+### [Joaolaub/Steamified](https://github.com/Joaolaub/Steamified)
 
-🗓 **2026-11-06** ｜ ⭐️ **5 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-07** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
 
-MyGo Music 插件：收听 nj-lizhi/song 收录的李志专辑与现场
+Automatic non-Steam game adder with SteamGridDB api.
+
+---
+
+### [mariamsyed421/Doorstep](https://github.com/mariamsyed421/Doorstep)
+
+🗓 **2026-11-07** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+暂无描述
+
+---
+
+### [Dayanyousefi/cart](https://github.com/Dayanyousefi/cart)
+
+🗓 **2026-11-07** ｜ ⭐️ **2 stars** ｜ 🗂 **TypeScript**
+
+cart
 
 ---
 
