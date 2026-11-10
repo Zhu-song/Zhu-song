@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [hyscodebase/copykillerkiller](https://github.com/hyscodebase/copykillerkiller)
+### [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)
 
-🗓 **2026-11-08** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
+🗓 **2026-11-09** ｜ ⭐️ **35 stars** ｜ 🗂 **Swift**
 
-Copykiller 보고서 대조와 근거 중심 원고 검토를 위한 Codex 스킬
-
----
-
-### [projectedan/OutlawGolf2-XBE-Recomp](https://github.com/projectedan/OutlawGolf2-XBE-Recomp)
-
-🗓 **2026-11-08** ｜ ⭐️ **3 stars** ｜ 🗂 **C++**
-
-Outlaw Golf 2 Xbox Native Port
+iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 
 ---
 
-### [wobsoriano/rex-sim](https://github.com/wobsoriano/rex-sim)
+### [dengwenxiu/jsseal](https://github.com/dengwenxiu/jsseal)
 
-🗓 **2026-11-08** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-09** ｜ ⭐️ **9 stars** ｜ 🗂 **C**
 
 暂无描述
 
 ---
 
-### [MughalAhmed430/Pneumonia-Detection](https://github.com/MughalAhmed430/Pneumonia-Detection)
+### [link-ding/image-to-psd](https://github.com/link-ding/image-to-psd)
 
-🗓 **2026-11-08** ｜ ⭐️ **3 stars** ｜ 🗂 **Python**
+🗓 **2026-11-09** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
 
-暂无描述
+Agent skill: split character art into a 19-layer PSD with editable masks
 
 ---
 
-### [juccul/ColorMotion](https://github.com/juccul/ColorMotion)
+### [Terminal-3/private-doc-scanner](https://github.com/Terminal-3/private-doc-scanner)
 
-🗓 **2026-11-08** ｜ ⭐️ **3 stars** ｜ 🗂 **Java**
+🗓 **2026-11-09** ｜ ⭐️ **7 stars** ｜ 🗂 **TypeScript**
 
-Smoother notification shade and quick settings animation for Samsung One UI 8.5 (Xposed module)
+Open-source private document scanner for AI: reads documents on your device and seals private data to your own Terminal 3 (https://terminal3.io/products/agent-developer-kit) vault
+
+---
+
+### [Tokeii0/StarMem](https://github.com/Tokeii0/StarMem)
+
+🗓 **2026-11-09** ｜ ⭐️ **7 stars** ｜ 🗂 **Rust**
+
+StarMem: a Rust memory forensics engine for Windows and Linux
 
 ---
 
