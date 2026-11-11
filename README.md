@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)
+### [fengchen122123-sudo/xingyao-y-code](https://github.com/fengchen122123-sudo/xingyao-y-code)
 
-🗓 **2026-11-09** ｜ ⭐️ **35 stars** ｜ 🗂 **Swift**
-
-iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
-
----
-
-### [dengwenxiu/jsseal](https://github.com/dengwenxiu/jsseal)
-
-🗓 **2026-11-09** ｜ ⭐️ **9 stars** ｜ 🗂 **C**
+🗓 **2026-11-10** ｜ ⭐️ **12 stars** ｜ 🗂 **Python**
 
 暂无描述
 
 ---
 
-### [link-ding/image-to-psd](https://github.com/link-ding/image-to-psd)
+### [transparent-pegasus/utsurigi-agent-hub](https://github.com/transparent-pegasus/utsurigi-agent-hub)
 
-🗓 **2026-11-09** ｜ ⭐️ **8 stars** ｜ 🗂 **Python**
+🗓 **2026-11-10** ｜ ⭐️ **9 stars** ｜ 🗂 **Rust**
 
-Agent skill: split character art into a 19-layer PSD with editable masks
-
----
-
-### [Terminal-3/private-doc-scanner](https://github.com/Terminal-3/private-doc-scanner)
-
-🗓 **2026-11-09** ｜ ⭐️ **7 stars** ｜ 🗂 **TypeScript**
-
-Open-source private document scanner for AI: reads documents on your device and seals private data to your own Terminal 3 (https://terminal3.io/products/agent-developer-kit) vault
+externalizes AI agent data and manages multiple bots across services.
 
 ---
 
-### [Tokeii0/StarMem](https://github.com/Tokeii0/StarMem)
+### [SteelMillerBar/auto-twitch-drops-claim](https://github.com/SteelMillerBar/auto-twitch-drops-claim)
 
-🗓 **2026-11-09** ｜ ⭐️ **7 stars** ｜ 🗂 **Rust**
+🗓 **2026-11-10** ｜ ⭐️ **4 stars** ｜ 🗂 **未知**
 
-StarMem: a Rust memory forensics engine for Windows and Linux
+Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, macOS, and Linux.
+
+---
+
+### [liangdabiao/dsh-lego-forge](https://github.com/liangdabiao/dsh-lego-forge)
+
+🗓 **2026-11-10** ｜ ⭐️ **3 stars** ｜ 🗂 **JavaScript**
+
+积木工坊 · dsh-lego-forge 把一句话想法变成一套真实可拼的 LEGO 积木模型。引擎、零件几何与构建方法论源自 lego-forge（MIT），LDraw 零件几何  。DeepSeek Harness（dsh）插件
+
+---
+
+### [codewithhaivu/RoomIO](https://github.com/codewithhaivu/RoomIO)
+
+🗓 **2026-11-10** ｜ ⭐️ **3 stars** ｜ 🗂 **Dart**
+
+A full-stack rental platform built with Flutter, FastAPI, MySQL, Redis, and Firebase Cloud Messaging.
 
 ---
 
