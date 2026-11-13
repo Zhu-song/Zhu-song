@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [routerhubSI/kimi-uncensored](https://github.com/routerhubSI/kimi-uncensored)
+### [mylevis-official/MYLEVIS-HUB](https://github.com/mylevis-official/MYLEVIS-HUB)
 
-🗓 **2026-11-11** ｜ ⭐️ **22 stars** ｜ 🗂 **未知**
+🗓 **2026-11-12** ｜ ⭐️ **7 stars** ｜ 🗂 **未知**
 
-Every uncensored and abliterated Kimi build — Kimi K3.1 Pro Uncensored via API at \.30/\.50 per million tokens, abliterated open-weight checkpoints for K3.1 Pro and K3, license notes and a red-team prompt library. Maintained by RouterHub.
-
----
-
-### [LALUARIFTA/goodle_drive_cloud_storage_ui](https://github.com/LALUARIFTA/goodle_drive_cloud_storage_ui)
-
-🗓 **2026-11-11** ｜ ⭐️ **14 stars** ｜ 🗂 **JavaScript**
-
-暂无描述
+Product overview and setup guide for MYLEVIS HUB, a cross-border e-commerce MCP tool hub that brings multiple platform tools into one connection.
 
 ---
 
-### [Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp)
+### [lnys/starTower](https://github.com/lnys/starTower)
 
-🗓 **2026-11-11** ｜ ⭐️ **12 stars** ｜ 🗂 **C**
+🗓 **2026-11-12** ｜ ⭐️ **7 stars** ｜ 🗂 **JavaScript**
 
-A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included.
-
----
-
-### [gopkg-dev/damail](https://github.com/gopkg-dev/damail)
-
-🗓 **2026-11-11** ｜ ⭐️ **11 stars** ｜ 🗂 **TypeScript**
-
-Self-hosted mail hub: all your mailboxes on your own server, ready for AI agents via MCP and REST API
+星穹塔50层游戏
 
 ---
 
-### [Tommilley/Flasher_Exodus_Balance](https://github.com/Tommilley/Flasher_Exodus_Balance)
+### [wise-multimodal-rag/multimodal-whisper-pyannote](https://github.com/wise-multimodal-rag/multimodal-whisper-pyannote)
 
-🗓 **2026-11-11** ｜ ⭐️ **6 stars** ｜ 🗂 **Python**
+🗓 **2026-11-12** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
+
+Multimodal Whisper Pyannote
+
+---
+
+### [reyohoho/ReTwitch-src](https://github.com/reyohoho/ReTwitch-src)
+
+🗓 **2026-11-12** ｜ ⭐️ **5 stars** ｜ 🗂 **Java**
+
+Twitch mod for android(mobile only)
+
+---
+
+### [Feunivepefer/Flasher_Exodus_Balance](https://github.com/Feunivepefer/Flasher_Exodus_Balance)
+
+🗓 **2026-11-12** ｜ ⭐️ **5 stars** ｜ 🗂 **Python**
 
 暂无描述
 
