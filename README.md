@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [DimensionRobin/rob-run-private-cheat](https://github.com/DimensionRobin/rob-run-private-cheat)
+### [tsukumijima/pydtcpip](https://github.com/tsukumijima/pydtcpip)
 
-🗓 **2026-11-13** ｜ ⭐️ **152 stars** ｜ 🗂 **未知**
+🗓 **2026-11-14** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
+
+Unofficial Python implementation of DTCP-IP with DLNA/UPnP support
+
+---
+
+### [petekp/coordinator](https://github.com/petekp/coordinator)
+
+🗓 **2026-11-14** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
+
+Turn one Claude Code session into a coordinator that runs, watches and cleans up a fleet of agent sessions in Herdr.
+
+---
+
+### [sqlinjected/sat2x](https://github.com/sqlinjected/sat2x)
+
+🗓 **2026-11-14** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+
+Arduino Pro Micro firmware that turns a Sega Saturn analog racing wheel into a plug-and-play Xbox (XInput) controller for PC. Analog steering + pedals, no drivers or mappers needed.
+
+---
+
+### [Ash1996x/Nekiya](https://github.com/Ash1996x/Nekiya)
+
+🗓 **2026-11-14** ｜ ⭐️ **3 stars** ｜ 🗂 **C**
+
+BYOVD tool for DKOM process/driver hiding, SYSTEM elevation, HVCI disablement, and blind/nuke takedown of PPL, tamper, ETW, EDR, Defender, processes, services, exclusions 
+
+---
+
+### [codepilotsf/itsykit](https://github.com/codepilotsf/itsykit)
+
+🗓 **2026-11-14** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
 
 暂无描述
-
----
-
-### [prismarmorergirder/wallet-security-checker](https://github.com/prismarmorergirder/wallet-security-checker)
-
-🗓 **2026-11-13** ｜ ⭐️ **115 stars** ｜ 🗂 **未知**
-
-SafeWallet is a crypto wallet checker and blockchain security tool. Monitor Bitcoin, Ethereum and crypto wallet balances, track cryptocurrency prices, analyze wallet addresses, explore blockchain transactions, manage digital assets and receive real-time Telegram alerts. Crypto monitoring in one app.
-
----
-
-### [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)
-
-🗓 **2026-11-13** ｜ ⭐️ **99 stars** ｜ 🗂 **Python**
-
-muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
-
----
-
-### [brave-shell-07/izotope-rx-11-desktop](https://github.com/brave-shell-07/izotope-rx-11-desktop)
-
-🗓 **2026-11-13** ｜ ⭐️ **50 stars** ｜ 🗂 **C++**
-
-iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11
-
----
-
-### [brave-plum-co/leonardo-ai-desktop](https://github.com/brave-plum-co/leonardo-ai-desktop)
-
-🗓 **2026-11-13** ｜ ⭐️ **49 stars** ｜ 🗂 **C++**
-
-Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11
 
 ---
 
