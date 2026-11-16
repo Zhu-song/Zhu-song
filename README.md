@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [tsukumijima/pydtcpip](https://github.com/tsukumijima/pydtcpip)
+### [InfernalCaliphShock/rob-run-cheat-tool](https://github.com/InfernalCaliphShock/rob-run-cheat-tool)
 
-🗓 **2026-11-14** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
+🗓 **2026-11-15** ｜ ⭐️ **204 stars** ｜ 🗂 **未知**
 
-Unofficial Python implementation of DTCP-IP with DLNA/UPnP support
-
----
-
-### [petekp/coordinator](https://github.com/petekp/coordinator)
-
-🗓 **2026-11-14** ｜ ⭐️ **7 stars** ｜ 🗂 **Python**
-
-Turn one Claude Code session into a coordinator that runs, watches and cleans up a fleet of agent sessions in Herdr.
+暂无描述
 
 ---
 
-### [sqlinjected/sat2x](https://github.com/sqlinjected/sat2x)
+### [Leviathanvuenergy/PhotoShop28AI-Editor](https://github.com/Leviathanvuenergy/PhotoShop28AI-Editor)
 
-🗓 **2026-11-14** ｜ ⭐️ **3 stars** ｜ 🗂 **未知**
+🗓 **2026-11-15** ｜ ⭐️ **27 stars** ｜ 🗂 **未知**
 
-Arduino Pro Micro firmware that turns a Sega Saturn analog racing wheel into a plug-and-play Xbox (XInput) controller for PC. Analog steering + pedals, no drivers or mappers needed.
-
----
-
-### [Ash1996x/Nekiya](https://github.com/Ash1996x/Nekiya)
-
-🗓 **2026-11-14** ｜ ⭐️ **3 stars** ｜ 🗂 **C**
-
-BYOVD tool for DKOM process/driver hiding, SYSTEM elevation, HVCI disablement, and blind/nuke takedown of PPL, tamper, ETW, EDR, Defender, processes, services, exclusions 
+How to get Photoshop 28 ai (2027) latest update
 
 ---
 
-### [codepilotsf/itsykit](https://github.com/codepilotsf/itsykit)
+### [snwvlr/super-duper-invention](https://github.com/snwvlr/super-duper-invention)
 
-🗓 **2026-11-14** ｜ ⭐️ **2 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-15** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+
+暂无描述
+
+---
+
+### [pedrorgdss/dns-switcher-fedora](https://github.com/pedrorgdss/dns-switcher-fedora)
+
+🗓 **2026-11-15** ｜ ⭐️ **4 stars** ｜ 🗂 **C#**
+
+Portable DNS manager for Fedora Linux. Switch IPv4/IPv6 DNS servers, benchmark providers and flush the DNS cache. Built with C#/.NET 8 and GTK 3.
+
+---
+
+### [isod89/sloop3-fm1](https://github.com/isod89/sloop3-fm1)
+
+🗓 **2026-11-15** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
 
 暂无描述
 
