@@ -10,41 +10,41 @@
 
 ## My Latest Trending Repos 👇
 
-### [InfernalCaliphShock/rob-run-cheat-tool](https://github.com/InfernalCaliphShock/rob-run-cheat-tool)
+### [roninbyteobliterate/lichi](https://github.com/roninbyteobliterate/lichi)
 
-🗓 **2026-11-15** ｜ ⭐️ **204 stars** ｜ 🗂 **未知**
+🗓 **2026-11-16** ｜ ⭐️ **100 stars** ｜ 🗂 **C++**
 
-暂无描述
-
----
-
-### [Leviathanvuenergy/PhotoShop28AI-Editor](https://github.com/Leviathanvuenergy/PhotoShop28AI-Editor)
-
-🗓 **2026-11-15** ｜ ⭐️ **27 stars** ｜ 🗂 **未知**
-
-How to get Photoshop 28 ai (2027) latest update
+VERY experimental Nintendo Switch 2 emulator
 
 ---
 
-### [snwvlr/super-duper-invention](https://github.com/snwvlr/super-duper-invention)
+### [xyzww888/muse-JP-Reg](https://github.com/xyzww888/muse-JP-Reg)
 
-🗓 **2026-11-15** ｜ ⭐️ **5 stars** ｜ 🗂 **未知**
+🗓 **2026-11-16** ｜ ⭐️ **37 stars** ｜ 🗂 **Python**
 
-暂无描述
-
----
-
-### [pedrorgdss/dns-switcher-fedora](https://github.com/pedrorgdss/dns-switcher-fedora)
-
-🗓 **2026-11-15** ｜ ⭐️ **4 stars** ｜ 🗂 **C#**
-
-Portable DNS manager for Fedora Linux. Switch IPv4/IPv6 DNS servers, benchmark providers and flush the DNS cache. Built with C#/.NET 8 and GTK 3.
+Muse.ai pure-HTTP registration & invite-code fission WebUI (JP residential proxy ready)
 
 ---
 
-### [isod89/sloop3-fm1](https://github.com/isod89/sloop3-fm1)
+### [iliziroff/qwen-3.8-unsecured-source](https://github.com/iliziroff/qwen-3.8-unsecured-source)
 
-🗓 **2026-11-15** ｜ ⭐️ **4 stars** ｜ 🗂 **C**
+🗓 **2026-11-16** ｜ ⭐️ **26 stars** ｜ 🗂 **未知**
+
+The source code for the unprotected, free version of Qwen3.8, which contains 27 billion parameters.
+
+---
+
+### [tyle-beep/Haiku](https://github.com/tyle-beep/Haiku)
+
+🗓 **2026-11-16** ｜ ⭐️ **22 stars** ｜ 🗂 **Rust**
+
+Fire Emblem Fates, statically recompiled to a native Windows program. Contains no game files: you build it from your own dump.
+
+---
+
+### [timothy-coshin/sql-semantic-ledger](https://github.com/timothy-coshin/sql-semantic-ledger)
+
+🗓 **2026-11-16** ｜ ⭐️ **14 stars** ｜ 🗂 **Python**
 
 暂无描述
 
