@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [roninbyteobliterate/lichi](https://github.com/roninbyteobliterate/lichi)
+### [piersorttypify/filmora-ai-editor-unlocked](https://github.com/piersorttypify/filmora-ai-editor-unlocked)
 
-🗓 **2026-11-16** ｜ ⭐️ **100 stars** ｜ 🗂 **C++**
+🗓 **2026-11-17** ｜ ⭐️ **81 stars** ｜ 🗂 **Go**
 
-VERY experimental Nintendo Switch 2 emulator
-
----
-
-### [xyzww888/muse-JP-Reg](https://github.com/xyzww888/muse-JP-Reg)
-
-🗓 **2026-11-16** ｜ ⭐️ **37 stars** ｜ 🗂 **Python**
-
-Muse.ai pure-HTTP registration & invite-code fission WebUI (JP residential proxy ready)
+how to get filmora 16 ai
 
 ---
 
-### [iliziroff/qwen-3.8-unsecured-source](https://github.com/iliziroff/qwen-3.8-unsecured-source)
+### [GladiatorSense/FlstudioAIproducer](https://github.com/GladiatorSense/FlstudioAIproducer)
 
-🗓 **2026-11-16** ｜ ⭐️ **26 stars** ｜ 🗂 **未知**
+🗓 **2026-11-17** ｜ ⭐️ **78 stars** ｜ 🗂 **Go**
 
-The source code for the unprotected, free version of Qwen3.8, which contains 27 billion parameters.
-
----
-
-### [tyle-beep/Haiku](https://github.com/tyle-beep/Haiku)
-
-🗓 **2026-11-16** ｜ ⭐️ **22 stars** ｜ 🗂 **Rust**
-
-Fire Emblem Fates, statically recompiled to a native Windows program. Contains no game files: you build it from your own dump.
+How to get Fl studio Producer 2026
 
 ---
 
-### [timothy-coshin/sql-semantic-ledger](https://github.com/timothy-coshin/sql-semantic-ledger)
+### [LawmakerBoil/MsOfficeLatestVersion2026](https://github.com/LawmakerBoil/MsOfficeLatestVersion2026)
 
-🗓 **2026-11-16** ｜ ⭐️ **14 stars** ｜ 🗂 **Python**
+🗓 **2026-11-17** ｜ ⭐️ **75 stars** ｜ 🗂 **Go**
+
+how to get Office 2026
+
+---
+
+### [cerniq/scrap-tf-raffle-bot2027](https://github.com/cerniq/scrap-tf-raffle-bot2027)
+
+🗓 **2026-11-17** ｜ ⭐️ **44 stars** ｜ 🗂 **Python**
 
 暂无描述
+
+---
+
+### [SparkLocustMinaret/serif-affinity-designer-2026](https://github.com/SparkLocustMinaret/serif-affinity-designer-2026)
+
+🗓 **2026-11-17** ｜ ⭐️ **26 stars** ｜ 🗂 **Rust**
+
+How to get serif affinity designer 2026
 
 ---
 
