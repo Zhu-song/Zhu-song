@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [flex36ty/switch2-gamevault](https://github.com/flex36ty/switch2-gamevault)
+### [HandcuffPerfumer/fl-studio-audio](https://github.com/HandcuffPerfumer/fl-studio-audio)
 
-🗓 **2026-11-18** ｜ ⭐️ **23 stars** ｜ 🗂 **C++**
+🗓 **2026-11-19** ｜ ⭐️ **191 stars** ｜ 🗂 **未知**
 
-Game Vault for Switch 2 — game and save backup/restore, decrypted backups, USB MTP, FTP and SMB storage.
-
----
-
-### [PedroMarinhoDev/ComfyUI-H3-Image-EasyFix](https://github.com/PedroMarinhoDev/ComfyUI-H3-Image-EasyFix)
-
-🗓 **2026-11-18** ｜ ⭐️ **9 stars** ｜ 🗂 **Python**
-
-Cleaner MiniMax-H3-Image text-to-image in ComfyUI: Steering and a Re-Noise Sampler against grainy fine texture, and a Resolution Selector up to 256 MP.
+FL Studio Audio is a comprehensive digital audio workstation (DAW) environment designed for music producers and sound engineers to compose, arrange, record, edit, mix, and master studio-quality audio tracks.
 
 ---
 
-### [pal815/antigravity-ko](https://github.com/pal815/antigravity-ko)
+### [Dimnyohollow/capcut-pro-video-editor-latest](https://github.com/Dimnyohollow/capcut-pro-video-editor-latest)
 
-🗓 **2026-11-18** ｜ ⭐️ **8 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-19** ｜ ⭐️ **169 stars** ｜ 🗂 **未知**
 
-Natural Korean UI localization patch and update-resilient smart launcher for Antigravity 2.0 Desktop App (Windows)
-
----
-
-### [oxbaimao/whitecat-tg-assistant-commercial-build](https://github.com/oxbaimao/whitecat-tg-assistant-commercial-build)
-
-🗓 **2026-11-18** ｜ ⭐️ **6 stars** ｜ 🗂 **未知**
-
-暂无描述
+CapCut Pro Video Editor Latest is an all-in-one, cross-platform video editing suite that equips creators with AI-powered tools, automated captions, background removal, premium effects, and high-resolution 4K export capabilities for producing professional social media and commercial content.
 
 ---
 
-### [kodewala-academy/25th_Aug_2026_Offline](https://github.com/kodewala-academy/25th_Aug_2026_Offline)
+### [Portionfuspanner/uTorrentLatestFastest](https://github.com/Portionfuspanner/uTorrentLatestFastest)
 
-🗓 **2026-11-18** ｜ ⭐️ **6 stars** ｜ 🗂 **Java**
+🗓 **2026-11-19** ｜ ⭐️ **84 stars** ｜ 🗂 **Go**
 
-暂无描述
+How to get uTorrent 2026
+
+---
+
+### [mapcoreorbit/melvor-idle-2-xp](https://github.com/mapcoreorbit/melvor-idle-2-xp)
+
+🗓 **2026-11-19** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
+
+Experience and skill-progression reference for Melvor Idle 2, including XP planning and leveling notes.
+
+---
+
+### [cfwuya/cf-saas-edge](https://github.com/cfwuya/cf-saas-edge)
+
+🗓 **2026-11-19** ｜ ⭐️ **11 stars** ｜ 🗂 **JavaScript**
+
+基于 Cloudflare Workers/Pages 与 D1 的多云 SaaS 智能优选控制台，支持华为云/腾讯云/阿里云双线分流解析、6地区优选反代理IP与三网延迟遥测。
 
 ---
 
