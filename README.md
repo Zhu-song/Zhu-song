@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [HandcuffPerfumer/fl-studio-audio](https://github.com/HandcuffPerfumer/fl-studio-audio)
+### [ahmedbkareno1-stack/windows-activation-script-lekalin](https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin)
 
-🗓 **2026-11-19** ｜ ⭐️ **191 stars** ｜ 🗂 **未知**
+🗓 **2026-11-20** ｜ ⭐️ **139 stars** ｜ 🗂 **HTML**
 
-FL Studio Audio is a comprehensive digital audio workstation (DAW) environment designed for music producers and sound engineers to compose, arrange, record, edit, mix, and master studio-quality audio tracks.
-
----
-
-### [Dimnyohollow/capcut-pro-video-editor-latest](https://github.com/Dimnyohollow/capcut-pro-video-editor-latest)
-
-🗓 **2026-11-19** ｜ ⭐️ **169 stars** ｜ 🗂 **未知**
-
-CapCut Pro Video Editor Latest is an all-in-one, cross-platform video editing suite that equips creators with AI-powered tools, automated captions, background removal, premium effects, and high-resolution 4K export capabilities for producing professional social media and commercial content.
+Streamline Windows setup with Lekalin, a practical setup scripting tool.
 
 ---
 
-### [Portionfuspanner/uTorrentLatestFastest](https://github.com/Portionfuspanner/uTorrentLatestFastest)
+### [lidija52/filmora-license-short-video-studio](https://github.com/lidija52/filmora-license-short-video-studio)
 
-🗓 **2026-11-19** ｜ ⭐️ **84 stars** ｜ 🗂 **Go**
+🗓 **2026-11-20** ｜ ⭐️ **134 stars** ｜ 🗂 **HTML**
 
-How to get uTorrent 2026
-
----
-
-### [mapcoreorbit/melvor-idle-2-xp](https://github.com/mapcoreorbit/melvor-idle-2-xp)
-
-🗓 **2026-11-19** ｜ ⭐️ **11 stars** ｜ 🗂 **未知**
-
-Experience and skill-progression reference for Melvor Idle 2, including XP planning and leveling notes.
+Compact studio for short-form video editing and terms-aware project workflows.
 
 ---
 
-### [cfwuya/cf-saas-edge](https://github.com/cfwuya/cf-saas-edge)
+### [heracliomc-create/vegas-pro-23-bebaron](https://github.com/heracliomc-create/vegas-pro-23-bebaron)
 
-🗓 **2026-11-19** ｜ ⭐️ **11 stars** ｜ 🗂 **JavaScript**
+🗓 **2026-11-20** ｜ ⭐️ **131 stars** ｜ 🗂 **HTML**
 
-基于 Cloudflare Workers/Pages 与 D1 的多云 SaaS 智能优选控制台，支持华为云/腾讯云/阿里云双线分流解析、6地区优选反代理IP与三网延迟遥测。
+Professional video editing suite with timeline-based tools for multi-track projects.
+
+---
+
+### [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)
+
+🗓 **2026-11-20** ｜ ⭐️ **130 stars** ｜ 🗂 **HTML**
+
+Builds Cinema 4D Sacerin motion scenes through a structured studio workflow.
+
+---
+
+### [huygenshin220607-blip/3ds-max-modeler](https://github.com/huygenshin220607-blip/3ds-max-modeler)
+
+🗓 **2026-11-20** ｜ ⭐️ **130 stars** ｜ 🗂 **HTML**
+
+Builds editable 3D models in 3ds Max - supports mesh construction and scene-ready output.
 
 ---
 
