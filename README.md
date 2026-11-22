@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [ahmedbkareno1-stack/windows-activation-script-lekalin](https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin)
+### [nickghq00x1/bubble-gum-simulator-infinity-script-x64](https://github.com/nickghq00x1/bubble-gum-simulator-infinity-script-x64)
 
-🗓 **2026-11-20** ｜ ⭐️ **139 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-21** ｜ ⭐️ **230 stars** ｜ 🗂 **Jupyter Notebook**
 
-Streamline Windows setup with Lekalin, a practical setup scripting tool.
-
----
-
-### [lidija52/filmora-license-short-video-studio](https://github.com/lidija52/filmora-license-short-video-studio)
-
-🗓 **2026-11-20** ｜ ⭐️ **134 stars** ｜ 🗂 **HTML**
-
-Compact studio for short-form video editing and terms-aware project workflows.
+Bubble Gum Simulator Infinity (BGSI) Script — Auto-Blow, Fast Hatch Secret Pets & Rift ESP (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
 ---
 
-### [heracliomc-create/vegas-pro-23-bebaron](https://github.com/heracliomc-create/vegas-pro-23-bebaron)
+### [alexpetrovx1903z9/switch-firmware-19-keys-pack](https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack)
 
-🗓 **2026-11-20** ｜ ⭐️ **131 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-21** ｜ ⭐️ **225 stars** ｜ 🗂 **Jupyter Notebook**
 
-Professional video editing suite with timeline-based tools for multi-track projects.
-
----
-
-### [bgleeson180-afk/cinema-4d-sacerin-motion-studio](https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio)
-
-🗓 **2026-11-20** ｜ ⭐️ **130 stars** ｜ 🗂 **HTML**
-
-Builds Cinema 4D Sacerin motion scenes through a structured studio workflow.
+Switch Emulator Firmware 19.0.1 + Keys Installer for Sudachi, Citron, Suyu & NSP-Box: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
 ---
 
-### [huygenshin220607-blip/3ds-max-modeler](https://github.com/huygenshin220607-blip/3ds-max-modeler)
+### [ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11](https://github.com/ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11)
 
-🗓 **2026-11-20** ｜ ⭐️ **130 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-21** ｜ ⭐️ **225 stars** ｜ 🗂 **C++**
 
-Builds editable 3D models in 3ds Max - supports mesh construction and scene-ready output.
+Escape from Tarkov SPT-AKI 3.10 Profile Editor, Flea Unlocker & BattlEye smbios-utility (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+
+---
+
+### [sergey-techdev1998d6/fisch-script-macro-win11](https://github.com/sergey-techdev1998d6/fisch-script-macro-win11)
+
+🗓 **2026-11-21** ｜ ⭐️ **224 stars** ｜ 🗂 **Jupyter Notebook**
+
+Fisch Script & Macro V12 — Auto-Cast, Instant Reel, Duping & Aurora Totem Hub (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+
+---
+
+### [sam-lee-dev1990s2/poe2-auto-flask-cheat-hud-win11](https://github.com/sam-lee-dev1990s2/poe2-auto-flask-cheat-hud-win11)
+
+🗓 **2026-11-21** ｜ ⭐️ **218 stars** ｜ 🗂 **Jupyter Notebook**
+
+PoE 2 external-overlay HUD (ExileAPI) — Auto-Flask, Auto-Dodge, Rare Monster ESP & Price Check (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
 
 ---
 
