@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [nickghq00x1/bubble-gum-simulator-infinity-script-x64](https://github.com/nickghq00x1/bubble-gum-simulator-infinity-script-x64)
+### [be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen](https://github.com/be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen)
 
-🗓 **2026-11-21** ｜ ⭐️ **230 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
 
-Bubble Gum Simulator Infinity (BGSI) Script — Auto-Blow, Fast Hatch Secret Pets & Rift ESP (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
-
----
-
-### [alexpetrovx1903z9/switch-firmware-19-keys-pack](https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack)
-
-🗓 **2026-11-21** ｜ ⭐️ **225 stars** ｜ 🗂 **Jupyter Notebook**
-
-Switch Emulator Firmware 19.0.1 + Keys Installer for Sudachi, Citron, Suyu & NSP-Box: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+AI IDE system utilities for Cursor Pro V0 47 Cefalen, built for practical developer workflows.
 
 ---
 
-### [ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11](https://github.com/ben-tech-lab1999h1/spt-aki-profile-editor-tarkov-win11)
+### [DRONSH/jujutsu-infinite-script-damaron](https://github.com/DRONSH/jujutsu-infinite-script-damaron)
 
-🗓 **2026-11-21** ｜ ⭐️ **225 stars** ｜ 🗂 **C++**
+🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
 
-Escape from Tarkov SPT-AKI 3.10 Profile Editor, Flea Unlocker & BattlEye smbios-utility (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
-
----
-
-### [sergey-techdev1998d6/fisch-script-macro-win11](https://github.com/sergey-techdev1998d6/fisch-script-macro-win11)
-
-🗓 **2026-11-21** ｜ ⭐️ **224 stars** ｜ 🗂 **Jupyter Notebook**
-
-Fisch Script & Macro V12 — Auto-Cast, Instant Reel, Duping & Aurora Totem Hub (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+In-game helpers and live readouts for Jujutsu Infinite - built for real play.
 
 ---
 
-### [sam-lee-dev1990s2/poe2-auto-flask-cheat-hud-win11](https://github.com/sam-lee-dev1990s2/poe2-auto-flask-cheat-hud-win11)
+### [joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen](https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen)
 
-🗓 **2026-11-21** ｜ ⭐️ **218 stars** ｜ 🗂 **Jupyter Notebook**
+🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
 
-PoE 2 external-overlay HUD (ExileAPI) — Auto-Flask, Auto-Dodge, Rare Monster ESP & Price Check (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.
+Build and run mods for Slay the Spire 2 with a developer console built in.
+
+---
+
+### [muptezel1bay/biped-2-coop-veramir](https://github.com/muptezel1bay/biped-2-coop-veramir)
+
+🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
+
+Team up with a friend to explore Biped 2 Coop Veramir together.
+
+---
+
+### [guygamer527/chained-together-coop-dekalor](https://github.com/guygamer527/chained-together-coop-dekalor)
+
+🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
+
+Play together in a shared cooperative adventure built for connected teamwork.
 
 ---
 
