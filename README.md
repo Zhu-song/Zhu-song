@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen](https://github.com/be240116-afk/ai-ide-system-utilities-cursor-pro-v0-47-cefalen)
+### [devvern1/dlss-5-swapper-compatibility](https://github.com/devvern1/dlss-5-swapper-compatibility)
 
-🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-23** ｜ ⭐️ **178 stars** ｜ 🗂 **HTML**
 
-AI IDE system utilities for Cursor Pro V0 47 Cefalen, built for practical developer workflows.
-
----
-
-### [DRONSH/jujutsu-infinite-script-damaron](https://github.com/DRONSH/jujutsu-infinite-script-damaron)
-
-🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
-
-In-game helpers and live readouts for Jujutsu Infinite - built for real play.
+Mod your setup and swap DLLs with Dlss 5 Swapper Compatibility.
 
 ---
 
-### [joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen](https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen)
+### [injectingon5m-alt/pubg-map-hack](https://github.com/injectingon5m-alt/pubg-map-hack)
 
-🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-23** ｜ ⭐️ **178 stars** ｜ 🗂 **HTML**
 
-Build and run mods for Slay the Spire 2 with a developer console built in.
-
----
-
-### [muptezel1bay/biped-2-coop-veramir](https://github.com/muptezel1bay/biped-2-coop-veramir)
-
-🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
-
-Team up with a friend to explore Biped 2 Coop Veramir together.
+Live map intel and HUD overlays that keep PUBG squad decisions sharp.
 
 ---
 
-### [guygamer527/chained-together-coop-dekalor](https://github.com/guygamer527/chained-together-coop-dekalor)
+### [isadhanjana-cpu/gta-5-enhanced-mod-menu](https://github.com/isadhanjana-cpu/gta-5-enhanced-mod-menu)
 
-🗓 **2026-11-22** ｜ ⭐️ **250 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-23** ｜ ⭐️ **178 stars** ｜ 🗂 **HTML**
 
-Play together in a shared cooperative adventure built for connected teamwork.
+In-game tools and live stats for GTA 5 Enhanced, built for quick access.
+
+---
+
+### [lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan](https://github.com/lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan)
+
+🗓 **2026-11-23** ｜ ⭐️ **177 stars** ｜ 🗂 **HTML**
+
+Built by the community, for the community - sniping tools and features for FC 26
+
+---
+
+### [cfiset41-lab/fiddler-everywhere-fasaron](https://github.com/cfiset41-lab/fiddler-everywhere-fasaron)
+
+🗓 **2026-11-23** ｜ ⭐️ **177 stars** ｜ 🗂 **HTML**
+
+Inspect, intercept, and modify HTTP traffic to debug web requests.
 
 ---
 
