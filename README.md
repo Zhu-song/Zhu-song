@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [hazelbryant785/umbrellalabs](https://github.com/hazelbryant785/umbrellalabs)
+### [HaiderHassan06/fling-things-and-people](https://github.com/HaiderHassan06/fling-things-and-people)
 
-🗓 **2026-11-25** ｜ ⭐️ **42 stars** ｜ 🗂 **C++**
+🗓 **2026-11-26** ｜ ⭐️ **34 stars** ｜ 🗂 **HTML**
 
-暂无描述
-
----
-
-### [PitJuniorEnumerate/ANIME-CRUSADERS-X-MACRO](https://github.com/PitJuniorEnumerate/ANIME-CRUSADERS-X-MACRO)
-
-🗓 **2026-11-25** ｜ ⭐️ **23 stars** ｜ 🗂 **未知**
-
-暂无描述
+Physics-driven chaos: grab, launch, and toss ragdolls with friends.
 
 ---
 
-### [darkworldhm/victory-fork-darkworldhm](https://github.com/darkworldhm/victory-fork-darkworldhm)
+### [jon1224/anime-adventures-helper](https://github.com/jon1224/anime-adventures-helper)
 
-🗓 **2026-11-25** ｜ ⭐️ **19 stars** ｜ 🗂 **Rust**
+🗓 **2026-11-26** ｜ ⭐️ **33 stars** ｜ 🗂 **HTML**
 
-暂无描述
-
----
-
-### [scarletkc/dsh-no-telemetry](https://github.com/scarletkc/dsh-no-telemetry)
-
-🗓 **2026-11-25** ｜ ⭐️ **18 stars** ｜ 🗂 **JavaScript**
-
-Turn off DeepSeek Harness telemetry and session-log uploads, strip identity headers - with a sandboxed packet-capture verify script.
+Real-time Anime Adventures companion showing unit stats and wave intel in-game.
 
 ---
 
-### [Olmectron/nx2-flow](https://github.com/Olmectron/nx2-flow)
+### [TSITSI016/practical-basketball](https://github.com/TSITSI016/practical-basketball)
 
-🗓 **2026-11-25** ｜ ⭐️ **10 stars** ｜ 🗂 **C**
+🗓 **2026-11-26** ｜ ⭐️ **33 stars** ｜ 🗂 **HTML**
 
-A WiiFlow-like shelf and loader that runs Switch 2 games straight from NUP files (homebrew, experimental)
+Practical Basketball delivers clear on-court reads and HUD info without touching core play.
+
+---
+
+### [ashutosh674/ronix-output-display](https://github.com/ashutosh674/ronix-output-display)
+
+🗓 **2026-11-26** ｜ ⭐️ **32 stars** ｜ 🗂 **HTML**
+
+Surfaces Ronix output data in a clear on-screen display for fast in-game reference.
+
+---
+
+### [Tanyaklansuk/tap-simulator-reborn-mod-menu](https://github.com/Tanyaklansuk/tap-simulator-reborn-mod-menu)
+
+🗓 **2026-11-26** ｜ ⭐️ **32 stars** ｜ 🗂 **HTML**
+
+In-game control panel for Tap Simulator Reborn players seeking quick menu options.
 
 ---
 
