@@ -10,43 +10,43 @@
 
 ## My Latest Trending Repos 👇
 
-### [HaiderHassan06/fling-things-and-people](https://github.com/HaiderHassan06/fling-things-and-people)
+### [sergeijang/windows-11-activator](https://github.com/sergeijang/windows-11-activator)
 
-🗓 **2026-11-26** ｜ ⭐️ **34 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-27** ｜ ⭐️ **466 stars** ｜ 🗂 **Go**
 
-Physics-driven chaos: grab, launch, and toss ragdolls with friends.
-
----
-
-### [jon1224/anime-adventures-helper](https://github.com/jon1224/anime-adventures-helper)
-
-🗓 **2026-11-26** ｜ ⭐️ **33 stars** ｜ 🗂 **HTML**
-
-Real-time Anime Adventures companion showing unit stats and wave intel in-game.
+Windows 11 Activator — Windows 11 Activator
 
 ---
 
-### [TSITSI016/practical-basketball](https://github.com/TSITSI016/practical-basketball)
+### [lindawu10389/cs2-cheat](https://github.com/lindawu10389/cs2-cheat)
 
-🗓 **2026-11-26** ｜ ⭐️ **33 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-27** ｜ ⭐️ **355 stars** ｜ 🗂 **Go**
 
-Practical Basketball delivers clear on-court reads and HUD info without touching core play.
-
----
-
-### [ashutosh674/ronix-output-display](https://github.com/ashutosh674/ronix-output-display)
-
-🗓 **2026-11-26** ｜ ⭐️ **32 stars** ｜ 🗂 **HTML**
-
-Surfaces Ronix output data in a clear on-screen display for fast in-game reference.
+CS2 Cheat — CS2 Cheats
 
 ---
 
-### [Tanyaklansuk/tap-simulator-reborn-mod-menu](https://github.com/Tanyaklansuk/tap-simulator-reborn-mod-menu)
+### [schmidt21402/hwid-spoofer](https://github.com/schmidt21402/hwid-spoofer)
 
-🗓 **2026-11-26** ｜ ⭐️ **32 stars** ｜ 🗂 **HTML**
+🗓 **2026-11-27** ｜ ⭐️ **355 stars** ｜ 🗂 **Go**
 
-In-game control panel for Tap Simulator Reborn players seeking quick menu options.
+HWID Spoofer — HWID Spoofer
+
+---
+
+### [SecoteFiv29/polymarket-bot](https://github.com/SecoteFiv29/polymarket-bot)
+
+🗓 **2026-11-27** ｜ ⭐️ **355 stars** ｜ 🗂 **Go**
+
+Polymarket Bot — Polymarket Bot
+
+---
+
+### [ryu61903/rust-cheat](https://github.com/ryu61903/rust-cheat)
+
+🗓 **2026-11-27** ｜ ⭐️ **355 stars** ｜ 🗂 **Go**
+
+Rust Cheat — Rust Cheats
 
 ---
 
